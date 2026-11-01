@@ -9,7 +9,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "\"Phần đường xe chạy\" là định nghĩa chính xác nhất theo Luật Giao thông đường bộ, dùng để chỉ toàn bộ khu vực dành cho mọi phương tiện giao thông (cơ giới và thô sơ) di chuyển. Đáp án này bao quát chức năng sử dụng đường của tất cả các loại xe. Các lựa chọn khác như \"mặt đường và lề đường\" không đúng hoàn toàn, còn \"phần đường xe cơ giới\" chỉ dành riêng cho một số loại xe nhất định. Mẹo: Cứ thấy câu hỏi về \"phần đường bộ được sử dụng cho **phương tiện giao thông đường bộ đi lại**\", hãy chọn đáp án có cụm từ \"xe chạy\" vì nó bao hàm nghĩa rộng nhất, cho tất cả các loại xe.",
+    "explain": "Theo khoản 5 Điều 2 Luật Trật tự, an toàn giao thông đường bộ (TTATGTĐB), \"phần đường xe chạy\" chính là phần của đường bộ dùng cho phương tiện đi lại. Lề đường không phải chỗ cho xe chạy, còn \"phần đường xe cơ giới\" chỉ là một phần nhỏ hơn nên không đúng định nghĩa.",
     "image": ""
   },
   {
@@ -22,7 +22,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Làn đường không chỉ đơn thuần là một phần đường để xe chạy mà còn phải đảm bảo có đủ chiều rộng để phương tiện di chuyển an toàn. Yếu tố \"đủ chiều rộng\" và \"an toàn\" là điểm mấu chốt để phân biệt với các khái niệm khác và đảm bảo đúng theo quy định pháp luật. Mẹo: Khi gặp câu hỏi về \"Làn đường\", hãy tìm cụm từ khóa \"đủ chiều rộng\" và \"an toàn\" trong đáp án nhé!",
+    "explain": "Khoản 6 Điều 2 Luật TTATGTĐB định nghĩa làn đường là một phần của phần đường xe chạy được chia theo chiều dọc, và quan trọng là phải \"có đủ chiều rộng cho xe chạy an toàn\". Đáp án 1 thiếu ý an toàn, đáp án 3 sai vì làn đường không dùng để dừng, đỗ.",
     "image": ""
   },
   {
@@ -35,7 +35,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Khổ giới hạn của đường bộ bao gồm cả kích thước giới hạn về chiều rộng và chiều cao của toàn bộ tuyến đường. Điều này đảm bảo mọi phương tiện, kể cả hàng hóa xếp trên xe, đều có thể đi qua an toàn và được quy định rõ ràng theo các tiêu chuẩn kỹ thuật. Các đáp án còn lại đều thiếu một trong hai yếu tố quan trọng (chiều rộng hoặc chiều cao) hoặc chưa đủ bao quát toàn bộ khái niệm. Mẹo: Khi gặp định nghĩa \"khổ giới hạn\", hãy chọn đáp án nào bao gồm cả \"chiều rộng\" và \"chiều cao\", áp dụng cho \"đường bộ\" và có cụm từ \"quy chuẩn, tiêu chuẩn kỹ thuật\" để có câu trả lời chuẩn xác nhất.",
+    "explain": "Khổ giới hạn là khoảng trống giới hạn về CẢ chiều rộng VÀ chiều cao của đường bộ để xe (kể cả hàng xếp trên xe) đi qua an toàn, xác định theo quy chuẩn, tiêu chuẩn kỹ thuật (Luật Đường bộ 2024). Đáp án 2 chỉ nói chiều rộng, đáp án 3 chỉ nói chiều cao nên đều thiếu.",
     "image": ""
   },
   {
@@ -48,7 +48,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Dải phân cách có vai trò cốt lõi trong việc đảm bảo an toàn và trật tự giao thông. Chức năng chính của nó là phân chia rõ ràng hai chiều xe chạy riêng biệt, hoặc tách biệt các làn đường dành cho những loại phương tiện khác nhau (ví dụ xe cơ giới và xe thô sơ) ngay cả trên cùng một chiều đường. Điều này giúp giảm thiểu nguy cơ va chạm trực diện và tổ chức luồng giao thông một cách khoa học, hiệu quả. Mẹo: Hãy hình dung dải phân cách như một \"ranh giới cứng\" giúp \"chia ô\" trên mặt đường, đảm bảo các dòng xe không lấn chiếm nhau, đặc biệt là xe đi ngược chiều hoặc xe khác loại.",
+    "explain": "Dải phân cách dùng để tách phần đường xe chạy thành hai chiều riêng biệt, hoặc tách phần đường xe cơ giới với xe thô sơ, hay các loại xe khác nhau trên cùng một chiều. Đường cao tốc không có xe thô sơ nên đáp án 1 sai; dải phân cách cũng không dùng để tách hành lang an toàn.",
     "image": ""
   },
   {
@@ -62,7 +62,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Vạch kẻ đường, đúng như đáp án đã nêu, chính là những đường vạch được vẽ trực tiếp trên mặt đường. Chúng có vai trò cụ thể là phân chia các làn đường, chỉ dẫn cho người lái xe về vị trí hoặc hướng đi cần tuân thủ, và xác định các vị trí dừng, đỗ xe an toàn. Đây là định nghĩa đầy đủ và chính xác nhất, mô tả đúng bản chất và chức năng chính của vạch kẻ đường trong quy chuẩn báo hiệu đường bộ. Mẹo: Cứ nhớ vạch kẻ đường là để \"chia\", \"chỉ\" và \"định vị\" mọi thứ trên mặt đường là đúng!",
+    "explain": "Khoản 6 Điều 11 Luật TTATGTĐB nêu rõ: vạch kẻ đường là vạch chỉ sự phân chia làn đường, vị trí hoặc hướng đi, vị trí dừng lại. Ý 1 là công dụng của thiết bị âm thanh báo hiệu, ý 3 là công dụng của cột Km, cọc H.",
     "image": ""
   },
   {
@@ -75,7 +75,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Theo Luật Giao thông đường bộ, \"người điều khiển phương tiện tham gia giao thông đường bộ\" được hiểu là những người trực tiếp vận hành xe cơ giới, xe thô sơ và xe máy chuyên dùng trên đường. Đáp án này mô tả chính xác chủ thể điều khiển các loại phương tiện. Đáp án còn lại (người hướng dẫn giao thông) là định nghĩa của \"người điều khiển giao thông\", có vai trò khác biệt, không trực tiếp lái phương tiện. Mẹo: \"Điều khiển *phương tiện*\" là *lái xe*; \"Điều khiển *giao thông*\" là *hướng dẫn, điều tiết*.",
+    "explain": "Theo khoản 9 Điều 2 Luật TTATGTĐB, người điều khiển phương tiện gồm người điều khiển xe cơ giới (người lái xe), xe thô sơ và xe máy chuyên dùng. Người hướng dẫn giao thông là \"người điều khiển giao thông\" – một khái niệm khác.",
     "image": ""
   },
   {
@@ -88,7 +88,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Theo Luật Giao thông đường bộ, khái niệm \"Người lái xe\" được quy định cụ thể là người điều khiển xe cơ giới. Điều này giúp phân biệt rõ ràng với người điều khiển xe thô sơ hoặc xe máy chuyên dùng, vốn có các định nghĩa riêng trong luật. Chỉ người điều khiển xe cơ giới mới được gọi là \"người lái xe\" và cần có Giấy phép lái xe. Mẹo: Hãy nhớ rằng \"Lái xe\" (hành động lái) luôn gắn liền với \"Cơ giới\" (loại xe có động cơ), còn các loại khác dùng từ \"điều khiển\" chung chung hơn.",
+    "explain": "Khoản 9 Điều 2 Luật TTATGTĐB ghi rõ: người điều khiển xe cơ giới được gọi là \"người lái xe\". Người điều khiển xe thô sơ hay xe máy chuyên dùng không gọi là người lái xe.",
     "image": ""
   },
   {
@@ -100,7 +100,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Đáp án đúng đã liệt kê đủ nhóm phương tiện được Luật Giao thông đường bộ quy định là xe cơ giới, bao gồm cả ô tô, mô tô, xe gắn máy và cả rơ moóc, sơ mi rơ moóc khi được kéo bởi xe cơ giới. Các xe chở người/hàng bốn bánh có động cơ cũng thuộc nhóm này. Đặc biệt lưu ý, xe đạp, xe đạp máy, xe đạp điện không phải là xe cơ giới đâu nhé! Mẹo: Cứ thấy \"xe đạp\", \"xe đạp điện\" trong danh sách là loại ngay khỏi nhóm xe cơ giới. Xe cơ giới là phải có động cơ mạnh mẽ để tự vận hành độc lập!",
+    "explain": "Theo khoản 1 Điều 34 Luật TTATGTĐB, xe cơ giới gồm: xe ô tô, rơ moóc, sơ mi rơ moóc được kéo bởi ô tô, xe chở người/chở hàng bốn bánh có gắn động cơ, xe mô tô, xe gắn máy và xe tương tự. Đáp án 1 sai vì lẫn máy kéo, xe máy chuyên dùng và xe đạp (xe thô sơ) vào.",
     "image": ""
   },
   {
@@ -113,7 +113,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "\"Xe thô sơ\" là nhóm phương tiện di chuyển chủ yếu bằng sức người, sức vật hoặc có động cơ với công suất rất nhỏ, không được xếp vào loại xe cơ giới. Đáp án đúng liệt kê chính xác các phương tiện này, bao gồm cả xe đạp máy và xe đạp điện vốn tuy có động cơ nhưng theo Luật Giao thông đường bộ vẫn thuộc nhóm xe thô sơ. Các đáp án còn lại đều chứa \"xe gắn máy\", \"xe ô tô\" hay \"máy chuyên dùng\" - những phương tiện này rõ ràng là xe cơ giới nên không đúng nhé! Mẹo: Cứ thấy \"thô sơ\" là nghĩ ngay đến \"ít sức mạnh\", đa phần do người hoặc vật kéo, hoặc động cơ cực yếu, không có máy móc phức tạp như xe máy, ô tô đâu nha.",
+    "explain": "Khoản 2 Điều 34 Luật TTATGTĐB: xe thô sơ gồm xe đạp, xe đạp máy (kể cả xe đạp điện), xích lô, xe lăn cho người khuyết tật, xe vật nuôi kéo và xe tương tự. Xe gắn máy, ô tô, máy kéo đều không phải xe thô sơ.",
     "image": ""
   },
   {
@@ -126,7 +126,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Phương tiện giao thông đường bộ được định nghĩa rất rộng, bao gồm tất cả các loại phương tiện tham gia giao thông trên đường bộ. Cụ thể, chúng ta có **phương tiện giao thông cơ giới đường bộ** (như ô tô, xe máy) và **phương tiện giao thông thô sơ đường bộ** (như xe đạp, xe xích lô) cùng với **xe máy chuyên dùng**. Chỉ khi chọn cả hai ý trên mới bao quát đầy đủ khái niệm này theo Luật Giao thông đường bộ. Mẹo: Khi câu hỏi hỏi về các thành phần cấu tạo nên một khái niệm \"tổng thể\" (ví dụ: \"gồm những loại nào\"), nếu các đáp án nhỏ là các \"nhóm thành phần\" khác nhau và có lựa chọn \"Cả hai ý trên\" (hoặc \"Tất cả các ý trên\"), thì đó thường là đáp án đúng.",
+    "explain": "Khoản 2 Điều 2 Luật TTATGTĐB: phương tiện giao thông đường bộ gồm xe cơ giới, xe thô sơ, xe máy chuyên dùng và các loại xe tương tự. Vì vậy cả hai ý đều đúng.",
     "image": ""
   },
   {
@@ -139,7 +139,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Người tham gia giao thông đường bộ là một khái niệm rất rộng, bao gồm tất cả những ai có mặt và di chuyển trên đường. Từ người điều khiển, người ngồi trên phương tiện đến người đi bộ hay người dẫn dắt vật nuôi, tất cả đều là người tham gia giao thông. Chính vì thế, cả hai ý trên đều đúng khi liệt kê các đối tượng này. Mẹo: Đối với các câu hỏi về khái niệm tổng quát như \"Người tham gia giao thông\", nếu các phương án nhỏ đều đúng và có lựa chọn \"Cả hai ý trên\", thì đó thường là đáp án chính xác.",
+    "explain": "Khoản 8 Điều 2 Luật TTATGTĐB: người tham gia giao thông gồm người điều khiển, người được chở trên phương tiện; người điều khiển, dẫn dắt vật nuôi; người đi bộ trên đường bộ. Hai ý gộp lại mới đầy đủ.",
     "image": ""
   },
   {
@@ -152,7 +152,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Theo Luật Giao thông đường bộ, khái niệm \"người điều khiển phương tiện tham gia giao thông\" được hiểu rất rộng, bao gồm tất cả những ai đang điều khiển bất kỳ loại phương tiện nào trên đường. Điều này có nghĩa là bao gồm cả người lái xe cơ giới (ô tô, mô tô), người điều khiển xe thô sơ (như xe đạp, xe súc vật kéo) và cả người điều khiển xe máy chuyên dùng (ví dụ: máy kéo, xe lu, xe xúc). Do đó, để bao quát hết các đối tượng này, đáp án \"Cả hai ý trên\" là hoàn toàn chính xác. Mẹo: Với những câu hỏi liệt kê các thành phần rộng (như \"người điều khiển\", \"phương tiện\", \"người tham gia\") và có đáp án \"Cả hai ý trên\" hoặc \"Tất cả các ý trên\", khả năng rất cao đây là đáp án đúng vì luật thường bao quát toàn diện.",
+    "explain": "Khoản 9 Điều 2 Luật TTATGTĐB: người điều khiển phương tiện gồm người điều khiển xe cơ giới, xe thô sơ và xe máy chuyên dùng – nên chọn cả hai ý.",
     "image": ""
   },
   {
@@ -165,7 +165,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "\"Người điều khiển giao thông\" theo quy định của pháp luật đường bộ chính là Cảnh sát giao thông và những người được cấp thẩm quyền giao nhiệm vụ hướng dẫn, điều tiết giao thông tại các giao lộ hay điểm ùn tắc. Họ có vai trò thiết yếu trong việc đảm bảo trật tự và an toàn giao thông, và hiệu lệnh của họ có giá trị ưu tiên cao nhất, thậm chí hơn cả đèn tín hiệu hay biển báo. Các đáp án khác mô tả những người tham gia giao thông, không phải người điều khiển, hướng dẫn giao thông. Mẹo: Khi nghĩ đến \"người điều khiển giao thông\", hãy nghĩ đến người có *quyền ra hiệu lệnh* và bạn phải *tuyệt đối tuân theo*.",
+    "explain": "Khoản 10 Điều 2 Luật TTATGTĐB: người điều khiển giao thông là Cảnh sát giao thông và người được giao nhiệm vụ hướng dẫn giao thông trên đường bộ, không phải người lái xe hay người tham gia giao thông nói chung.",
     "image": ""
   },
   {
@@ -178,7 +178,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Là trạng thái đứng yên tạm thời của xe trong một khoảng thời gian cần thiết đủ để cho người lên xe, xuống xe, xếp dỡ hàng hóa, kiểm tra kỹ thuật xe hoặc hoạt động khác. Khi dừng xe không được tắt máy và không được rời khỏi vị trí lái, trừ trường hợp rời khỏi vị trí lái để đóng, mở cửa xe, xếp dỡ hàng hóa, kiểm tra kỹ thuật xe nhưng phải sử dụng phanh đỗ xe hoặc thực hiện biện pháp an toàn khác.”.",
+    "explain": "Khoản 1 Điều 18 Luật TTATGTĐB: dừng xe là trạng thái đứng yên TẠM THỜI, chỉ đủ để người lên xuống, xếp dỡ hàng, kiểm tra xe...; khi dừng không được tắt máy, không rời vị trí lái (trừ trường hợp được phép và phải dùng phanh đỗ). \"Không giới hạn thời gian\" là đặc điểm của đỗ xe nên các đáp án còn lại sai.",
     "image": ""
   },
   {
@@ -190,7 +190,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Là trạng thái đứng yên của xe không giới hạn thời gian. Khi đỗ xe, người điều khiển phương tiện tham gia giao thông đường bộ chỉ được rời khỏi xe khi đã sử dụng phanh đỗ xe hoặc thực hiện biện pháp an toàn khác. Xe đỗ trên đoạn đường dốc phải đánh lái về phía lề đường, chèn bánh.”.",
+    "explain": "Khoản 2 Điều 18 Luật TTATGTĐB: đỗ xe là trạng thái đứng yên KHÔNG giới hạn thời gian; chỉ được rời xe khi đã dùng phanh đỗ hoặc biện pháp an toàn khác; đỗ trên dốc phải đánh lái về phía lề và chèn bánh. Đáp án 1 \"có giới hạn thời gian\" là mô tả dừng xe.",
     "image": ""
   },
   {
@@ -202,7 +202,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Là một cấp kỹ thuật của đường bộ, chỉ dành cho một số loại xe cơ giới, xe máy chuyên dùng tham gia giao thông theo quy định của pháp luật. Có dải phân cách phân chia hai chiều xe chạy riêng biệt, không giao nhau cùng mức với một hoặc các đường khác, chỉ cho xe ra, vào ở những điểm nhất định. Có hàng rào bảo vệ, trang thiết bị phục vụ, bảo đảm giao thông liên tục, an toàn, rút ngắn thời gian hành trình.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Theo Luật Đường bộ 2024, đường cao tốc là một cấp kỹ thuật của đường bộ chỉ dành cho một số loại xe cơ giới, có dải phân cách, không giao cắt cùng mức, chỉ ra vào ở điểm nhất định, có hàng rào bảo vệ. Đáp án 2 là định nghĩa của quốc lộ.",
     "image": ""
   },
   {
@@ -214,7 +214,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Là thiết bị có đủ khả năng bảo đảm an toàn cho trẻ em ở tư thế ngồi hoặc nằm trên xe ô tô, được thiết kế để giảm nguy cơ chấn thương cho người dùng trong trường hợp xảy ra va chạm hoặc xe ô tô giảm tốc độ đột ngột, bằng cách hạn chế sự di chuyển của cơ thể trẻ em.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Khoản 13 Điều 2 Luật TTATGTĐB: thiết bị an toàn cho trẻ em bảo vệ trẻ ở tư thế NGỒI hoặc NẰM, giảm chấn thương khi va chạm hoặc xe giảm tốc đột ngột bằng cách hạn chế cơ thể trẻ di chuyển. Đáp án 2 sai vì nói tư thế đứng và lưu thông bình thường.",
     "image": ""
   },
   {
@@ -227,7 +227,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Đường chính, đường nhánh, đường gom, đường bên, đường dành cho giao thông công cộng, đường nội bộ, đường dành riêng cho người đi bộ, người đi xe đạp và các đường khác.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Luật Đường bộ 2024 phân loại theo chức năng phục vụ gồm: đường chính, đường nhánh, đường gom, đường bên, đường dành cho giao thông công cộng, đường nội bộ, đường dành riêng cho người đi bộ, người đi xe đạp và các đường khác. Đáp án 2 thiếu \"đường bên\", đáp án 3 thiếu \"đường nội bộ\".",
     "image": ""
   },
   {
@@ -240,7 +240,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": true,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Rải vật sắc nhọn, đổ chất gây trơn trượt trên đường bộ.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 20 Điều 9 Luật TTATGTĐB nghiêm cấm rải vật sắc nhọn, đổ chất gây trơn trượt trên đường bộ vì rất dễ gây tai nạn. Còn đi xe đạp trên quốc lộ thì không bị cấm.",
     "image": ""
   },
   {
@@ -253,7 +253,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": true,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Cả hai ý trên.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 8 Điều 9 Luật TTATGTĐB cấm đưa xe cơ giới không bảo đảm an toàn kỹ thuật, bảo vệ môi trường tham gia giao thông. Xe không có chứng nhận kiểm định hoặc đã hết niên hạn sử dụng (Điều 40) đều không đủ điều kiện, nên cả hai đều bị cấm.",
     "image": ""
   },
   {
@@ -266,7 +266,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": true,
-    "explain": "Chọn đáp án đúng “Được cơ quan có thẩm quyền cấp phép.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 5 Điều 9 Luật TTATGTĐB cấm tổ chức đua xe TRÁI PHÉP. Đua xe chỉ hợp pháp khi được cơ quan có thẩm quyền cấp phép; đường vắng hay được người dân ủng hộ đều không làm việc đua xe trở nên hợp pháp.",
     "image": ""
   },
   {
@@ -278,7 +278,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": true,
-    "explain": "Chọn đáp án đúng “Tùy theo mức độ của hành vi vi phạm có thể bị xử lý hành chính hoặc xử lý hình sự.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Đua xe trái phép bị nghiêm cấm (khoản 5 Điều 9). Tùy tính chất, mức độ, người vi phạm có thể bị xử phạt hành chính (phạt tiền, tước GPLX, tịch thu xe) hoặc truy cứu trách nhiệm hình sự – không bao giờ chỉ là nhắc nhở.",
     "image": ""
   },
   {
@@ -291,7 +291,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": true,
-    "explain": "Nguyên tắc 'đã uống rượu bia thì không lái xe' và tuyệt đối không lái khi có chất ma túy. Vi phạm bị phạt tiền và có thể tước GPLX. Đáp án: “Cả hai ý trên.”. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Lái xe khi trong cơ thể có chất ma túy bị nghiêm cấm (khoản 3 Điều 9). Theo Nghị định xử phạt (NĐ 168/2024), người lái ô tô vi phạm bị phạt tiền mức rất cao và đồng thời bị tước quyền sử dụng giấy phép lái xe, nên chọn cả hai.",
     "image": ""
   },
   {
@@ -304,7 +304,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": true,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Bị nghiêm cấm.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 2 Điều 9 Luật TTATGTĐB nghiêm cấm điều khiển phương tiện mà trong máu hoặc hơi thở CÓ nồng độ cồn – tức là chỉ cần có cồn (dù ít) là vi phạm, không có mức \"nhẹ\" được chấp nhận.",
     "image": ""
   },
   {
@@ -317,7 +317,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": true,
-    "explain": "Nguyên tắc 'đã uống rượu bia thì không lái xe' và tuyệt đối không lái khi có chất ma túy. Vi phạm bị phạt tiền và có thể tước GPLX. Đáp án: “Cả hai ý trên.”. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Người lái ô tô có nồng độ cồn bị xử phạt theo Nghị định 168/2024: hình phạt chính là phạt tiền, kèm hình thức bổ sung là trừ điểm hoặc tước giấy phép lái xe tùy mức nồng độ. Vì vậy chọn cả hai ý.",
     "image": ""
   },
   {
@@ -330,7 +330,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": true,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Người điều khiển xe ô tô, xe mô tô, xe đạp, xe gắn máy.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Luật Phòng, chống tác hại của rượu, bia cấm người ĐIỀU KHIỂN phương tiện giao thông (ô tô, mô tô, xe đạp, xe gắn máy...) mà trong máu hoặc hơi thở có nồng độ cồn. Người được chở không bị cấm uống rượu, bia.",
     "image": ""
   },
   {
@@ -344,7 +344,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": true,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Cả ba ý trên.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 7 Điều 9 Luật TTATGTĐB cấm giao xe cơ giới cho người không đủ điều kiện điều khiển. Người chưa đủ tuổi, không có GPLX, hoặc GPLX đã bị trừ hết 12 điểm (Điều 58 – không được lái theo GPLX đó) đều không đủ điều kiện, nên cả ba đều đúng.",
     "image": ""
   },
   {
@@ -357,7 +357,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": true,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Cả hai ý trên.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 5 Điều 9 cấm lạng lách, đánh võng, rú ga liên tục; khoản 4 Điều 9 cấm xúc phạm, cản trở, không chấp hành hiệu lệnh, yêu cầu kiểm tra của người thi hành công vụ. Cả hai đều là hành vi bị nghiêm cấm.",
     "image": ""
   },
   {
@@ -369,7 +369,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Cải tạo trái phép; cố ý can thiệp làm sai lệch chỉ số trên đồng hồ báo quãng đường đã chạy của xe ô tô; cắt, hàn, tẩy xóa, đục sửa, đóng lại trái phép số khung, số động cơ của xe cơ giới, xe máy chuyên dùng.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Khoản 11 Điều 9 Luật TTATGTĐB cấm cải tạo trái phép, tua đồng hồ công-tơ-mét, đục sửa số khung, số máy. Còn cải tạo xe thành xe chở người phục vụ quốc phòng, an ninh là trường hợp ngoại lệ được phép (khoản 10 Điều 9).",
     "image": ""
   },
   {
@@ -382,7 +382,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": true,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Cả hai ý trên.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 16 Điều 9 cấm lắp, dùng thiết bị âm thanh, ánh sáng gây mất trật tự, an toàn giao thông; khoản 21 Điều 9 cấm cản trở người, phương tiện và ném gạch đá vào người, xe đang lưu thông. Vì vậy cả hai đều bị cấm.",
     "image": ""
   },
   {
@@ -395,7 +395,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Biển số xe là vật chứng quan trọng để cơ quan chức năng quản lý phương tiện và đảm bảo an ninh trật tự giao thông. Mọi hành vi sản xuất, sử dụng, mua, bán trái phép biển số xe đều làm sai lệch thông tin quản lý, gây khó khăn cho công tác kiểm soát và có thể tiếp tay cho các hành vi vi phạm pháp luật khác. Vì vậy, đây là hành vi bị pháp luật nghiêm cấm tuyệt đối, không có trường hợp ngoại lệ nào. Mẹo: Hãy nhớ rằng, bất cứ hành vi nào liên quan đến việc làm giả, làm sai lệch hoặc giao dịch trái phép các vật phẩm quản lý của nhà nước như biển số xe đều mặc định là BỊ NGHIÊM CẤM tuyệt đối.",
+    "explain": "Khoản 17 Điều 9 Luật TTATGTĐB nghiêm cấm sản xuất, sử dụng, mua, bán trái phép biển số xe trong mọi trường hợp.",
     "image": ""
   },
   {
@@ -408,7 +408,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": true,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Lạng lách, đánh võng, rú ga liên tục.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Lạng lách, đánh võng, rú ga liên tục bị nghiêm cấm theo khoản 5 Điều 9. Thay đổi tốc độ hay lái xe sau 23 giờ là hành vi bình thường, không bị cấm.",
     "image": ""
   },
   {
@@ -421,7 +421,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chính xác! Theo quy định hiện hành, hệ thống biển báo hiệu đường bộ của chúng ta gồm có 5 nhóm chính: Biển báo cấm, biển báo nguy hiểm, biển hiệu lệnh, biển chỉ dẫn và biển phụ. Mỗi nhóm có một nhiệm vụ riêng, giúp chúng ta nắm rõ thông tin và chấp hành luật giao thông an toàn trên mọi nẻo đường. Mẹo: Hãy nhớ có 3 nhóm chính là Cấm, Nguy hiểm, Hiệu lệnh, và 2 nhóm hỗ trợ là Chỉ dẫn, Phụ. Tổng cộng là 5 nhóm bạn nhé!",
+    "explain": "Khoản 5 Điều 11 Luật TTATGTĐB chia biển báo hiệu thành 5 nhóm: biển báo cấm, biển báo nguy hiểm, biển hiệu lệnh, biển chỉ dẫn và biển phụ.",
     "image": ""
   },
   {
@@ -434,7 +434,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": true,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn cho người đi bộ, xe lăn của người khuyết tật qua đường.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Điểm a khoản 3 Điều 12 Luật TTATGTĐB: tại nơi có vạch kẻ đường cho người đi bộ hoặc có người đi bộ, xe lăn đang qua đường, người lái phải quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn. Đáp án 1 thiếu bước quan sát và dừng lại, đáp án 3 tăng tốc là rất nguy hiểm.",
     "image": ""
   },
   {
@@ -448,7 +448,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": true,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Cả ba ý trên.”. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 3 Điều 12 Luật TTATGTĐB liệt kê các trường hợp phải quan sát, giảm tốc độ hoặc dừng lại, trong đó có: đường hẹp, vòng, đèo dốc; cầu cống hẹp, đường ngầm, hầm; trời mưa gió, sương khói, đường trơn lầy. Vì vậy cả ba ý đều đúng.",
     "image": ""
   },
   {
@@ -462,7 +462,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Thứ tự chấp hành: hiệu lệnh người điều khiển giao thông > tín hiệu đèn > biển báo/vạch. Với tín hiệu vàng: dừng trước vạch, trừ khi đã qua vạch; vàng nhấp nháy thì giảm tốc, quan sát. Đáp án: “Người tham gia giao thông đường bộ ở phía trước và phía sau người điều khiển phải dừng lại; người tham gia giao thông đường bộ ở phía bên phải và phía bên trái người điều khiển được đi tất cả các hướng.”.",
+    "explain": "Hình vẽ CSGT dang ngang hai tay (hoặc một tay). Theo điểm b khoản 3 Điều 11 Luật TTATGTĐB: người ở phía trước và phía sau người điều khiển phải dừng lại; người ở bên phải và bên trái được đi.",
     "image": "images/36.jpg"
   },
   {
@@ -476,7 +476,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Thứ tự chấp hành: hiệu lệnh người điều khiển giao thông > tín hiệu đèn > biển báo/vạch. Với tín hiệu vàng: dừng trước vạch, trừ khi đã qua vạch; vàng nhấp nháy thì giảm tốc, quan sát. Đáp án: “Người tham gia giao thông đường bộ ở tất cả các hướng phải dừng lại, trừ các xe đã ở trong khu vực giao nhau.”.",
+    "explain": "Hình vẽ CSGT giơ tay phải thẳng đứng. Theo điểm a khoản 3 Điều 11 Luật TTATGTĐB, đây là hiệu lệnh yêu cầu người tham gia giao thông ở tất cả các hướng phải dừng lại; xe đã ở trong khu vực giao nhau thì được đi tiếp để giải phóng nút giao.",
     "image": "images/37.jpg"
   },
   {
@@ -489,7 +489,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Thứ tự chấp hành: hiệu lệnh người điều khiển giao thông > tín hiệu đèn > biển báo/vạch. Với tín hiệu vàng: dừng trước vạch, trừ khi đã qua vạch; vàng nhấp nháy thì giảm tốc, quan sát. Đáp án: “Theo hiệu lệnh của người điều khiển giao thông.”.",
+    "explain": "Khoản 2 Điều 11 Luật TTATGTĐB quy định thứ tự ưu tiên chấp hành báo hiệu: hiệu lệnh người điều khiển giao thông đứng đầu, sau đó mới đến đèn tín hiệu, biển báo, vạch kẻ đường... Vì vậy khi mâu thuẫn phải theo hiệu lệnh người điều khiển giao thông.",
     "image": ""
   },
   {
@@ -502,7 +502,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Thứ tự chấp hành: hiệu lệnh người điều khiển giao thông > tín hiệu đèn > biển báo/vạch. Với tín hiệu vàng: dừng trước vạch, trừ khi đã qua vạch; vàng nhấp nháy thì giảm tốc, quan sát. Đáp án: “Biển báo hiệu tạm thời.”.",
+    "explain": "Khoản 12 Điều 11 Luật TTATGTĐB: nơi vừa có biển cố định vừa có biển tạm thời mà ý nghĩa khác nhau thì phải chấp hành biển tạm thời, vì biển tạm thời phản ánh tình trạng thực tế mới nhất của con đường (thi công, sự cố...).",
     "image": ""
   },
   {
@@ -515,7 +515,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Thứ tự chấp hành: hiệu lệnh người điều khiển giao thông > tín hiệu đèn > biển báo/vạch. Với tín hiệu vàng: dừng trước vạch, trừ khi đã qua vạch; vàng nhấp nháy thì giảm tốc, quan sát. Đáp án: “Dừng lại trước vạch dừng; trường hợp đang đi trên vạch dừng hoặc đã đi qua vạch dừng mà tín hiệu đèn màu vàng thì được đi tiếp; trường hợp tín hiệu đèn màu vàng nhấp nháy, người điều khiển phương tiện tham gia giao thông đường bộ được đi nhưng phải quan sát, giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường hoặc các phương tiện khác.”.",
+    "explain": "Điểm b khoản 4 Điều 11 Luật TTATGTĐB: đèn vàng phải dừng trước vạch dừng; nếu đã ở trên hoặc qua vạch dừng thì được đi tiếp; đèn vàng nhấp nháy thì được đi nhưng phải quan sát, giảm tốc, nhường đường cho người đi bộ và xe khác. Đèn vàng không phải tín hiệu để tăng tốc vượt qua.",
     "image": ""
   },
   {
@@ -528,7 +528,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Không vượt quá tốc độ tối đa cho phép.”.",
+    "explain": "Khoản 1 Điều 12 Luật TTATGTĐB yêu cầu người lái xe chấp hành quy định về tốc độ, tức là không được chạy quá tốc độ tối đa cho phép trong bất kỳ hoàn cảnh nào, kể cả đường vắng hay ban đêm.",
     "image": ""
   },
   {
@@ -540,7 +540,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "An toàn bắt buộc: trẻ em phải có thiết bị an toàn phù hợp; người đi mô tô/xe máy phải đội mũ đạt chuẩn và cài quai đúng quy cách. Chọn phương án khẳng định yêu cầu bắt buộc: “Không được cho trẻ em ngồi cùng hàng ghế với người lái xe, trừ loại xe ô tô chỉ có một hàng ghế; người lái xe phải sử dụng, hướng dẫn sử dụng thiết bị an toàn phù hợp cho trẻ em.”.",
+    "explain": "Khoản 3 Điều 10 Luật TTATGTĐB: chở trẻ em dưới 10 tuổi và cao dưới 1,35 m trên ô tô thì không được cho trẻ ngồi cùng hàng ghế với người lái (trừ xe chỉ có một hàng ghế) và phải sử dụng thiết bị an toàn phù hợp cho trẻ em.",
     "image": ""
   },
   {
@@ -553,7 +553,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Đi về bên phải theo chiều đi của mình.”.",
+    "explain": "Khoản 1 Điều 13 Luật TTATGTĐB: xe đi với tốc độ thấp hơn phải đi về bên phải theo chiều đi của mình, để nhường làn bên trái cho xe nhanh hơn, tránh cản trở giao thông.",
     "image": ""
   },
   {
@@ -566,7 +566,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc làn đường: đi đúng làn; chỉ chuyển sang làn liền kề ở nơi cho phép, bật tín hiệu trước khi chuyển, bảo đảm khoảng cách an toàn. Đáp án mô tả đúng nguyên tắc: “Đi trên làn đường bên trái.”.",
+    "explain": "Khoản 3 Điều 13 Luật TTATGTĐB: trên một chiều đường có vạch phân làn, xe thô sơ đi làn bên phải trong cùng, còn xe cơ giới, xe máy chuyên dùng đi trên làn đường bên trái.",
     "image": ""
   },
   {
@@ -580,7 +580,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Khi xe sau xin vượt nếu đủ điều kiện an toàn.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Khoản 4 Điều 14 Luật TTATGTĐB: khi có xe sau xin vượt, nếu đủ điều kiện an toàn thì xe trước phải giảm tốc độ, bật tín hiệu rẽ phải và đi sát về bên phải cho đến khi xe sau vượt qua.",
     "image": ""
   },
   {
@@ -592,7 +592,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Là tình huống giao thông trên đường mà mỗi chiều đường xe chạy chỉ có một làn đường dành cho xe cơ giới, xe đi phía sau di chuyển sang bên trái để di chuyển lên trước xe phía trước.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Khoản 1 Điều 14 Luật TTATGTĐB: vượt xe là khi mỗi chiều chỉ có MỘT làn xe cơ giới, xe sau chuyển sang bên trái để lên trước xe phía trước. Trường hợp đường có từ hai làn cùng chiều trở lên (đáp án 2) thì áp dụng quy tắc sử dụng làn đường, không gọi là vượt xe.",
     "image": ""
   },
   {
@@ -605,7 +605,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": true,
-    "explain": "Quy tắc vượt xe: chỉ vượt khi đủ điều kiện an toàn, có tín hiệu, giữ khoảng cách, không vượt ở cầu hẹp/đường cong/tầm nhìn hạn chế/giao cắt. Đáp án đúng mô tả đúng trình tự/tình huống an toàn: “Không được phép vượt.”. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Điểm b, c khoản 6 Điều 14 Luật TTATGTĐB: không được vượt xe trên cầu hẹp có một làn đường và trên đường cong có tầm nhìn bị hạn chế, bất kể đường vắng hay có việc gấp.",
     "image": ""
   },
   {
@@ -618,7 +618,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": true,
-    "explain": "Quy tắc vượt xe: chỉ vượt khi đủ điều kiện an toàn, có tín hiệu, giữ khoảng cách, không vượt ở cầu hẹp/đường cong/tầm nhìn hạn chế/giao cắt. Đáp án đúng mô tả đúng trình tự/tình huống an toàn: “Báo hiệu nhấp nháy bằng đèn chiếu sáng phía trước hoặc còi.”. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 5 Điều 14 Luật TTATGTĐB: xe xin vượt phải báo hiệu bằng nháy đèn chiếu sáng phía trước hoặc còi. Bấm còi liên tục và rú ga liên tục đều là hành vi bị cấm.",
     "image": ""
   },
   {
@@ -631,7 +631,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Từ 05 giờ đến 22 giờ.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Khoản 2 Điều 21 Luật TTATGTĐB cấm dùng còi từ 22 giờ đến 05 giờ sáng hôm sau trong khu đông dân cư, khu vực cơ sở khám chữa bệnh (trừ xe ưu tiên). Vì vậy chỉ được dùng còi trong khoảng từ 05 giờ đến 22 giờ.",
     "image": ""
   },
   {
@@ -644,7 +644,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Để báo hiệu cho người tham gia giao thông đường bộ khi xuất hiện tình huống có thể mất an toàn giao thông hoặc báo hiệu chuẩn bị vượt xe.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khoản 1 Điều 21 Luật TTATGTĐB: chỉ được dùng còi để báo hiệu khi có tình huống có thể mất an toàn hoặc báo hiệu chuẩn bị vượt xe. Ý 2 sai vì 22h–5h trong khu dân cư, bệnh viện là khoảng thời gian CẤM dùng còi.",
     "image": ""
   },
   {
@@ -657,7 +657,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Chỉ bật đèn chiếu gần (đèn cốt).”.",
+    "explain": "Điểm b khoản 2 Điều 20 Luật TTATGTĐB: khi đi qua khu đông dân cư có hệ thống chiếu sáng đang hoạt động, phải tắt đèn chiếu xa và chỉ bật đèn chiếu gần (đèn cốt) để tránh gây chói mắt người khác.",
     "image": ""
   },
   {
@@ -669,7 +669,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": true,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Dùng tay cầm và sử dụng điện thoại hoặc thiết bị điện tử khác.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 6 Điều 9 Luật TTATGTĐB nghiêm cấm dùng tay cầm và sử dụng điện thoại hoặc thiết bị điện tử khi đang điều khiển phương tiện di chuyển. Ý 2 là trường hợp được phép chở người trên thùng xe tải (Điều 28), không phải hành vi bị cấm.",
     "image": ""
   },
   {
@@ -682,7 +682,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": true,
-    "explain": "Quy tắc vượt xe: chỉ vượt khi đủ điều kiện an toàn, có tín hiệu, giữ khoảng cách, không vượt ở cầu hẹp/đường cong/tầm nhìn hạn chế/giao cắt. Đáp án đúng mô tả đúng trình tự/tình huống an toàn: “Trên cầu hẹp có một làn đường; nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt; khi gặp xe ưu tiên.”. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 6 Điều 14 Luật TTATGTĐB cấm vượt trên cầu hẹp có một làn đường, nơi đường giao nhau, nơi giao nhau với đường sắt và khi gặp xe ưu tiên. Cầu có từ 2 làn hoặc đường có vạch nét đứt thì không thuộc trường hợp cấm.",
     "image": ""
   },
   {
@@ -695,7 +695,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Cả hai ý trên.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Khoản 4 Điều 15 Luật TTATGTĐB cấm quay đầu xe ở phần đường cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt, ngầm, nơi giao nhau với đường sắt, đường hẹp, dốc, cong khuất tầm nhìn, đường cao tốc, trong hầm và đường một chiều. Hai ý cộng lại mới đủ.",
     "image": ""
   },
   {
@@ -708,7 +708,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": true,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, trên đường cao tốc, tại nơi đường bộ giao nhau cùng mức với đường sắt, đường hẹp, đường dốc.”. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Theo khoản 4 Điều 15 Luật TTATGTĐB, các vị trí ở đáp án 1 đều thuộc nơi cấm quay đầu. Phía trước/sau vạch đi bộ hay trên quốc lộ không bị cấm quay đầu nên đáp án 2, 3 sai.",
     "image": ""
   },
   {
@@ -722,7 +722,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả ba ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khoản 2 Điều 15 Luật TTATGTĐB: trước khi chuyển hướng phải quan sát, giữ khoảng cách an toàn với xe sau, giảm tốc, bật tín hiệu báo rẽ, chuyển dần sang làn gần hướng rẽ và chỉ chuyển hướng khi an toàn. Cả ba ý đều là các bước bắt buộc.",
     "image": ""
   },
   {
@@ -735,7 +735,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc làn đường: đi đúng làn; chỉ chuyển sang làn liền kề ở nơi cho phép, bật tín hiệu trước khi chuyển, bảo đảm khoảng cách an toàn. Đáp án mô tả đúng nguyên tắc: “Trước khi thay đổi làn đường.”.",
+    "explain": "Khoản 2 Điều 13 Luật TTATGTĐB: khi chuyển làn phải có tín hiệu BÁO TRƯỚC, tức là bật đèn xi nhan trước khi đổi làn để xe xung quanh kịp nhận biết.",
     "image": ""
   },
   {
@@ -749,7 +749,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": true,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Cả ba ý trên.”. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 2 Điều 16 Luật TTATGTĐB cấm lùi xe ở đường một chiều, khu vực cấm dừng, phần đường cho người đi bộ qua đường, nơi đường giao nhau, giao nhau với đường sắt, nơi tầm nhìn bị che khuất, trong hầm và trên cao tốc. Cả ba ý đều đúng.",
     "image": ""
   },
   {
@@ -762,7 +762,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Cả hai ý trên.”.",
+    "explain": "Điểm m, o khoản 4 Điều 18 Luật TTATGTĐB cấm dừng, đỗ xe trong phạm vi an toàn đường sắt và trên miệng cống, miệng hầm đường điện thoại, điện cao thế, chỗ xe chữa cháy lấy nước. Cả hai đều đúng.",
     "image": ""
   },
   {
@@ -776,7 +776,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “0,25 mét.”.",
+    "explain": "Khoản 6 Điều 18 Luật TTATGTĐB: trên đường phố, khi dừng đỗ sát lề phải, bánh xe gần nhất không được cách lề đường, vỉa hè quá 0,25 mét.",
     "image": ""
   },
   {
@@ -790,7 +790,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “20 mét.”.",
+    "explain": "Điểm e khoản 4 Điều 18 Luật TTATGTĐB: không được dừng, đỗ cách xe ô tô đang đỗ ngược chiều dưới 20 mét trên đường phố hẹp (dưới 40 mét nếu đường có một làn xe cơ giới mỗi chiều). Vậy khoảng cách tối thiểu là 20 mét.",
     "image": ""
   },
   {
@@ -803,7 +803,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Song song cùng chiều với một xe khác đang dừng, đỗ trên đường; trên đoạn đường cong hoặc gần đầu dốc mà tầm nhìn bị che khuất; bên trái đường một chiều.”.",
+    "explain": "Khoản 4 Điều 18 Luật TTATGTĐB cấm dừng, đỗ song song với xe khác đang dừng đỗ, trên đường cong hoặc gần đầu dốc khuất tầm nhìn, bên trái đường một chiều. Còn lề đường rộng, khu đất ngoài phần đường xe chạy lại là nơi ĐƯỢC dừng đỗ (khoản 5).",
     "image": ""
   },
   {
@@ -817,7 +817,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": true,
-    "explain": "Chọn đáp án đúng “Không được phép.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Điểm đ khoản 3 Điều 33 Luật TTATGTĐB cấm người lái mô tô, xe gắn máy sử dụng xe để kéo, đẩy xe khác, vật khác trong mọi trường hợp.",
     "image": ""
   },
   {
@@ -829,7 +829,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": true,
-    "explain": "Chọn đáp án đúng “Buông cả hai tay; đứng, nằm trên xe điều khiển xe; sử dụng chân chống hoặc vật khác quệt xuống đường khi xe đang chạy.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Điểm d, e khoản 3 Điều 33 Luật TTATGTĐB cấm buông cả hai tay, đứng/nằm trên xe điều khiển, dùng chân chống quệt xuống đường. Ý 2 là trường hợp được phép chở 2 người (khoản 1 Điều 33).",
     "image": ""
   },
   {
@@ -843,7 +843,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": true,
-    "explain": "Chọn đáp án đúng “Buông cả hai tay; sử dụng xe để kéo, đẩy xe khác, vật khác; sử dụng chân chống hoặc vật khác quệt xuống đường khi xe đang chạy.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 3 Điều 33 Luật TTATGTĐB cấm buông cả hai tay, dùng xe kéo đẩy xe khác, vật khác và quệt chân chống xuống đường. Các ý còn lại là hành vi bình thường hoặc đúng luật.",
     "image": ""
   },
   {
@@ -857,7 +857,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": true,
-    "explain": "Chọn đáp án đúng “Ý 1 và ý 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 4 Điều 33 Luật TTATGTĐB cấm người ngồi sau mô tô, xe máy mang vác vật cồng kềnh và bám, kéo, đẩy phương tiện khác. Dùng điện thoại là quy định cấm đối với người điều khiển, không phải người được chở, nên chọn ý 1 và 2.",
     "image": ""
   },
   {
@@ -871,7 +871,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": true,
-    "explain": "Chọn đáp án đúng “Không được phép.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Điểm c khoản 4 Điều 33 Luật TTATGTĐB: người được chở trên mô tô, xe máy không được bám, kéo hoặc đẩy phương tiện khác trong bất kỳ trường hợp nào.",
     "image": ""
   },
   {
@@ -884,7 +884,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": true,
-    "explain": "Chọn đáp án đúng “Đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 2 Điều 33 Luật TTATGTĐB: cả người lái và người được chở trên mô tô, xe gắn máy đều phải đội mũ bảo hiểm đúng quy chuẩn và cài quai đúng quy cách.",
     "image": ""
   },
   {
@@ -897,7 +897,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Chở người bệnh đi cấp cứu; áp giải người có hành vi vi phạm pháp luật; trẻ em dưới 12 tuổi; người già yếu hoặc người khuyết tật.”.",
+    "explain": "Khoản 1 Điều 33 Luật TTATGTĐB: chỉ được chở tối đa 2 người khi chở người bệnh đi cấp cứu, áp giải người vi phạm pháp luật, trẻ em dưới 12 tuổi, người già yếu hoặc khuyết tật. Người say rượu, dùng ma túy không thuộc các trường hợp này.",
     "image": ""
   },
   {
@@ -911,7 +911,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": true,
-    "explain": "Chọn đáp án đúng “Cả ba ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 3 Điều 33 Luật TTATGTĐB liệt kê đầy đủ các hành vi cấm ở cả ba ý: dàn hàng ngang, buông hai tay; kéo đẩy xe khác, chở vật cồng kềnh, chở người đứng trên xe; ngồi một bên, đứng nằm điều khiển, quệt chân chống... nên chọn cả ba.",
     "image": ""
   },
   {
@@ -924,7 +924,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": true,
-    "explain": "Chọn đáp án đúng “Cả hai ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Điểm a, b, c khoản 3 Điều 33 Luật TTATGTĐB cấm đi dàn hàng ngang, đi vào phần đường của người đi bộ và phương tiện khác, sử dụng ô và thiết bị âm thanh (trừ máy trợ thính). Cả hai ý đều đúng.",
     "image": ""
   },
   {
@@ -937,7 +937,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": true,
-    "explain": "Chọn đáp án đúng “Đi xe dàn hàng ngang, đi xe vào phần đường dành cho người đi bộ.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Đi dàn hàng ngang và đi vào phần đường dành cho người đi bộ bị cấm theo khoản 3 Điều 33. Ý 1 là hành vi chấp hành đúng luật nên không thể là hành vi bị cấm.",
     "image": ""
   },
   {
@@ -951,7 +951,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": true,
-    "explain": "Chọn đáp án đúng “Không được sử dụng.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Điểm b khoản 4 Điều 33 Luật TTATGTĐB cấm người được chở trên mô tô, xe máy sử dụng ô, vì ô dễ bị gió giật gây mất thăng bằng và che khuất tầm nhìn. Trời mưa phải dùng áo mưa.",
     "image": ""
   },
   {
@@ -964,7 +964,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": true,
-    "explain": "Chọn đáp án đúng “Không được phép.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Điểm c khoản 4 Điều 33 Luật TTATGTĐB cấm người ngồi sau bám, kéo hoặc đẩy phương tiện khác, nên không được kéo người đi xe đạp.",
     "image": ""
   },
   {
@@ -978,7 +978,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "An toàn bắt buộc: trẻ em phải có thiết bị an toàn phù hợp; người đi mô tô/xe máy phải đội mũ đạt chuẩn và cài quai đúng quy cách. Chọn phương án khẳng định yêu cầu bắt buộc: “Xử phạt cả người điều khiển và người được chở trên xe mô tô, xe gắn máy.”.",
+    "explain": "Theo Nghị định xử phạt (NĐ 168/2024), người được chở không đội mũ bảo hiểm hoặc không cài quai đúng quy cách bị xử phạt, đồng thời người điều khiển xe chở người đó cũng bị xử phạt. Vì vậy cả hai đều bị phạt.",
     "image": ""
   },
   {
@@ -991,7 +991,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Phải đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách, không sử dụng ô, điện thoại di động, thiết bị âm thanh (trừ thiết bị trợ thính).” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khoản 2, 3 Điều 33 và khoản 6 Điều 9 Luật TTATGTĐB: người lái mô tô luôn phải đội mũ bảo hiểm đúng quy chuẩn, cài quai đúng cách; không dùng ô, không cầm điện thoại, không dùng thiết bị âm thanh (trừ thiết bị trợ thính). Không có ngoại lệ theo thời tiết hay quãng đường.",
     "image": ""
   },
   {
@@ -1004,7 +1004,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe cơ giới, xe máy chuyên dùng xuống trước, xe thô sơ, người đi bộ xuống sau.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Điểm b khoản 3 Điều 23 Luật TTATGTĐB: khi xuống phà, xe cơ giới, xe máy chuyên dùng xuống trước, xe thô sơ và người đi bộ xuống sau; khi lên bến thì ngược lại, người đi bộ lên trước.",
     "image": ""
   },
   {
@@ -1017,7 +1017,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc làn đường: đi đúng làn; chỉ chuyển sang làn liền kề ở nơi cho phép, bật tín hiệu trước khi chuyển, bảo đảm khoảng cách an toàn. Đáp án mô tả đúng nguyên tắc: “Phải cho xe đi trong một làn đường và chỉ được chuyển làn đường ở những nơi cho phép; mỗi lần chuyển làn đường chỉ được phép chuyển sang một làn đường liền kề; khi chuyển làn đường phải có tín hiệu báo trước; phải quan sát bảo đảm khoảng cách an toàn với xe phía trước, phía sau và hai bên mới được chuyển làn.”.",
+    "explain": "Khoản 2 Điều 13 Luật TTATGTĐB: trên đường nhiều làn cùng chiều phải đi trong một làn, chỉ chuyển làn ở nơi cho phép, mỗi lần chỉ sang một làn liền kề, phải có tín hiệu báo trước và quan sát bảo đảm khoảng cách an toàn.",
     "image": ""
   },
   {
@@ -1030,7 +1030,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc làn đường: đi đúng làn; chỉ chuyển sang làn liền kề ở nơi cho phép, bật tín hiệu trước khi chuyển, bảo đảm khoảng cách an toàn. Đáp án mô tả đúng nguyên tắc: “Xe thô sơ phải đi trên làn đường bên phải trong cùng, xe cơ giới, xe máy chuyên dùng đi trên làn đường bên trái.”.",
+    "explain": "Khoản 3 Điều 13 Luật TTATGTĐB: xe thô sơ phải đi làn bên phải trong cùng, xe cơ giới và xe máy chuyên dùng đi làn bên trái để tách dòng xe chậm và xe nhanh.",
     "image": ""
   },
   {
@@ -1043,7 +1043,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Chỉ được báo hiệu bằng đèn.”.",
+    "explain": "Khoản 5 Điều 14 Luật TTATGTĐB: trong đô thị và khu đông dân cư từ 22 giờ đến 05 giờ sáng hôm sau, chỉ được báo hiệu xin vượt bằng đèn để không làm ồn ảnh hưởng người dân nghỉ ngơi.",
     "image": ""
   },
   {
@@ -1056,7 +1056,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Quy tắc vượt xe: chỉ vượt khi đủ điều kiện an toàn, có tín hiệu, giữ khoảng cách, không vượt ở cầu hẹp/đường cong/tầm nhìn hạn chế/giao cắt. Đáp án đúng mô tả đúng trình tự/tình huống an toàn: “Giảm tốc độ, có tín hiệu rẽ phải để báo hiệu cho người điều khiển phương tiện tham gia giao thông đường bộ phía sau biết được vượt và đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đã vượt qua, không được cản trở đối với xe xin vượt.”.",
+    "explain": "Khoản 4 Điều 14 Luật TTATGTĐB: khi có xe xin vượt và đủ điều kiện an toàn, xe phía trước phải giảm tốc, bật tín hiệu rẽ phải và đi sát bên phải cho đến khi xe sau vượt qua, không được cản trở.",
     "image": ""
   },
   {
@@ -1069,7 +1069,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Quy tắc vượt xe: chỉ vượt khi đủ điều kiện an toàn, có tín hiệu, giữ khoảng cách, không vượt ở cầu hẹp/đường cong/tầm nhìn hạn chế/giao cắt. Đáp án đúng mô tả đúng trình tự/tình huống an toàn: “Có tín hiệu rẽ trái để báo hiệu cho người điều khiển phương tiện tham gia giao thông đường bộ phía sau biết là chưa được vượt.”.",
+    "explain": "Khoản 4 Điều 14 Luật TTATGTĐB: nếu có chướng ngại vật hoặc không đủ điều kiện an toàn, xe phía trước bật tín hiệu rẽ trái để báo cho xe sau biết là chưa được vượt.",
     "image": ""
   },
   {
@@ -1082,7 +1082,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Phải nhường đường cho người đi bộ, xe thô sơ, xe đi ngược chiều và chỉ chuyển hướng khi không gây trở ngại hoặc nguy hiểm cho người, phương tiện khác.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khoản 3 Điều 15 Luật TTATGTĐB: khi chuyển hướng phải nhường đường cho người đi bộ, xe thô sơ, xe đi ngược chiều và chỉ chuyển hướng khi không gây trở ngại, nguy hiểm cho người khác. Không được chuyển hướng vội vàng hay ép xe khác dừng lại.",
     "image": ""
   },
   {
@@ -1095,7 +1095,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Quan sát, bảo đảm khoảng cách an toàn với xe phía sau, giảm tốc độ và có tín hiệu báo hướng rẽ...”. Theo quy tắc giao thông, khi chuyển hướng phải luôn giảm tốc độ, quan sát an toàn chứ không được 'nhanh chóng chuyển hướng' hay 'tăng tốc độ'.",
+    "explain": "Khoản 2 Điều 15 Luật TTATGTĐB quy định đầy đủ các bước trước khi chuyển hướng như đáp án 2: quan sát, giữ khoảng cách, giảm tốc, bật tín hiệu liên tục, chuyển dần sang làn gần hướng rẽ và chỉ rẽ khi an toàn. Tăng tốc khi chuyển hướng là sai.",
     "image": ""
   },
   {
@@ -1108,7 +1108,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": true,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Phải quan sát hai bên và phía sau xe, có tín hiệu lùi và chỉ lùi xe khi bảo đảm an toàn.”. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 1 Điều 16 Luật TTATGTĐB: khi lùi xe phải quan sát hai bên và phía sau, có tín hiệu lùi và chỉ lùi khi bảo đảm an toàn. Đáp án 1 thiếu tín hiệu, đáp án 2 \"nhanh chóng lùi\" là không an toàn.",
     "image": ""
   },
   {
@@ -1121,7 +1121,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": true,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Không được lùi xe.”. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 2 Điều 16 Luật TTATGTĐB cấm lùi xe ở nơi tầm nhìn bị che khuất, dù lùi chậm hay bấm còi.",
     "image": ""
   },
   {
@@ -1134,7 +1134,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": true,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Giảm tốc độ và cho xe đi về bên phải theo chiều xe chạy của mình.”. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 1 Điều 17 Luật TTATGTĐB: trên đường không có dải phân cách hai chiều, khi tránh xe ngược chiều phải giảm tốc độ và cho xe đi về bên phải theo chiều của mình.",
     "image": ""
   },
   {
@@ -1148,7 +1148,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": true,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Cả ba ý trên.”. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 2 Điều 17 Luật TTATGTĐB nêu đủ ba trường hợp nhường đường khi tránh nhau: xe gần chỗ tránh hơn phải vào chỗ tránh; xe xuống dốc nhường xe lên dốc; xe có chướng ngại vật phía trước nhường xe không có chướng ngại vật.",
     "image": ""
   },
   {
@@ -1161,7 +1161,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": true,
-    "explain": "Chọn đáp án đúng “Nhường đường cho xe lên dốc.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Điểm b khoản 2 Điều 17 Luật TTATGTĐB: xe xuống dốc phải nhường đường cho xe lên dốc, vì xe lên dốc khó dừng và khởi hành lại hơn.",
     "image": ""
   },
   {
@@ -1174,7 +1174,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": true,
-    "explain": "Chọn đáp án đúng “Quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Điểm c, d khoản 3 Điều 12 Luật TTATGTĐB: khi tầm nhìn bị hạn chế, đường vòng, quanh co phải quan sát, giảm tốc độ hoặc dừng lại. Đồng thời không được vượt ở đường cong tầm nhìn hạn chế (khoản 6 Điều 14).",
     "image": ""
   },
   {
@@ -1187,7 +1187,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": true,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Nhường đường cho xe đi trên đường ưu tiên hoặc đường chính từ bất kỳ hướng nào tới.”. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 1 Điều 22 Luật TTATGTĐB: xe đi từ đường không ưu tiên hoặc đường nhánh phải nhường đường cho xe đi trên đường ưu tiên, đường chính từ BẤT KỲ hướng nào tới.",
     "image": ""
   },
   {
@@ -1200,7 +1200,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": true,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Nhường đường cho xe đi đến từ bên trái.”. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 3 Điều 22 Luật TTATGTĐB: tại nơi giao nhau có báo hiệu đi theo vòng xuyến, phải nhường đường cho xe đi đến từ bên trái (xe đang ở trong vòng xuyến).",
     "image": ""
   },
   {
@@ -1213,7 +1213,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": true,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Phải nhường đường cho xe đi đến từ bên phải.”. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 2 Điều 22 Luật TTATGTĐB: tại nơi giao nhau không có báo hiệu đi theo vòng xuyến, phải nhường đường cho xe đi đến từ bên phải.",
     "image": ""
   },
   {
@@ -1226,7 +1226,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Xe ưu tiên gồm xe chữa cháy của Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ và xe chữa cháy của các lực lượng khác được huy động đi làm nhiệm vụ chữa cháy; xe của lực lượng quân sự, công an và kiểm sát đi làm nhiệm vụ khẩn cấp; đoàn xe có xe Cảnh sát giao thông dẫn đường; xe cứu thương đi làm nhiệm vụ cấp cứu; xe hộ đê đi làm nhiệm vụ; xe đi làm nhiệm vụ cứu nạn, cứu hộ, khắc phục sự cố thiên tai, dịch bệnh hoặc xe đi làm nhiệm vụ trong tình trạng khẩn cấp theo quy định của pháp luật; đoàn xe tang.”.",
+    "explain": "Theo khoản 1, 5 Điều 27 Luật TTATGTĐB, phải nhường đường cho xe ưu tiên – gồm các loại xe ở đáp án 2 khi đang làm nhiệm vụ. Đáp án 1 sai vì xe không có tín hiệu ưu tiên thì không được hưởng quyền ưu tiên.",
     "image": ""
   },
   {
@@ -1240,7 +1240,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Cả ba ý trên.”.",
+    "explain": "Khoản 4 Điều 27 Luật TTATGTĐB: xe ưu tiên khi làm nhiệm vụ không bị hạn chế tốc độ, được đi không phụ thuộc đèn tín hiệu, được đi vào đường ngược chiều, và trên cao tốc được đi ngược chiều ở làn dừng khẩn cấp. Cả ba ý đều đúng.",
     "image": ""
   },
   {
@@ -1253,7 +1253,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Giảm tốc độ, đi sát lề đường bên phải hoặc dừng lại để nhường đường.”.",
+    "explain": "Khoản 5 Điều 27 Luật TTATGTĐB: khi có tín hiệu xe ưu tiên, mọi người phải giảm tốc độ, đi sát lề đường bên phải hoặc dừng lại để nhường đường.",
     "image": ""
   },
   {
@@ -1266,7 +1266,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": true,
-    "explain": "Thứ tự chấp hành: hiệu lệnh người điều khiển giao thông > tín hiệu đèn > biển báo/vạch. Với tín hiệu vàng: dừng trước vạch, trừ khi đã qua vạch; vàng nhấp nháy thì giảm tốc, quan sát. Đáp án: “Được vượt khi bảo đảm an toàn.”. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Xe CSGT không phát tín hiệu ưu tiên thì không phải đang làm nhiệm vụ khẩn cấp, được coi như xe bình thường, nên được vượt khi bảo đảm an toàn. Không được vượt ở phần đường dành cho người đi bộ (khoản 6 Điều 14).",
     "image": ""
   },
   {
@@ -1280,7 +1280,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": true,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Không được vượt.”. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Điểm g khoản 6 Điều 14 Luật TTATGTĐB: không được vượt xe khi gặp xe ưu tiên. Xe cứu thương đang phát tín hiệu ưu tiên là xe ưu tiên nên không được vượt.",
     "image": ""
   },
   {
@@ -1293,7 +1293,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Dừng lại về bên phải đường của mình, trước vạch dừng xe và quan sát hai phía, khi không có phương tiện giao thông đường sắt tới mới được đi qua.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khoản 2 Điều 24 Luật TTATGTĐB: tới đường ngang không có người gác, chắn, chuông, đèn phải dừng lại bên phải đường, trước vạch dừng, quan sát hai phía, khi không có tàu tới mới được đi qua.",
     "image": ""
   },
   {
@@ -1306,7 +1306,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Thứ tự chấp hành: hiệu lệnh người điều khiển giao thông > tín hiệu đèn > biển báo/vạch. Với tín hiệu vàng: dừng trước vạch, trừ khi đã qua vạch; vàng nhấp nháy thì giảm tốc, quan sát. Đáp án: “Dừng lại về bên phải đường của mình, trước vạch dừng xe.”.",
+    "explain": "Khoản 1 Điều 24 Luật TTATGTĐB: khi có hiệu lệnh nhân viên gác chắn, đèn đỏ nhấp nháy, chuông kêu, chắn đang hạ hoặc đã đóng, phải dừng lại về bên phải đường của mình, trước vạch dừng xe.",
     "image": ""
   },
   {
@@ -1319,7 +1319,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Người lái xe và người có mặt phải ngay lập tức báo hiệu để dừng tàu, thực hiện các biện pháp bảo đảm an toàn.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khoản 3 Điều 24 Luật TTATGTĐB: khi xe hỏng, tai nạn trên đường ngang mà không di chuyển ngay được, người lái và người có mặt phải ngay lập tức báo hiệu để dừng tàu và thực hiện biện pháp bảo đảm an toàn.",
     "image": ""
   },
   {
@@ -1333,7 +1333,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": true,
-    "explain": "Đến đường ray gặp đèn đỏ, chuông kêu, chắn hạ – phải dừng bên phải trước vạch. Chọn cả ba ý trên.",
+    "explain": "Khoản 1 Điều 24 Luật TTATGTĐB: phải dừng trước vạch dừng khi có BẤT KỲ báo hiệu nào trong các báo hiệu: hiệu lệnh gác chắn, đèn đỏ nhấp nháy, chuông kêu, chắn đang dịch chuyển hoặc đã đóng. Vì vậy chọn cả ba ý.",
     "image": ""
   },
   {
@@ -1346,7 +1346,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe cơ giới, xe máy chuyên dùng phải bật đèn chiếu gần; xe thô sơ phải bật đèn hoặc có vật phát sáng báo hiệu; không dừng xe, đỗ xe trong hầm đường bộ; trường hợp gặp sự cố kỹ thuật hoặc bất khả kháng khác buộc phải dừng xe, đỗ xe, người lái xe, người điều khiển xe máy chuyên dùng phải đưa xe vào vị trí dừng xe, đỗ xe khẩn cấp, nếu không di chuyển được, phải có báo hiệu bằng đèn khẩn cấp và đặt biển hoặc đèn cảnh báo về phía sau xe khoảng cách bảo đảm an toàn.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Điều 26 Luật TTATGTĐB: trong hầm xe cơ giới phải bật đèn chiếu gần, xe thô sơ phải có đèn hoặc vật phát sáng; không được dừng, đỗ trong hầm, nếu gặp sự cố phải đưa xe vào vị trí dừng khẩn cấp, không di chuyển được thì bật đèn khẩn cấp và đặt biển cảnh báo phía sau. Bật đèn pha gây chói, còn quay đầu, lùi xe trong hầm đều bị cấm.",
     "image": ""
   },
   {
@@ -1359,7 +1359,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Nối bằng thanh nối cứng.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Điểm b khoản 1 Điều 29 Luật TTATGTĐB: nếu hệ thống phanh (hãm) của xe được kéo không còn hiệu lực thì phải nối bằng thanh nối cứng, để xe được kéo không lao vào xe kéo khi giảm tốc. Dây cáp mềm không giữ được khoảng cách.",
     "image": ""
   },
   {
@@ -1372,7 +1372,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Chỉ được kéo rơ moóc, sơ mi rơ moóc phù hợp với thiết kế của xe; việc kết nối xe kéo với rơ moóc, xe ô tô đầu kéo với sơ mi rơ moóc phải bảo đảm chắc chắn, an toàn.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khoản 2 Điều 29 Luật TTATGTĐB: xe kéo rơ moóc, xe đầu kéo chỉ được kéo rơ moóc, sơ mi rơ moóc phù hợp với thiết kế của xe và việc kết nối phải chắc chắn, an toàn.",
     "image": ""
   },
   {
@@ -1385,7 +1385,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe được kéo phải có người điều khiển và hệ thống lái của xe đó phải còn hiệu lực; việc nối xe kéo với xe được kéo phải bảo đảm chắc chắn, an toàn; trường hợp hệ thống hãm của xe được kéo không còn hiệu lực thì xe kéo nhau phải nối bằng thanh nối cứng. Phía trước của xe kéo và phía sau của xe được kéo phải có biển báo hiệu, có đèn cảnh báo nhấp nháy màu vàng.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khoản 1 Điều 29 Luật TTATGTĐB: một ô tô chỉ được kéo MỘT xe khác khi xe đó không tự chạy được; xe được kéo phải có người lái và hệ thống lái còn hiệu lực; nối chắc chắn, phanh hỏng thì dùng thanh nối cứng; trước xe kéo và sau xe được kéo phải có biển báo hiệu và đèn vàng nhấp nháy. Ý 1 sai vì nói kéo \"nhiều xe\".",
     "image": ""
   },
   {
@@ -1399,7 +1399,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Cả ba ý trên.”. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 3 Điều 12 Luật TTATGTĐB liệt kê các trường hợp phải quan sát, giảm tốc độ hoặc dừng lại, bao gồm đủ cả ba ý: có báo hiệu nguy hiểm, chướng ngại vật, chuyển hướng, tầm nhìn hạn chế; cầu cống hẹp, đường ngầm, hầm, có vật nuôi; điểm dừng đỗ có khách lên xuống.",
     "image": ""
   },
   {
@@ -1412,7 +1412,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Quy tắc vượt xe: chỉ vượt khi đủ điều kiện an toàn, có tín hiệu, giữ khoảng cách, không vượt ở cầu hẹp/đường cong/tầm nhìn hạn chế/giao cắt. Đáp án đúng mô tả đúng trình tự/tình huống an toàn: “Có chướng ngại vật phía trước, xe chạy phía trước có tín hiệu vượt xe khác.”.",
+    "explain": "Khoản 3 Điều 14 Luật TTATGTĐB: chỉ được vượt khi phía trước không có chướng ngại vật và xe phía trước không có tín hiệu vượt xe khác. Ý 2 (xe trước đã báo rẽ phải, tránh về bên phải) lại chính là điều kiện ĐƯỢC vượt.",
     "image": ""
   },
   {
@@ -1425,7 +1425,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Quy tắc vượt xe: chỉ vượt khi đủ điều kiện an toàn, có tín hiệu, giữ khoảng cách, không vượt ở cầu hẹp/đường cong/tầm nhìn hạn chế/giao cắt. Đáp án đúng mô tả đúng trình tự/tình huống an toàn: “Xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái hoặc khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái.”.",
+    "explain": "Khoản 2 Điều 14 Luật TTATGTĐB: bình thường phải vượt bên trái; chỉ được vượt bên phải khi xe trước đang báo rẽ trái/đang rẽ trái, hoặc xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái.",
     "image": ""
   },
   {
@@ -1438,7 +1438,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Quy tắc vượt xe: chỉ vượt khi đủ điều kiện an toàn, có tín hiệu, giữ khoảng cách, không vượt ở cầu hẹp/đường cong/tầm nhìn hạn chế/giao cắt. Đáp án đúng mô tả đúng trình tự/tình huống an toàn: “Giảm tốc độ, có tín hiệu rẽ phải để báo hiệu cho người điều khiển phương tiện tham gia giao thông đường bộ phía sau biết được vượt và đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đã vượt qua, không được cản trở đối với xe xin vượt.”.",
+    "explain": "Khoản 4 Điều 14 Luật TTATGTĐB: khi đủ điều kiện an toàn cho xe sau vượt, người lái phía trước phải giảm tốc độ, bật tín hiệu rẽ phải, đi sát bên phải cho đến khi xe sau vượt qua. Không được tăng tốc hay lấn sang trái.",
     "image": ""
   },
   {
@@ -1451,7 +1451,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Xe máy chuyên dùng có tốc độ thiết kế nhỏ hơn tốc độ tối thiểu quy định đối với đường cao tốc, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ, xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô, xe gắn máy, xe thô sơ, người đi bộ.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Khoản 3 Điều 25 Luật TTATGTĐB cấm các loại sau đi vào cao tốc: xe máy chuyên dùng có tốc độ thiết kế thấp hơn tốc độ tối thiểu của cao tốc, xe chở người/chở hàng bốn bánh có gắn động cơ, mô tô, xe gắn máy, xe thô sơ và người đi bộ (trừ phục vụ quản lý, bảo trì cao tốc).",
     "image": ""
   },
   {
@@ -1464,7 +1464,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Chỉ được đi ngược chiều trên làn dừng xe khẩn cấp.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Khoản 4 Điều 27 Luật TTATGTĐB: xe ưu tiên làm nhiệm vụ được đi vào đường ngược chiều, nhưng riêng trên đường cao tốc chỉ được đi ngược chiều trên làn dừng xe khẩn cấp.",
     "image": ""
   },
   {
@@ -1477,7 +1477,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Cả hai ý trên.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Theo Điều 25 Luật TTATGTĐB chỉ được dừng, đỗ ở nơi quy định trên cao tốc (trừ trường hợp sự cố không vào được làn khẩn cấp); đồng thời khoản 4 Điều 15 và khoản 2 Điều 16 cấm quay đầu, lùi xe trên đường cao tốc. Vì vậy cả hai ý đều đúng.",
     "image": ""
   },
   {
@@ -1490,7 +1490,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Dừng xe, đỗ xe ở làn dừng khẩn cấp cùng chiều xe chạy và phải có báo hiệu bằng đèn khẩn cấp; trường hợp xe không thể di chuyển được vào làn dừng khẩn cấp, phải có báo hiệu bằng đèn khẩn cấp và đặt biển hoặc đèn cảnh báo về phía sau xe khoảng cách tối thiểu 150 mét, nhanh chóng báo cho cơ quan Cảnh sát giao thông thực hiện nhiệm vụ bảo đảm trật tự, an toàn giao thông trên tuyến hoặc cơ quan quản lý đường cao tốc.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Khoản 2 Điều 25 Luật TTATGTĐB: xe gặp sự cố trên cao tốc phải vào làn dừng khẩn cấp cùng chiều và bật đèn khẩn cấp; nếu không vào được làn khẩn cấp thì bật đèn khẩn cấp, đặt biển/đèn cảnh báo phía sau tối thiểu 150 mét và báo ngay cho CSGT hoặc đơn vị quản lý cao tốc.",
     "image": ""
   },
   {
@@ -1503,7 +1503,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Tiếp tục lái xe và rẽ ở lối ra tiếp theo.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Trên cao tốc cấm quay đầu, cấm lùi xe và không được chạy trên làn khẩn cấp, lề đường (Điều 15, 16, 25 Luật TTATGTĐB). Nếu lỡ lối ra, cách an toàn duy nhất là tiếp tục đi và ra ở lối ra kế tiếp.",
     "image": ""
   },
   {
@@ -1515,7 +1515,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Không.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Điểm c khoản 1 Điều 25 Luật TTATGTĐB: không được cho xe chạy ở làn dừng xe khẩn cấp và phần lề đường. Làn khẩn cấp dành cho xe gặp sự cố và xe ưu tiên, kể cả khi ùn tắc cũng không được đi vào.",
     "image": ""
   },
   {
@@ -1529,7 +1529,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": true,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Cả ba ý trên.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Điểm a khoản 1 Điều 25 Luật TTATGTĐB: trước khi nhập vào cao tốc phải có tín hiệu xin vào, nhường đường cho xe đang chạy trên cao tốc, quan sát xe phía sau và nhập vào làn sát bên phải; nếu có làn tăng tốc thì phải chạy trên làn đó trước khi nhập. Cả ba ý đều đúng.",
     "image": ""
   },
   {
@@ -1542,7 +1542,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “18 tuổi.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Đây là xe thuộc GPLX hạng C1. Theo điểm b khoản 1 Điều 59 Luật TTATGTĐB, người đủ 18 tuổi trở lên được cấp GPLX hạng A1, A, B1, B, C1.",
     "image": ""
   },
   {
@@ -1555,7 +1555,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “18 tuổi.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Mô tô đến 125 cm3 là hạng A1, ô tô đến 8 chỗ và tải đến 3.500 kg là hạng B. Điểm b khoản 1 Điều 59 Luật TTATGTĐB: đủ 18 tuổi được cấp các hạng A1, A, B1, B, C1.",
     "image": ""
   },
   {
@@ -1569,7 +1569,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “27 tuổi.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Đây là xe thuộc GPLX hạng D. Điểm đ khoản 1 Điều 59 Luật TTATGTĐB: người đủ 27 tuổi trở lên được cấp GPLX hạng D, D1E, D2E, DE.",
     "image": ""
   },
   {
@@ -1582,7 +1582,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Đủ 57 tuổi đối với nam và đủ 55 tuổi đối với nữ.”.",
+    "explain": "Điểm e khoản 1 Điều 59 Luật TTATGTĐB: tuổi tối đa của người lái xe chở người trên 29 chỗ, xe giường nằm là đủ 57 tuổi với nam và đủ 55 tuổi với nữ.",
     "image": ""
   },
   {
@@ -1595,7 +1595,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “24 tuổi.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Đây là xe thuộc GPLX hạng D2. Điểm d khoản 1 Điều 59 Luật TTATGTĐB: người đủ 24 tuổi trở lên được cấp GPLX hạng D1, D2, C1E, CE.",
     "image": ""
   },
   {
@@ -1609,7 +1609,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe gắn máy.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Điểm a khoản 1 Điều 59 Luật TTATGTĐB: người đủ 16 tuổi được điều khiển xe gắn máy. Muốn lái mô tô (A1) hay ô tô (B) phải đủ 18 tuổi, nên người từ 16 đến dưới 18 tuổi chỉ được đi xe gắn máy.",
     "image": ""
   },
   {
@@ -1622,7 +1622,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe mô tô ba bánh.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Điểm a khoản 1 Điều 57 Luật TTATGTĐB: GPLX A1 chỉ dành cho mô tô HAI bánh đến 125 cm3 (hoặc động cơ điện đến 11 kW). Mô tô ba bánh phải có GPLX hạng B1.",
     "image": ""
   },
   {
@@ -1635,7 +1635,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo Luật TTATGTĐB (hiệu lực 01/01/2025), GPLX hạng A1 cho phép lái mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc động cơ điện đến 11 kW. Mô tô ba bánh thuộc hạng B1.",
     "image": ""
   },
   {
@@ -1648,7 +1648,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả hai ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Điểm b khoản 1 Điều 57 Luật TTATGTĐB: hạng A cấp cho người lái mô tô hai bánh trên 125 cm3 (hoặc trên 11 kW) VÀ các loại xe của hạng A1. Vì vậy được lái cả hai loại.",
     "image": ""
   },
   {
@@ -1661,7 +1661,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả hai ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Điểm d khoản 1 Điều 57 Luật TTATGTĐB: hạng B cấp cho người lái ô tô chở người đến 8 chỗ (không kể chỗ lái) và ô tô tải, chuyên dùng có khối lượng toàn bộ theo thiết kế đến 3.500 kg. Cả hai ý đều đúng.",
     "image": ""
   },
   {
@@ -1674,7 +1674,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế trên 3.500 kg đến 7.500 kg; các loại xe ô tô tải quy định cho giấy phép lái xe hạng C1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Điểm đ khoản 1 Điều 57 Luật TTATGTĐB: hạng C1 dành cho ô tô tải, chuyên dùng trên 3.500 kg đến 7.500 kg (kèm rơ moóc đến 750 kg). Xe trên 7.500 kg thuộc hạng C.",
     "image": ""
   },
   {
@@ -1687,7 +1687,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả hai ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Điểm e khoản 1 Điều 57 Luật TTATGTĐB: hạng C cấp cho xe tải trên 7.500 kg và được lái các loại xe của hạng B và C1. Vì vậy người có hạng C lái được cả xe ở ý 1 và ý 2.",
     "image": ""
   },
   {
@@ -1700,7 +1700,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe ô tô chở người trên 08 chỗ (không kể chỗ của người lái xe) đến 16 chỗ (không kể chỗ của người lái xe); các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Điểm g khoản 1 Điều 57 Luật TTATGTĐB: hạng D1 dành cho ô tô chở người trên 8 chỗ đến 16 chỗ (không kể chỗ lái). Xe trên 16 đến 29 chỗ thuộc hạng D2.",
     "image": ""
   },
   {
@@ -1713,7 +1713,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả hai ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Điểm h khoản 1 Điều 57 Luật TTATGTĐB: hạng D2 cấp cho xe chở người trên 16 đến 29 chỗ và được lái các loại xe của hạng B, C1, C, D1 (tức là cả xe trên 8 đến 16 chỗ). Vì vậy cả hai ý đúng.",
     "image": ""
   },
   {
@@ -1727,7 +1727,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Ý 1 và ý 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Điểm i khoản 1 Điều 57 Luật TTATGTĐB: hạng D cấp cho xe chở người trên 29 chỗ, xe giường nằm và được lái các loại xe của hạng B, C1, C, D1, D2 (gồm xe 16–29 chỗ). Ý 3 là xe của hạng CE nên không thuộc hạng D.",
     "image": ""
   },
   {
@@ -1740,7 +1740,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Các loại xe ô tô quy định cho giấy phép lái xe hạng B kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Điểm k khoản 1 Điều 57 Luật TTATGTĐB: hạng BE cấp cho người lái các loại xe hạng B kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg.",
     "image": ""
   },
   {
@@ -1753,7 +1753,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Các loại xe ô tô quy định cho giấy phép lái xe hạng C kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô đầu kéo kéo sơ mi rơ moóc.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Điểm m khoản 1 Điều 57 Luật TTATGTĐB: hạng CE cấp cho người lái xe hạng C kéo rơ moóc trên 750 kg và xe ô tô đầu kéo kéo sơ mi rơ moóc. Xe hạng D1 kéo rơ moóc trên 750 kg thuộc hạng D1E.",
     "image": ""
   },
   {
@@ -1766,7 +1766,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Các loại xe ô tô quy định cho giấy phép lái xe hạng D kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô chở khách nối toa.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Điểm p khoản 1 Điều 57 Luật TTATGTĐB: hạng DE cấp cho người lái xe hạng D kéo rơ moóc trên 750 kg và xe ô tô chở khách nối toa. Xe đầu kéo kéo sơ mi rơ moóc thuộc hạng CE.",
     "image": ""
   },
   {
@@ -1779,7 +1779,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Phải thực hành trên xe tập lái, trên tuyến đường tập lái và có giáo viên dạy lái bảo trợ tay lái.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khoản 5 Điều 56 Luật TTATGTĐB: người tập lái ô tô phải thực hành trên xe tập lái, trên tuyến đường tập lái và có giáo viên dạy lái bảo trợ tay lái. Giấy tờ do giáo viên mang theo, luật không yêu cầu người học mang \"giấy phép xe tập lái\".",
     "image": ""
   },
   {
@@ -1792,7 +1792,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Phải đủ tuổi, sức khỏe theo quy định của pháp luật; có giấy phép lái xe đang còn điểm, còn hiệu lực phù hợp với loại xe đang điều khiển do cơ quan có thẩm quyền cấp (trừ người lái xe gắn máy).” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khoản 1 Điều 56 Luật TTATGTĐB: người lái xe phải đủ tuổi, sức khỏe và có GPLX còn điểm, còn hiệu lực, phù hợp loại xe (trừ xe gắn máy). Luật không bắt buộc người lái phải là người đứng tên trong đăng ký xe.",
     "image": ""
   },
   {
@@ -1806,7 +1806,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả ba ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khoản 1 và 3 Điều 56 Luật TTATGTĐB: người lái xe phải mang đăng ký xe (hoặc bản sao chứng thực khi xe thế chấp), GPLX, chứng nhận kiểm định, bảo hiểm bắt buộc TNDS; nếu đã tích hợp vào tài khoản định danh điện tử (VNeID) thì xuất trình qua đó. Cả ba ý đều đúng.",
     "image": ""
   },
   {
@@ -1820,7 +1820,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả ba ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo khoản 5 Điều 62 Luật TTATGTĐB, GPLX bị thu hồi khi người được cấp không đủ điều kiện sức khỏe, GPLX cấp sai quy định, hoặc GPLX đã quá thời hạn tạm giữ/hết thời hiệu thi hành quyết định xử phạt mà người vi phạm không đến nhận không có lý do chính đáng. Cả ba ý đều đúng.",
     "image": ""
   },
   {
@@ -1832,7 +1832,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Được phục hồi đủ 12 điểm, nếu không bị trừ điểm trong thời hạn 12 tháng từ ngày bị trừ điểm gần nhất.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khoản 2 Điều 58 Luật TTATGTĐB: GPLX chưa bị trừ hết điểm và không bị trừ điểm trong 12 tháng kể từ lần trừ điểm gần nhất thì được phục hồi đủ 12 điểm.",
     "image": ""
   },
   {
@@ -1845,7 +1845,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Sau thời hạn ít nhất là 06 tháng kể từ ngày bị trừ hết điểm, người có phép lái xe được tham gia kiểm tra nội dung kiến thức pháp luật về trật tự, an toàn giao thông đường bộ theo quy định, có kết quả đạt yêu cầu thì được phục hồi đủ 12 điểm.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khoản 3 Điều 58 Luật TTATGTĐB: khi bị trừ hết điểm, sau ít nhất 06 tháng người có GPLX được tham gia kiểm tra kiến thức pháp luật về TTATGT do CSGT tổ chức; đạt yêu cầu thì được phục hồi đủ 12 điểm. Không tự động phục hồi sau 12 tháng.",
     "image": ""
   },
   {
@@ -1857,7 +1857,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Tiếp tục chịu trách nhiệm của chủ xe.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo Điều 39 Luật TTATGTĐB, khi bán, tặng, cho xe mà chưa làm thủ tục thu hồi đăng ký, biển số thì tổ chức, cá nhân đứng tên trên đăng ký xe vẫn phải tiếp tục chịu trách nhiệm của chủ xe.",
     "image": ""
   },
   {
@@ -1870,7 +1870,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả hai ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khoản 2 Điều 35 Luật TTATGTĐB: xe ô tô kinh doanh vận tải (hàng hóa, hành khách), xe đầu kéo, xe cứu thương, xe vận tải nội bộ phải lắp thiết bị giám sát hành trình. Vì vậy cả hai ý đều đúng.",
     "image": ""
   },
   {
@@ -1883,7 +1883,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “40 km/h.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Theo Thông tư 38/2024/TT-BGTVT quy định tốc độ, xe máy chuyên dùng, xe gắn máy và xe tương tự (trừ trên cao tốc – nơi các xe này không được đi) có tốc độ tối đa 40 km/h.",
     "image": ""
   },
   {
@@ -1896,7 +1896,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “60 km/h.”.",
+    "explain": "Theo Thông tư 38/2024/TT-BGTVT, trong khu đông dân cư, trên đường đôi hoặc đường một chiều có từ hai làn xe cơ giới trở lên, xe cơ giới (trừ xe gắn máy, xe máy chuyên dùng) được chạy tối đa 60 km/h.",
     "image": ""
   },
   {
@@ -1909,7 +1909,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “50 km/h.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Theo Thông tư 38/2024/TT-BGTVT, trong khu đông dân cư, trên đường hai chiều hoặc đường một chiều chỉ có một làn xe cơ giới, tốc độ tối đa của xe cơ giới (trừ xe gắn máy, xe máy chuyên dùng) là 50 km/h.",
     "image": ""
   },
   {
@@ -1922,7 +1922,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Ô tô tải, ô tô chở người trên 28 chỗ không kể chỗ của người lái xe.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Trong khu đông dân cư, đường hai chiều hoặc một chiều một làn, mọi xe cơ giới (trừ xe gắn máy, xe máy chuyên dùng) – kể cả ô tô tải, xe trên 28 chỗ – đều tối đa 50 km/h (Thông tư 38/2024). Xe gắn máy, xe máy chuyên dùng chỉ được tối đa 40 km/h nên ý 2 sai.",
     "image": ""
   },
   {
@@ -1935,7 +1935,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Ô tô tải, ô tô chở người trên 28 chỗ không kể chỗ của người lái xe.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Trong khu đông dân cư, đường đôi hoặc một chiều từ hai làn trở lên, xe cơ giới như ô tô tải, xe trên 28 chỗ được chạy tối đa 60 km/h (Thông tư 38/2024). Xe gắn máy, xe máy chuyên dùng bị giới hạn 40 km/h nên không đúng.",
     "image": ""
   },
   {
@@ -1948,7 +1948,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Xe ô tô chở người đến 28 chỗ không kể chỗ của người lái xe (trừ xe buýt); ô tô tải có trọng tải không lớn hơn 3,5 tấn.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Theo Thông tư 38/2024/TT-BGTVT, ngoài khu đông dân cư trên đường đôi (từ hai làn mỗi chiều), nhóm xe nhanh nhất – ô tô chở người đến 28 chỗ (trừ xe buýt) và ô tô tải đến 3,5 tấn – được chạy tối đa 90 km/h.",
     "image": ""
   },
   {
@@ -1962,7 +1962,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Xe ô tô chở người trên 28 chỗ không kể chỗ người lái xe (trừ xe buýt); ô tô tải có trọng tải trên 3,5 tấn (trừ ô tô xi téc).”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Theo Thông tư 38/2024/TT-BGTVT, ngoài khu đông dân cư trên đường đôi, ô tô chở người trên 28 chỗ (trừ xe buýt) và ô tô tải trên 3,5 tấn (trừ xi téc) được chạy tối đa 80 km/h (thấp hơn nhóm xe con 90 km/h).",
     "image": ""
   },
   {
@@ -1976,7 +1976,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Xe buýt; ô tô đầu kéo kéo sơ mi rơ moóc (trừ ô tô đầu kéo kéo sơ mi rơ moóc xi téc); xe mô tô; ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông lưu động).”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Theo Thông tư 38/2024/TT-BGTVT, ngoài khu đông dân cư trên đường đôi, nhóm xe buýt, ô tô đầu kéo kéo sơ mi rơ moóc (trừ xi téc), xe mô tô, ô tô chuyên dùng (trừ xe trộn vữa, bê tông) được chạy tối đa 70 km/h.",
     "image": ""
   },
   {
@@ -1990,7 +1990,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Ô tô kéo rơ moóc; ô tô kéo xe khác; ô tô trộn vữa, ô tô trộn bê tông lưu động, ô tô xi téc, ô tô đầu kéo kéo sơ mi rơ moóc xi téc, ô tô kéo theo rơ moóc xi téc.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Theo Thông tư 38/2024/TT-BGTVT, ngoài khu đông dân cư trên đường đôi, nhóm xe kéo rơ moóc, kéo xe khác, xe trộn vữa, trộn bê tông, xe xi téc – là nhóm có nguy cơ cao nhất – chỉ được chạy tối đa 60 km/h.",
     "image": ""
   },
   {
@@ -2003,7 +2003,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Xe ô tô chở người đến 28 chỗ không kể chỗ của người lái xe (trừ xe buýt); ô tô tải có trọng tải không lớn hơn 3,5 tấn.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Theo Thông tư 38/2024/TT-BGTVT, ngoài khu đông dân cư trên đường hai chiều hoặc một chiều một làn, ô tô chở người đến 28 chỗ (trừ xe buýt) và ô tô tải đến 3,5 tấn được chạy tối đa 80 km/h (thấp hơn 10 km/h so với đường đôi).",
     "image": ""
   },
   {
@@ -2017,7 +2017,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Xe ô tô chở người trên 28 chỗ không kể chỗ người lái xe (trừ xe buýt); ô tô tải có trọng tải trên 3,5 tấn (trừ ô tô xi téc).”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Theo Thông tư 38/2024/TT-BGTVT, ngoài khu đông dân cư trên đường hai chiều hoặc một chiều một làn, ô tô chở người trên 28 chỗ (trừ xe buýt) và ô tô tải trên 3,5 tấn (trừ xi téc) được chạy tối đa 70 km/h.",
     "image": ""
   },
   {
@@ -2031,7 +2031,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Xe buýt; ô tô đầu kéo kéo sơ mi rơ moóc (trừ ô tô đầu kéo kéo sơ mi rơ moóc xi téc); xe mô tô; ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông lưu động).”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Theo Thông tư 38/2024/TT-BGTVT, ngoài khu đông dân cư trên đường hai chiều hoặc một chiều một làn, xe buýt, đầu kéo kéo sơ mi rơ moóc (trừ xi téc), xe mô tô, ô tô chuyên dùng (trừ xe trộn) được chạy tối đa 60 km/h.",
     "image": ""
   },
   {
@@ -2045,7 +2045,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Ô tô kéo rơ moóc; ô tô kéo xe khác; ô tô trộn vữa, ô tô trộn bê tông lưu động, ô tô xi téc, ô tô đầu kéo kéo sơ mi rơ moóc xi téc, ô tô kéo theo rơ moóc xi téc.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Theo Thông tư 38/2024/TT-BGTVT, ngoài khu đông dân cư trên đường hai chiều hoặc một chiều một làn, nhóm ô tô kéo rơ moóc, kéo xe khác, xe trộn vữa, trộn bê tông, xe xi téc chỉ được chạy tối đa 50 km/h.",
     "image": ""
   },
   {
@@ -2058,7 +2058,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Xe chở hàng bốn bánh có gắn động cơ khi tham gia giao thông trong phạm vi và thời gian cho phép hoạt động.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Theo Thông tư 38/2024/TT-BGTVT, xe chở hàng bốn bánh có gắn động cơ có tốc độ tối đa 50 km/h; còn xe máy chuyên dùng, xe gắn máy tối đa 40 km/h và xe chở người bốn bánh có gắn động cơ tối đa 30 km/h.",
     "image": ""
   },
   {
@@ -2071,7 +2071,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “70 m.”.",
+    "explain": "Theo Thông tư 38/2024/TT-BGTVT, trong điều kiện đường khô ráo, tầm nhìn tốt, khi chạy trên 80 đến 100 km/h phải giữ khoảng cách tối thiểu 70 m với xe phía trước (60 km/h: 35 m; trên 60–80: 55 m; trên 100–120: 100 m).",
     "image": ""
   },
   {
@@ -2084,7 +2084,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “100 m.”.",
+    "explain": "Theo Thông tư 38/2024/TT-BGTVT, khi chạy trên 100 đến 120 km/h phải giữ khoảng cách an toàn tối thiểu 100 m với xe phía trước.",
     "image": ""
   },
   {
@@ -2097,7 +2097,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “55 m.”.",
+    "explain": "Theo Thông tư 38/2024/TT-BGTVT, khi chạy trên 60 đến 80 km/h phải giữ khoảng cách an toàn tối thiểu 55 m với xe phía trước.",
     "image": ""
   },
   {
@@ -2110,7 +2110,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “35 m.”.",
+    "explain": "Theo Thông tư 38/2024/TT-BGTVT, khi chạy với tốc độ 60 km/h phải giữ khoảng cách an toàn tối thiểu 35 m với xe chạy liền trước.",
     "image": ""
   },
   {
@@ -2123,7 +2123,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Cả hai ý trên.”.",
+    "explain": "Theo Thông tư 38/2024/TT-BGTVT, khi chạy dưới 60 km/h luật không đưa ra con số cố định mà người lái phải chủ động giữ khoảng cách an toàn phù hợp với xe trước, tùy theo mật độ phương tiện và tình hình giao thông thực tế. Cả hai ý đều đúng.",
     "image": ""
   },
   {
@@ -2137,7 +2137,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": true,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Gặp biển báo nguy hiểm và cảnh báo trên đường.”. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Biển báo nguy hiểm và cảnh báo cho biết phía trước có tình huống nguy hiểm, vì vậy phải giảm tốc, quan sát và sẵn sàng xử lý (điểm b khoản 3 Điều 12 Luật TTATGTĐB). Biển chỉ dẫn, biển hết lệnh cấm hay hết hạn chế tốc độ không đòi hỏi phải giảm tốc.",
     "image": ""
   },
   {
@@ -2150,7 +2150,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "An toàn bắt buộc: trẻ em phải có thiết bị an toàn phù hợp; người đi mô tô/xe máy phải đội mũ đạt chuẩn và cài quai đúng quy cách. Chọn phương án khẳng định yêu cầu bắt buộc: “Tổ chức phân luồng, điều tiết giao thông, bố trí nơi dừng xe, đỗ xe tại khu vực trường học và tại các điểm trên lộ trình đưa đón trẻ em mầm non, học sinh.”.",
+    "explain": "Theo Luật TTATGTĐB, xe đưa đón trẻ em mầm non, học sinh được ưu tiên bằng cách tổ chức phân luồng, điều tiết giao thông, bố trí nơi dừng, đỗ tại khu vực trường học và các điểm trên lộ trình. Luật không quy định bố trí xe dẫn đường.",
     "image": ""
   },
   {
@@ -2164,7 +2164,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": true,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Cả ba ý trên.”. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 3 Điều 12 Luật TTATGTĐB yêu cầu phải quan sát, giảm tốc độ hoặc dừng lại tại tất cả các vị trí nêu trong ba ý: nơi người đi bộ qua đường; nơi giao nhau, đường hẹp, vòng, đèo dốc; khu vực trường học, bệnh viện, chợ, đông dân cư, công trường, hiện trường tai nạn.",
     "image": ""
   },
   {
@@ -2177,7 +2177,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Chấp hành quy định về tốc độ, khoảng cách an toàn tối thiểu với xe phía trước cùng làn đường hoặc phần đường.”.",
+    "explain": "Khoản 1 Điều 12 Luật TTATGTĐB: người lái luôn phải chấp hành quy định về tốc độ và khoảng cách an toàn tối thiểu. Đoạn không có biển thì áp dụng tốc độ, khoảng cách chung theo quy định, không có chuyện \"không hạn chế\".",
     "image": ""
   },
   {
@@ -2189,7 +2189,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": true,
-    "explain": "Chọn đáp án đúng “Quan sát, giảm tốc độ đi qua xe buýt hoặc dừng lại để bảo đảm an toàn.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Điểm i khoản 3 Điều 12 Luật TTATGTĐB: tại điểm dừng, đỗ có khách đang lên, xuống xe phải quan sát, giảm tốc độ hoặc dừng lại, vì hành khách có thể bất ngờ đi ra từ phía xe buýt.",
     "image": ""
   },
   {
@@ -2201,7 +2201,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Đón, trả hành khách đúng nơi quy định; hướng dẫn sử dụng trang thiết bị an toàn trên xe; có biện pháp giữ gìn vệ sinh trong xe; vận chuyển hành khách đúng lịch trình, lộ trình đã đăng ký, trừ trường hợp bất khả kháng; không chở hành khách trên nóc xe, trong khoang chở hành lý hoặc để hành khách đu, bám bên ngoài xe.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo quy định về vận tải hành khách (Luật Đường bộ 2024), xe phải đón, trả khách ĐÚNG NƠI QUY ĐỊNH, chạy đúng lộ trình, lịch trình, hướng dẫn trang thiết bị an toàn, giữ vệ sinh và không chở khách trên nóc, trong khoang hành lý. Đón trả theo yêu cầu của khách (ý 2) là sai.",
     "image": ""
   },
   {
@@ -2215,7 +2215,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Cả ba ý trên.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Khoản 14 Điều 9 Luật TTATGTĐB nghiêm cấm vận chuyển hàng cấm lưu hành, vận chuyển trái phép hoặc không đúng quy định về hàng nguy hiểm, động vật hoang dã. Cả ba ý đều thuộc hành vi cấm.",
     "image": ""
   },
   {
@@ -2229,7 +2229,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Đe dọa, xúc phạm, tranh giành, lôi kéo hành khách; đe doạ, cưỡng ép hành khách sử dụng dịch vụ ngoài ý muốn; chuyển tải, xuống khách hoặc các hành vi khác nhằm trốn tránh phát hiện xe chở quá tải, quá số người theo quy định của pháp luật.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Khoản 15 Điều 9 Luật TTATGTĐB cấm đe dọa, xúc phạm, tranh giành, lôi kéo, cưỡng ép hành khách và chuyển tải, xuống khách để trốn tránh phát hiện chở quá tải, quá số người. Cạnh tranh lành mạnh hay giảm giá là hoạt động kinh doanh bình thường.",
     "image": ""
   },
   {
@@ -2243,7 +2243,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Không quá 4 giờ.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khoản 1 Điều 64 Luật TTATGTĐB: thời gian lái xe liên tục của người lái xe ô tô kinh doanh vận tải không quá 04 giờ (trừ trường hợp bất khả kháng), để tránh mệt mỏi, buồn ngủ gây tai nạn.",
     "image": ""
   },
   {
@@ -2257,7 +2257,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Không quá 10 giờ trong một ngày.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo quy định về thời gian làm việc của người lái xe kinh doanh vận tải (Luật Đường bộ, Bộ luật Lao động), thời gian lái xe trong một ngày không quá 10 giờ và lái liên tục không quá 4 giờ.",
     "image": ""
   },
   {
@@ -2271,7 +2271,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Ý 1 và ý 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Trước khi xe chạy, lái xe và nhân viên phục vụ phải kiểm tra điều kiện an toàn của xe và hướng dẫn hành khách về an toàn giao thông, cách thoát hiểm khi có sự cố. Kiểm tra nhân thân, hành lý của khách không phải trách nhiệm của họ.",
     "image": ""
   },
   {
@@ -2285,7 +2285,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "An toàn bắt buộc: trẻ em phải có thiết bị an toàn phù hợp; người đi mô tô/xe máy phải đội mũ đạt chuẩn và cài quai đúng quy cách. Chọn phương án khẳng định yêu cầu bắt buộc: “Cả ba ý trên.”.",
+    "explain": "Theo Điều 46 Luật TTATGTĐB, xe kinh doanh vận tải chở trẻ em mầm non, học sinh phải có thiết bị ghi hình trẻ và chống bỏ quên trẻ, niên hạn không quá 20 năm, màu sơn theo quy định; có dây đai, ghế phù hợp lứa tuổi; được đăng ký, kiểm định, lắp thiết bị giám sát hành trình và ghi hình người lái. Cả ba ý đều đúng.",
     "image": ""
   },
   {
@@ -2299,7 +2299,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả ba ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo Điều 47 Luật TTATGTĐB, vận chuyển động vật sống phải mang đủ giấy tờ, phương tiện có kết cấu phù hợp với loại động vật, và chấp hành các quy định về an toàn giao thông, vệ sinh dịch tễ, phòng dịch, môi trường. Cả ba ý đều đúng.",
     "image": ""
   },
   {
@@ -2311,7 +2311,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Vận chuyển hàng hóa nguy hiểm đòi hỏi sự kiểm soát nghiêm ngặt để đảm bảo an toàn tuyệt đối cho mọi người. Vì vậy, bắt buộc phải có giấy phép vận chuyển và trong những trường hợp cụ thể hoặc khi cần thiết, đơn vị vận chuyển phải bố trí người áp tải. Điều này giúp giám sát chặt chẽ, phòng ngừa rủi ro và ứng phó kịp thời, giữ gìn trật tự an toàn giao thông. Mẹo: Đối với các tình huống cần đảm bảo an toàn cao như vận chuyển hàng nguy hiểm, hãy chọn đáp án có quy định an toàn chặt chẽ nhất và linh hoạt để đối phó tình huống (như \"trong trường hợp cần thiết\" có người áp tải), không phải đáp án phủ nhận biện pháp an toàn.",
+    "explain": "Theo Điều 47 Luật TTATGTĐB, vận chuyển hàng hóa nguy hiểm phải có giấy phép vận chuyển, và khi cần thiết đơn vị vận chuyển phải bố trí người áp tải để bảo đảm an toàn.",
     "image": ""
   },
   {
@@ -2325,7 +2325,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả ba ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo Điều 55 Luật TTATGTĐB, xe nước ngoài vào Việt Nam phải chấp hành pháp luật giao thông Việt Nam (trừ khi điều ước quốc tế quy định khác), chỉ đi đúng phạm vi, tuyến đường, thời gian được cấp phép; xe tay lái bên phải phải đi theo đoàn, có người và phương tiện hỗ trợ dẫn đường. Cả ba ý đều đúng.",
     "image": ""
   },
   {
@@ -2338,7 +2338,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Để đảm bảo an toàn tối đa khi vận chuyển hành khách, hàng hóa bằng các loại xe này, chúng ta cần tuân thủ toàn diện các quy định. Việc kiểm tra xe, giấy tờ là điều kiện tiên quyết cho mọi chuyến đi an toàn. Đồng thời, sắp xếp hàng hóa đúng cách và không chở quá số người, quá tải trọng hay kích thước cho phép là yếu tố then chốt để tránh tai nạn. Do đó, cả hai ý trên đều bắt buộc phải thực hiện. Mẹo: Khi câu hỏi yêu cầu các biện pháp đảm bảo an toàn mà có nhiều ý đúng riêng lẻ, đáp án \"Cả hai ý trên\" (hoặc \"Tất cả các ý trên\") thường là lựa chọn chính xác.",
+    "explain": "Theo Điều 50 Luật TTATGTĐB, dùng mô tô, xe máy, xe thô sơ chở khách, chở hàng phải kiểm tra an toàn của xe, mang đủ giấy tờ, sắp xếp hàng hóa an toàn và không chở quá người, quá khối lượng, quá khổ. Cả hai ý đều đúng.",
     "image": ""
   },
   {
@@ -2350,7 +2350,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Phải chạy với tốc độ quy định trong giấy phép và phải có báo hiệu kích thước của hàng; trường hợp cần thiết, phải có người, phương tiện hỗ trợ lái xe, cảnh báo cho người, phương tiện tham gia giao thông đường bộ khác và thực hiện các biện pháp bảo đảm an toàn giao thông khi vận chuyển hàng siêu trường, siêu trọng trên đường bộ.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo Điều 52 Luật TTATGTĐB, xe chở hàng siêu trường, siêu trọng phải chạy đúng tốc độ trong giấy phép, có báo hiệu kích thước của hàng; khi cần thiết mới phải bố trí người, phương tiện hỗ trợ, cảnh báo. Ý 2 sai vì bắt buộc luôn phải có người hỗ trợ.",
     "image": ""
   },
   {
@@ -2363,7 +2363,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả hai ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo Điều 54 Luật TTATGTĐB, xe cứu hộ giao thông phải có dấu hiệu nhận diện, niêm yết thông tin, lắp thiết bị giám sát hành trình và ghi hình người lái; đồng thời tuân thủ khối lượng chuyên chở và khối lượng xe được cứu hộ ghi trên chứng nhận kiểm định. Cả hai ý đều đúng.",
     "image": ""
   },
   {
@@ -2376,7 +2376,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Được khách hàng, xã hội tôn trọng; được đồng nghiệp quý mến, giúp đỡ; được doanh nghiệp tin dùng và đóng góp nhiều cho xã hội; thu hút được khách hàng, góp phần quan trọng trong xây dựng thương hiệu, kinh doanh có hiệu quả cao.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Đạo đức nghề nghiệp tốt giúp người lái xe được khách hàng, xã hội tôn trọng, đồng nghiệp quý mến, doanh nghiệp tin dùng, góp phần xây dựng thương hiệu. Pháp luật không có quy định \"cộng điểm\" vào GPLX nên ý 2 sai.",
     "image": ""
   },
   {
@@ -2390,7 +2390,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Luôn tuân thủ pháp luật về trật tự, an toàn giao thông đường bộ, nhường nhịn và giúp đỡ người khác.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Người có văn hóa giao thông luôn tuân thủ pháp luật, biết nhường nhịn và giúp đỡ người khác. Vượt đèn đỏ, bấm còi nháy đèn liên tục hay không nhường đường đều là hành vi vi phạm và thiếu văn hóa.",
     "image": ""
   },
   {
@@ -2403,7 +2403,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả hai ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Để nâng cao đạo đức nghề nghiệp, người lái xe kinh doanh vận tải cần cả hai nhóm việc: quản lý, bảo dưỡng xe, tiết kiệm, sống lành mạnh; và chấp hành nghiêm luật, lái xe an toàn, có trách nhiệm với khách hàng, kỷ luật, hợp tác với đồng nghiệp.",
     "image": ""
   },
   {
@@ -2416,7 +2416,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả hai ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Người lái xe khách cần có thái độ lịch sự, tôn trọng, giúp đỡ hành khách (đặc biệt người già, người khuyết tật, phụ nữ có thai, trẻ em), đồng thời tu dưỡng bản thân, sống lành mạnh, tôn trọng người cùng tham gia giao thông và bảo vệ môi trường. Cả hai ý đều đúng.",
     "image": ""
   },
   {
@@ -2429,7 +2429,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả hai ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Văn hóa giao thông bao gồm cả việc hiểu biết, chấp hành nghiêm pháp luật, có ý thức trách nhiệm với cộng đồng VÀ sự tôn trọng, nhường nhịn, giúp đỡ, ứng xử văn hóa giữa những người tham gia giao thông. Hai ý gộp lại mới đầy đủ.",
     "image": ""
   },
   {
@@ -2442,7 +2442,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc làn đường: đi đúng làn; chỉ chuyển sang làn liền kề ở nơi cho phép, bật tín hiệu trước khi chuyển, bảo đảm khoảng cách an toàn. Đáp án mô tả đúng nguyên tắc: “Giảm tốc độ cho xe chạy chậm qua vũng nước.”.",
+    "explain": "Giảm tốc độ khi đi qua vũng nước để nước không bắn lên người đi xe máy bên cạnh là ứng xử có văn hóa. Chạy nhanh làm nước bắn vào người khác, còn lấn sang làn xe mô tô là vi phạm làn đường và gây nguy hiểm.",
     "image": ""
   },
   {
@@ -2454,7 +2454,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Là thiếu văn hóa giao thông, vi phạm pháp luật về trật tự, an toàn giao thông đường bộ.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Đi sai làn, phóng nhanh, vượt ẩu, vượt đèn đỏ, đi vào đường cấm vừa là hành vi thiếu văn hóa giao thông, vừa là vi phạm pháp luật về TTATGT đường bộ, nên phải chọn ý đầy đủ cả hai.",
     "image": ""
   },
   {
@@ -2466,7 +2466,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Thực hiện cầm máu không trực tiếp (chặn động mạch).” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Máu phun thành tia, mạnh theo nhịp mạch đập là dấu hiệu chảy máu động mạch. Khi đó phải cầm máu gián tiếp bằng cách ấn chặn động mạch ở phía trên vết thương (giữa vết thương và tim) để giảm lượng máu chảy tới.",
     "image": ""
   },
   {
@@ -2478,7 +2478,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Hiểu biết và chấp hành nghiêm chỉnh pháp luật về giao thông đường bộ; có ý thức trách nhiệm với cộng đồng khi tham gia giao thông; tôn trọng, nhường nhịn, giúp đỡ và ứng xử có văn hóa với những người cùng tham gia giao thông.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Người lái xe có văn hóa giao thông phải hiểu biết và chấp hành nghiêm luật, có trách nhiệm với cộng đồng, biết tôn trọng, nhường nhịn, giúp đỡ người khác. Chạy quá tốc độ, sai làn là vi phạm luật.",
     "image": ""
   },
   {
@@ -2490,7 +2490,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Chấp hành hiệu lệnh, chỉ dẫn của người điều khiển giao thông, quy định về tốc độ, tín hiệu đèn, biển báo hiệu, vạch kẻ đường khi lái xe; nhường đường cho người đi bộ, người già, trẻ em, người khuyết tật.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Người lái xe có văn hóa phải chấp hành hiệu lệnh, tốc độ, đèn, biển báo, vạch kẻ đường và nhường đường cho người đi bộ, người già, trẻ em, người khuyết tật. Ý 1 sai vì phải đi đúng làn quy định và luôn đội mũ bảo hiểm khi đi mô tô.",
     "image": ""
   },
   {
@@ -2503,7 +2503,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Điều khiển xe đi bên phải theo chiều đi của mình; đi đúng phần đường, làn đường quy định; đội mũ bảo hiểm đúng quy chuẩn kỹ thuật quốc gia, cài quai đúng quy cách.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo Điều 10 và khoản 2 Điều 33 Luật TTATGTĐB, người lái mô tô phải đi bên phải theo chiều đi, đúng phần đường, làn đường và luôn đội mũ bảo hiểm đúng quy chuẩn, cài quai đúng cách – không chỉ ở nơi có biển báo.",
     "image": ""
   },
   {
@@ -2516,7 +2516,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Điều khiển xe đi bên phải theo chiều đi của mình; đi đúng phần đường, làn đường quy định; dừng, đỗ xe đúng nơi quy định; đã uống rượu, bia thì không lái xe.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Người lái xe có văn hóa phải đi bên phải, đúng làn, dừng đỗ đúng nơi quy định và đã uống rượu bia thì không lái xe (khoản 2 Điều 9 cấm lái xe có nồng độ cồn dù ít). Dừng đỗ tùy tiện theo ý khách cũng là vi phạm.",
     "image": ""
   },
   {
@@ -2530,7 +2530,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Chỉ bấm còi khi thật sự cần thiết, không bấm còi liên tục hoặc kéo dài, sử dụng còi với mức âm lượng theo quy định.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo Điều 21 Luật TTATGTĐB, chỉ dùng còi khi thật sự cần thiết (có nguy cơ mất an toàn, báo hiệu vượt), không bấm liên tục, kéo dài và đúng âm lượng quy định. Không dùng còi khi cần cảnh báo cũng là không đúng.",
     "image": ""
   },
   {
@@ -2544,7 +2544,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả ba ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khoản 1 Điều 80 Luật TTATGTĐB quy định người gây tai nạn và người liên quan phải: dừng xe, cảnh báo, giữ nguyên hiện trường, cứu giúp nạn nhân và báo tin; ở lại hiện trường đến khi Công an tới (trừ trường hợp đi cấp cứu hoặc bị đe dọa nhưng phải trình báo ngay); cung cấp thông tin danh tính và vụ việc. Cả ba ý đều đúng.",
     "image": ""
   },
   {
@@ -2556,7 +2556,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Giúp đỡ, cứu chữa kịp thời người bị nạn; báo tin ngay cho cơ quan Công an, cơ sở khám bệnh, chữa bệnh hoặc Ủy ban nhân dân nơi gần nhất; tham gia bảo vệ hiện trường; tham gia bảo vệ tài sản của người bị nạn; cung cấp thông tin liên quan về vụ tai nạn theo yêu cầu của cơ quan có thẩm quyền.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khoản 2 Điều 80 Luật TTATGTĐB: người có mặt tại nơi xảy ra tai nạn phải giúp đỡ, cứu chữa nạn nhân, báo tin cho Công an, cơ sở y tế hoặc UBND gần nhất, bảo vệ hiện trường và tài sản của nạn nhân, cung cấp thông tin khi được yêu cầu. Chụp ảnh rồi bỏ đi là thiếu trách nhiệm.",
     "image": ""
   },
   {
@@ -2568,7 +2568,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Đặt nạn nhân nằm ngửa, khai thông đường thở của nạn nhân; thực hiện các biện pháp hô hấp nhân tạo.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Với nạn nhân ngừng thở, trước hết phải đặt nằm ngửa và khai thông đường thở (lấy dị vật, ngửa đầu nâng cằm), sau đó mới hô hấp nhân tạo thì mới có hiệu quả. Đáp án 2 thiếu bước khai thông đường thở.",
     "image": ""
   },
   {
@@ -2581,7 +2581,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": true,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Bị nghiêm cấm.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 26 Điều 9 Luật TTATGTĐB nghiêm cấm bỏ trốn sau khi gây tai nạn để trốn tránh trách nhiệm và cố ý không cứu giúp người bị nạn khi có điều kiện.",
     "image": ""
   },
   {
@@ -2595,7 +2595,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": true,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Giảm tốc độ và nhường đường cho người đi bộ.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Theo khoản 3 Điều 12 Luật TTATGTĐB, tại vạch kẻ đường dành cho người đi bộ, người lái xe phải giảm tốc độ và nhường đường cho người đi bộ. Bấm còi giục, cố đi tiếp hay lách qua đều nguy hiểm và vi phạm.",
     "image": ""
   },
   {
@@ -2609,7 +2609,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Dừng xe, hỗ trợ nạn nhân và báo cho cơ quan chức năng.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo Điều 80 Luật TTATGTĐB, người gặp tai nạn có trách nhiệm cứu giúp nạn nhân và báo tin cho cơ quan chức năng. Bỏ chạy hoặc làm ngơ là thiếu trách nhiệm, thậm chí bị nghiêm cấm (khoản 26 Điều 9).",
     "image": ""
   },
   {
@@ -2622,7 +2622,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Kiên nhẫn tuân thủ hướng dẫn của người điều khiển giao thông hoặc tín hiệu đèn giao thông, di chuyển trên đúng phần đường bên phải theo chiều đi, nhường đường cho các phương tiện đi ngược chiều.”.",
+    "explain": "Khi ùn tắc, người có văn hóa giao thông kiên nhẫn chấp hành hướng dẫn, tín hiệu đèn, đi đúng phần đường bên phải và nhường đường xe ngược chiều. Lấn làn ngược chiều hay leo vỉa hè vừa vi phạm luật vừa làm ùn tắc nặng thêm.",
     "image": ""
   },
   {
@@ -2634,7 +2634,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Bấm còi liên tục thúc giục các phương tiện phía trước nhường đường; đi trên vỉa hè, tận dụng mọi khoảng trống để nhanh chóng thoát khỏi nơi ùn tắc; lấn sang trái đường cố gắng vượt lên xe khác.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Bấm còi liên tục, đi trên vỉa hè, lấn sang trái để vượt khi đang ùn tắc là hành vi thiếu văn hóa và vi phạm luật. Ý 2 là cách ứng xử đúng, có văn hóa.",
     "image": ""
   },
   {
@@ -2648,7 +2648,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả ba ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Để phòng cháy cho xe cần làm đủ cả ba nhóm việc: không lắp thêm thiết bị điện sai thiết kế, bảo dưỡng và xử lý ngay dấu hiệu bất thường; tắt khóa điện, để xa nguồn lửa, không mua xăng trôi nổi; không để chất dễ cháy trong xe, sạc xe điện ở nơi an toàn và có giám sát.",
     "image": ""
   },
   {
@@ -2661,7 +2661,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả hai ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khi xe cháy mà có khả năng dập được: tắt khóa điện, hô hoán và gọi 114; lửa nhỏ thì dùng nước hoặc bất cứ phương tiện có sẵn, lửa lớn do nhiên liệu tràn ra thì dùng bình chữa cháy, cát, chăn, bao tải nhúng nước (không dùng nước vì xăng dầu nổi trên nước làm cháy lan). Cả hai ý đúng.",
     "image": ""
   },
   {
@@ -2675,7 +2675,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Bình tĩnh, đưa xe sát vào lề đường, tránh xa nơi có nhiều người, nhiều chất dễ cháy và tắt khóa điện, thực hiện các bước chữa cháy.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Việc ĐẦU TIÊN là bình tĩnh đưa xe sát lề, tránh xa đám đông và chất dễ cháy, tắt khóa điện để ngắt nguồn nhiên liệu, điện rồi mới chữa cháy. Ý 3 sai vì nhiên liệu đã trào ra thì không được dùng nước, nên không chọn \"cả ba\".",
     "image": ""
   },
   {
@@ -2689,7 +2689,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả ba ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khi sơ cứu người bị bỏng cần: gọi cấp cứu 115 và bảo đảm an toàn cho mình; tách nạn nhân khỏi nguồn gây bỏng, làm mát vết bỏng bằng nước sạch (không quá lạnh); bù nước nếu tỉnh, giữ ấm và đưa đến cơ sở y tế. Cả ba ý đều đúng.",
     "image": ""
   },
   {
@@ -2702,7 +2702,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": true,
-    "explain": "Chọn đáp án đúng “Giữ tay ga ở mức độ phù hợp, sử dụng phanh trước và phanh sau để giảm tốc độ.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Xuống dốc dài bằng xe tay ga cần giữ ga ở mức phù hợp (để động cơ hỗ trợ ghìm tốc) và phối hợp cả phanh trước, phanh sau. Tắt máy khi xuống dốc rất nguy hiểm vì mất khả năng kiểm soát; chỉ dùng phanh trước dễ bó cứng bánh trước gây ngã.",
     "image": ""
   },
   {
@@ -2714,7 +2714,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Đạp bàn đạp phanh chân hết hành trình, vào số và nhả phanh đỗ, kiểm tra lại xem có bị nhầm số không rồi mới cho xe lăn bánh.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Với xe số tự động, phải đạp hết phanh chân trước khi vào số (xe mới cho chuyển cần số và tránh xe lao đi), nhả phanh đỗ và kiểm tra đúng số rồi mới cho xe lăn bánh. Đạp ga khi vào số dễ khiến xe chồm lên gây tai nạn.",
     "image": ""
   },
   {
@@ -2727,7 +2727,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Dùng lực tay phải bóp khóa hãm đẩy cần phanh tay về phía trước hết hành trình; nếu khóa hãm bị kẹt cứng phải kéo cần phanh tay về phía sau đồng thời bóp khóa hãm.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Muốn nhả phanh tay: bóp khóa hãm (nút ở đầu cần) rồi đẩy cần về phía trước hết hành trình. Nếu khóa hãm bị kẹt thì kéo nhẹ cần về phía sau để giải phóng chốt, đồng thời bóp khóa hãm rồi mới đẩy về trước.",
     "image": ""
   },
   {
@@ -2739,7 +2739,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Kiểm tra an toàn xung quanh xe ô tô; đạp ly hợp (côn) hết hành trình; vào số 1; nhả hết phanh tay, báo hiệu bằng còi, đèn trước khi xuất phát; tăng ga đủ để xuất phát; nhả từ từ đến 1/2 hành trình bàn đạp côn và giữ trong khoảng 3 giây, sau đó vừa tăng ga vừa nhả hết côn để cho xe ô tô chuyển động.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Trình tự đúng: kiểm tra an toàn xung quanh → đạp hết côn → vào số 1 → nhả phanh tay, báo hiệu còi/đèn → tăng ga đủ để xuất phát → nhả côn từ từ đến nửa hành trình giữ khoảng 3 giây → vừa tăng ga vừa nhả hết côn. Phải đạp hết côn mới vào được số, nên đáp án 1 sai thứ tự.",
     "image": ""
   },
   {
@@ -2751,7 +2751,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Quan sát biển báo hiệu để biết nơi được phép quay đầu; quan sát kỹ địa hình nơi chọn để quay đầu; lựa chọn quỹ đạo quay đầu xe cho thích hợp; quay đầu xe với tốc độ thấp; thường xuyên báo tín hiệu để người, các phương tiện xung quanh được biết; nếu quay đầu xe ở nơi nguy hiểm thì đưa đầu xe về phía nguy hiểm, đưa đuôi xe về phía an toàn.”.",
+    "explain": "Quay đầu phải chọn nơi được phép, quan sát địa hình, chọn quỹ đạo phù hợp, đi tốc độ thấp và báo tín hiệu liên tục. Ở nơi nguy hiểm thì đưa đầu xe về phía nguy hiểm, đuôi xe về phía an toàn, vì người lái nhìn thấy phía trước rõ hơn phía sau.",
     "image": ""
   },
   {
@@ -2764,7 +2764,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Điều chỉnh ghế sao cho chân có thể đạp phanh và ga dễ dàng, ngồi thẳng lưng, hai tay nắm vô lăng, tay trái nắm ở vị trí 9 đến 10 giờ và tay phải nắm ở vị trí từ 2 đến 4 giờ.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Tư thế đúng: chỉnh ghế để chân đạp ga, phanh dễ dàng, lưng thẳng, hai tay nắm vô lăng ở khoảng vị trí 9–10 giờ (tay trái) và 2–4 giờ (tay phải). Ngồi quá sát hoặc ngả ra sau, cầm vô lăng tùy tiện đều làm giảm khả năng điều khiển.",
     "image": ""
   },
   {
@@ -2776,7 +2776,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Về số thấp từ chân dốc, điều chỉnh ga cho xe từ từ lên dốc; đến gần đỉnh dốc phải đi chậm, đi sát về phía bên phải đường, có tín hiệu (còi, đèn) để báo cho người lái xe đi ngược chiều biết.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Lên dốc cao phải về số thấp từ chân dốc để xe có lực kéo lớn, đi từ từ; gần đỉnh dốc tầm nhìn bị che khuất nên phải đi chậm, sát bên phải và báo hiệu bằng còi, đèn cho xe ngược chiều.",
     "image": ""
   },
   {
@@ -2789,7 +2789,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Về số thấp, nhả bàn đạp ga ở mức độ phù hợp, kết hợp với phanh chân để khống chế tốc độ.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xuống dốc dài phải về số thấp để tận dụng phanh động cơ, kết hợp phanh chân khống chế tốc độ. Để số cao hoặc về số 0 (N) khiến xe trôi nhanh, phải phanh liên tục dễ làm phanh quá nóng, mất tác dụng.",
     "image": ""
   },
   {
@@ -2802,7 +2802,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Có tín hiệu rẽ phải, điều khiển xe sát vào lề đường bên phải; đạp phanh sớm và mạnh hơn lúc dừng xe trên đường bằng để xe đi với tốc độ chậm đến mức dễ dàng dừng lại được; về số 1, đạp 1/2 ly hợp (côn) cho xe đến chỗ dừng; khi xe đã dừng, về số không (N), đạp phanh chân, sử dụng phanh đỗ.”.",
+    "explain": "Muốn dừng xe khi xuống dốc: bật tín hiệu rẽ phải, đưa xe sát lề phải, phanh sớm và mạnh hơn trên đường bằng, về số 1, đạp nửa côn cho xe đến chỗ dừng; khi dừng hẳn thì về N, đạp phanh chân và kéo phanh đỗ. Đáp án 2 sai vì đỗ bên trái, đáp án 3 sai vì bật xi nhan trái và thả trôi số N.",
     "image": ""
   },
   {
@@ -2814,7 +2814,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": true,
-    "explain": "Chọn đáp án đúng “Quan sát cẩn thận các chướng ngại vật và báo hiệu bằng coi, đèn; giảm tốc độ tới mức cần thiết, về số thấp và thực hiện quay vòng với tốc độ phù hợp với bán kính cong của đường vòng.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khi vào đường vòng phải quan sát, báo hiệu bằng còi, đèn, giảm tốc độ, về số thấp và vào cua với tốc độ phù hợp bán kính cong. Tăng tốc trong khúc cua dễ làm xe văng ra ngoài.",
     "image": ""
   },
   {
@@ -2827,7 +2827,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cách chỗ rẽ một khoảng cách an toàn có tín hiệu rẽ phải; giảm tốc độ, quan sát an toàn phía trước, sau, bên phải và điều khiển xe từ từ rẽ phải.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Rẽ phải cần bật xi nhan phải từ khoảng cách an toàn, giảm tốc, quan sát phía trước, sau và bên phải (nơi có xe máy, xe đạp, người đi bộ) rồi rẽ từ từ. Không được lấn sang làn trái hay tăng tốc khi rẽ.",
     "image": ""
   },
   {
@@ -2839,7 +2839,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cách chỗ rẽ một khoảng cách an toàn có tín hiệu rẽ trái; giảm tốc độ, quan sát an toàn xung quanh đặc biệt là bên trái; đổi sang làn đường bên trái và điều khiển xe từ từ rẽ trái.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Rẽ trái cần bật xi nhan trái từ khoảng cách an toàn, giảm tốc, quan sát đặc biệt bên trái, chuyển sang làn bên trái rồi rẽ từ từ. Tăng tốc hay đổi sang làn phải để mở rộng vòng cua là sai và nguy hiểm.",
     "image": ""
   },
   {
@@ -2852,7 +2852,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Vào số một (1) và từ từ cho hai bánh xe trước xuống rãnh, tăng ga cho hai bánh xe trước vượt lên khỏi rãnh, tiếp tục để bánh xe sau từ từ xuống rãnh rồi tăng dần ga cho xe ô tô lên khỏi rãnh.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Qua rãnh lớn phải vào số 1, cho hai bánh trước xuống rãnh từ từ, tăng ga cho bánh trước lên, sau đó để bánh sau cũng từ từ xuống rãnh rồi mới tăng dần ga cho xe lên khỏi rãnh. Tăng số, tăng tốc khi bánh sau chưa qua dễ gây sốc, hư hỏng xe.",
     "image": ""
   },
   {
@@ -2865,7 +2865,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả hai ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Có chuông báo hoặc chắn đã hạ thì phải dừng ở khoảng cách an toàn (kéo phanh tay nếu dốc hoặc chờ lâu). Không có chuông, chắn thì quan sát, đủ an toàn mới về số thấp, tăng ga nhẹ và không đổi số khi qua đường ray để tránh chết máy giữa đường sắt. Cả hai ý đều đúng.",
     "image": ""
   },
   {
@@ -2879,7 +2879,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Ý 1 và ý 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Lái xe tự đổ (xe ben): đi chậm trên đường xấu, giảm tốc khi vào cua, không đánh lái và phanh gấp để tránh lệch ben (ý 1); đổ hàng ở nơi nền cứng phẳng, dừng hẳn, kéo phanh đỗ rồi mới nâng ben, đổ xong mới hạ thùng (ý 3). Ý 2 sai vì khi chạy luôn phải hạ hết thùng.",
     "image": ""
   },
   {
@@ -2891,7 +2891,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Không được nhìn xuống buồng lái, cần phải tăng thứ tự từ thấp đến cao, phối hợp các động tác phải nhịp nhàng, chính xác.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khi tăng số không được nhìn xuống buồng lái (mất quan sát phía trước), phải tăng lần lượt từ số thấp lên số cao và phối hợp các động tác nhịp nhàng, chính xác.",
     "image": ""
   },
   {
@@ -2903,7 +2903,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Không được nhìn xuống buồng lái, cần phải giảm thứ tự từ cao xuống thấp, phối hợp các động tác phải nhịp nhàng, chính xác, vù ga phải phù hợp với tốc độ.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khi giảm số không được nhìn xuống buồng lái, phải giảm lần lượt từ số cao xuống thấp, phối hợp nhịp nhàng, chính xác và vù ga phù hợp với tốc độ để vào số êm, không giật xe.",
     "image": ""
   },
   {
@@ -2916,7 +2916,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Về số thấp phù hợp, nhả bàn đạp ga, kết hợp đạp phanh chân với mức độ phù hợp để giảm tốc độ.”.",
+    "explain": "Để giảm tốc khi xuống dốc dài: về số thấp phù hợp, nhả ga và kết hợp phanh chân vừa phải. Đạp hết côn hay lên số cao làm mất phanh động cơ, xe trôi nhanh, phải phanh gấp rất nguy hiểm.",
     "image": ""
   },
   {
@@ -2929,7 +2929,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Quan sát, ước lượng độ ngập nước mà xe ô tô có thể vượt qua an toàn, về số thấp, giữ đều ga và giữ vững tay lái để ô tô vượt qua đoạn đường ngập nước.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Qua đường ngập phải quan sát, ước lượng mức nước xe có thể vượt qua, về số thấp, giữ đều ga và vững tay lái. Tăng giảm ga liên tục hoặc đạp côn dễ làm nước tràn vào ống xả khiến chết máy.",
     "image": ""
   },
   {
@@ -2942,7 +2942,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Chuyển từ đèn chiếu xa sang đèn chiếu gần; không nhìn thẳng vào đèn của xe chạy ngược chiều mà nhìn chếch sang phía phải theo chiều chuyển động của xe mình.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Ban đêm gặp xe ngược chiều phải chuyển sang đèn chiếu gần để không làm chói mắt họ (điểm c khoản 2 Điều 20 Luật TTATGTĐB), và không nhìn thẳng vào đèn xe đối diện mà nhìn chếch sang bên phải để không bị lóa.",
     "image": ""
   },
   {
@@ -2954,7 +2954,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": true,
-    "explain": "Chọn đáp án đúng “Giữ vững tay lái cho xe đi đúng vệt bánh xe đi trước, sử dụng số thấp đi chậm, gài cầu (nếu có), giữ đều ga, không lấy nhiều lái, không đánh lái ngoặt và phanh gấp.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Trên đường trơn phải giữ vững lái, đi theo vệt bánh xe trước, dùng số thấp đi chậm, gài cầu (nếu có), giữ đều ga, không đánh lái nhiều, không đánh lái ngoặt và không phanh gấp – vì những thao tác đột ngột dễ làm xe trượt mất lái.",
     "image": ""
   },
   {
@@ -2967,7 +2967,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Đang sử dụng phanh đỗ.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Ký hiệu hình tròn có chữ P (hoặc dấu chấm than) trong ngoặc là đèn báo phanh đỗ (phanh tay) đang được kéo. Cần nhả phanh tay trước khi cho xe chạy.",
     "image": "images/227.jpg"
   },
   {
@@ -2981,7 +2981,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Áp suất dầu ở mức thấp.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Ký hiệu hình bình dầu (giống ấm dầu có giọt dầu nhỏ ra) là đèn báo áp suất dầu bôi trơn động cơ ở mức thấp. Cần dừng xe kiểm tra ngay để tránh hỏng động cơ.",
     "image": "images/228.jpg"
   },
   {
@@ -2995,7 +2995,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cửa xe đóng chưa chặt hoặc có cửa xe chưa đóng.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Ký hiệu hình chiếc xe nhìn từ trên xuống với cửa mở ra là đèn báo cửa xe chưa đóng hoặc đóng chưa chặt.",
     "image": "images/229.jpg"
   },
   {
@@ -3009,7 +3009,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Lái xe và người ngồi ghế trước chưa cài dây đai an toàn.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Ký hiệu hình người ngồi đeo dây đai là đèn báo người lái và người ngồi ghế trước chưa thắt dây đai an toàn.",
     "image": "images/230.jpg"
   },
   {
@@ -3023,7 +3023,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Sắp hết nhiên liệu.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Ký hiệu hình cây bơm xăng là đèn báo sắp hết nhiên liệu, cần đổ thêm nhiên liệu sớm.",
     "image": "images/231.jpg"
   },
   {
@@ -3036,7 +3036,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xăng sinh học và khí sinh học.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xăng sinh học (như E5, E10) và khí sinh học là nhiên liệu sạch hơn, phát thải ít khí độc hại, giúp giảm ô nhiễm môi trường so với xăng và dầu diesel thông thường.",
     "image": ""
   },
   {
@@ -3049,7 +3049,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả hai ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Để tiết kiệm nhiên liệu cần bảo dưỡng xe định kỳ, lên kế hoạch lộ trình trước, giữ áp suất lốp đúng quy định và chạy tốc độ phù hợp với mặt đường, mật độ giao thông. Cả hai ý đều đúng.",
     "image": ""
   },
   {
@@ -3062,7 +3062,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": true,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Quan sát tình hình giao thông phía trước, phía sau và phía bên mở cửa xe, mở hé cánh cửa, nếu đảm bảo an toàn thì mở cửa ở mức cần thiết để xuống xe ô tô.”. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Điều 19 Luật TTATGTĐB: trước khi mở cửa phải quan sát phía trước, phía sau và bên mở cửa; nên mở hé cửa trước, thấy an toàn mới mở ở mức cần thiết để xuống xe. Mở toang cửa ngay dễ va vào xe máy, xe đạp đi tới.",
     "image": ""
   },
   {
@@ -3075,7 +3075,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả hai ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Qua đường sắt không có rào chắn: giảm tốc, dừng trước vạch dừng, quan sát hai phía, không có tàu thì tăng ga nhẹ đi qua; nếu có tàu tới thì dừng chờ tàu đi qua hẳn mới đi (khoản 2 Điều 24 Luật TTATGTĐB). Cả hai ý đều đúng.",
     "image": ""
   },
   {
@@ -3088,7 +3088,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Đúng.”.",
+    "explain": "Thao tác mô tả đúng với khoản 2 Điều 24 Luật TTATGTĐB: dừng trước vạch dừng, quan sát hai phía, chỉ đi khi không có tàu, có tàu thì chờ tàu qua. Ý 3 sai vì không được cố vượt khi tàu đang tới dù còn xa.",
     "image": ""
   },
   {
@@ -3101,7 +3101,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Về số thấp, kết hợp phanh chân để giảm tốc độ.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Trên đường trơn trượt, lầy lội, xe số tự động cần về số thấp (L, 1, 2) để tăng lực kéo, ghìm tốc bằng động cơ, kết hợp phanh chân. Về N làm mất phanh động cơ, còn dùng phanh đỗ khi đang chạy dễ làm xe trượt.",
     "image": ""
   },
   {
@@ -3114,7 +3114,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Vị trí N hoặc vị trí P hoặc số 0.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khi động cơ đang nổ, muốn chỉnh ghế phải để cần số ở P, N (hoặc số 0 với xe số sàn) để xe không thể tự chuyển động nếu lỡ chạm chân ga.",
     "image": ""
   },
   {
@@ -3127,7 +3127,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Không sử dụng chân trái; chân phải điều khiển bàn đạp phanh và bàn đạp ga.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xe số tự động không có bàn đạp côn nên không dùng chân trái; chân phải điều khiển cả phanh và ga để tránh trường hợp đạp nhầm hoặc đạp cùng lúc cả hai bàn đạp.",
     "image": ""
   },
   {
@@ -3140,7 +3140,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Giảm tốc độ, chạy cách xa xe trước với khoảng cách an toàn, bật đèn sương mù và đèn chiếu gần.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Sương mù, mưa to làm tầm nhìn hạn chế nên phải giảm tốc độ, giữ khoảng cách xa hơn với xe trước, bật đèn sương mù và đèn chiếu gần (khoản 1 Điều 20 Luật TTATGTĐB). Đèn pha sẽ bị hơi nước phản chiếu gây lóa.",
     "image": ""
   },
   {
@@ -3153,7 +3153,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Giảm tốc độ, giữ vững tay lái, nhìn chếch sang lề đường bên phải.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khi bị đèn xe ngược chiều làm chói mắt, phải giảm tốc độ, giữ vững tay lái và nhìn chếch sang lề đường bên phải để định hướng. Bật đèn pha \"đáp trả\" làm cả hai bên cùng bị lóa, rất nguy hiểm.",
     "image": ""
   },
   {
@@ -3166,7 +3166,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Giảm hết ga, sử dụng đồng thời cả phanh sau và phanh trước.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Phanh hiệu quả nhất trên xe mô tô là giảm hết ga và dùng đồng thời cả phanh trước và phanh sau, lực phanh phân bố đều giúp xe dừng nhanh mà không bị trượt hoặc lật.",
     "image": ""
   },
   {
@@ -3179,7 +3179,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Giảm tốc độ, về số thấp và giữ đều ga.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Gặp nhiều ổ gà phải giảm tốc độ, về số thấp và giữ đều ga để xe đi êm, không bị xóc mạnh. Tăng tốc hay đánh lái liên tục dễ mất lái, hư hỏng xe.",
     "image": ""
   },
   {
@@ -3192,7 +3192,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Bật đèn chiếu gần và đèn vàng (nếu có), điều khiển gạt nước, điều khiển ô tô đi với tốc độ chậm để có thể quan sát được; tìm chỗ an toàn dừng xe, bật đèn dừng khẩn cấp báo hiệu cho các xe khác biết.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Mưa to, sương mù phải bật đèn chiếu gần và đèn vàng (sương mù) nếu có, bật gạt nước, đi chậm để quan sát được; nếu quá khó nhìn thì tìm chỗ an toàn dừng xe và bật đèn khẩn cấp. Bật đèn pha hay tăng tốc đều nguy hiểm.",
     "image": ""
   },
   {
@@ -3205,7 +3205,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": true,
-    "explain": "Chọn đáp án đúng “Giảm tốc độ, tăng cường quan sát, không nên phanh gấp, không nên tăng ga hay đánh vô lăng đột ngột, bật đèn chiếu gần, mở chế độ gạt nước ở chế độ phù hợp để đảm bảo quan sát.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Trời mưa đường trơn, tầm nhìn kém nên cần giảm tốc, quan sát kỹ, không phanh gấp, không tăng ga hay đánh lái đột ngột, bật đèn chiếu gần và gạt nước phù hợp.",
     "image": ""
   },
   {
@@ -3218,7 +3218,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": true,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Quan sát bên trái, bên phải, phía sau xe, có tín hiệu cần thiết và lùi xe với tốc độ phù hợp.”. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Theo Điều 16 Luật TTATGTĐB, khi lùi xe phải quan sát hai bên và phía sau, có tín hiệu lùi và lùi với tốc độ phù hợp (chậm). Chỉ nhìn phía trước rồi lùi nhanh là rất nguy hiểm.",
     "image": ""
   },
   {
@@ -3231,7 +3231,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Cả hai ý trên.”.",
+    "explain": "Trong khu đông dân cư cần giảm tốc đến mức an toàn, quan sát, nhường người đi bộ, giữ khoảng cách với xe trước; đồng thời đi đúng làn, chỉ chuyển làn ở nơi cho phép và phải quan sát. Cả hai ý đều đúng.",
     "image": ""
   },
   {
@@ -3244,7 +3244,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Quan sát, phát tín hiệu, nhường đường cho các xe đang chạy trên đường cao tốc, khi đủ điều kiện an toàn thì tăng tốc độ cho xe nhập vào làn đường cao tốc, nếu có làn đường tăng tốc thì phải cho xe chạy trên làn đường đó trước khi cho xe nhập vào làn của đường cao tốc.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Theo điểm a khoản 1 Điều 25 Luật TTATGTĐB: khi nhập cao tốc phải quan sát, có tín hiệu, nhường xe đang chạy trên cao tốc, có làn tăng tốc thì phải chạy trên làn đó để tăng tốc rồi mới nhập. Đáp án 3 sai vì \"giảm tốc độ\" khi nhập làn là nguy hiểm.",
     "image": ""
   },
   {
@@ -3256,7 +3256,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Quan sát phía trước để tìm biển báo chỉ dẫn \"lối ra đường cao tốc\", kiểm tra tình trạng giao thông phía sau và bên phải, nếu bảo đảm điều kiện an toàn thì phát tín hiệu và điều khiển xe chuyển dần sang làn bên phải, nếu có làn đường giảm tốc thì phải cho xe di chuyển trên làn đường đó trước khi ra khỏi đường cao tốc.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Theo điểm b khoản 1 Điều 25 Luật TTATGTĐB: chuẩn bị ra cao tốc phải quan sát biển chỉ dẫn lối ra, chuyển dần sang làn bên phải, có làn giảm tốc thì đi vào làn đó trước khi ra. Lùi xe trên cao tốc là bị cấm.",
     "image": ""
   },
   {
@@ -3269,7 +3269,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Xe gặp sự cố, tai nạn hoặc trường hợp khẩn cấp không thể di chuyển bình thường.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Khoản 2 Điều 25 Luật TTATGTĐB: chỉ được dừng, đỗ ở làn dừng khẩn cấp khi gặp sự cố kỹ thuật hoặc bất khả kháng. Dừng để nghỉ ngơi, chụp ảnh, việc riêng là vi phạm.",
     "image": ""
   },
   {
@@ -3283,7 +3283,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Quy tắc vượt xe: chỉ vượt khi đủ điều kiện an toàn, có tín hiệu, giữ khoảng cách, không vượt ở cầu hẹp/đường cong/tầm nhìn hạn chế/giao cắt. Đáp án đúng mô tả đúng trình tự/tình huống an toàn: “Cả ba ý trên.”.",
+    "explain": "Vượt xe kéo rơ moóc trên đường đôi cần: giữ khoảng cách, tránh điểm mù, bật xi nhan và báo hiệu xin vượt; khi được cho vượt và đủ an toàn thì vượt dứt khoát, không chạy song song; vượt xong quan sát gương phải, có khoảng trống an toàn mới trở về làn. Cả ba ý đều đúng.",
     "image": ""
   },
   {
@@ -3295,7 +3295,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": true,
-    "explain": "Chọn đáp án đúng “Nhả bàn đạp ga, về số thấp, đạp phanh chân với mức độ phù hợp để giảm tốc độ.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Xe số tự động xuống dốc dài phải nhả ga, về số thấp (L, 1, 2) để có phanh động cơ và đạp phanh chân vừa phải. Về N là thả trôi xe, mất phanh động cơ, rất nguy hiểm.",
     "image": ""
   },
   {
@@ -3308,7 +3308,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": true,
-    "explain": "Chọn đáp án đúng “Quan sát, giảm tốc độ, phát tín hiệu, nhường đường cho xe trên đường chính từ bất kỳ hướng nào tới.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 1 Điều 22 Luật TTATGTĐB: xe từ đường nhánh ra đường chính phải quan sát, giảm tốc, phát tín hiệu và nhường đường cho xe trên đường chính từ bất kỳ hướng nào, không phụ thuộc kích thước xe.",
     "image": ""
   },
   {
@@ -3321,7 +3321,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": true,
-    "explain": "Chọn đáp án đúng “Giảm tốc độ để dừng xe ở nơi cho phép sau đó sử dụng điện thoại để liên lạc.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Khoản 6 Điều 9 Luật TTATGTĐB cấm dùng tay cầm và sử dụng điện thoại khi xe đang di chuyển. Muốn gọi điện, nhắn tin phải dừng xe ở nơi được phép rồi mới sử dụng.",
     "image": ""
   },
   {
@@ -3334,7 +3334,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": true,
-    "explain": "Chọn đáp án đúng “Chỉ sử dụng phanh trước.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Chỉ dùng phanh trước trên xe tay ga dễ làm bó cứng bánh trước, xe bị trượt, chúi đầu, gây ngã rất nguy hiểm. Phanh đồng thời cả hai phanh mới là cách đúng.",
     "image": ""
   },
   {
@@ -3346,7 +3346,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Quan sát phía trước, phía sau và bên phía mở cửa để phát hiện các phương tiện đang di chuyển tới gần, khi đủ điều kiện an toàn, mở hé cửa, sau đó mở ở mức cần thiết để xuống xe.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo Điều 19 Luật TTATGTĐB, người mở cửa (kể cả hành khách) phải quan sát phía trước, phía sau và bên mở cửa, đủ an toàn mới mở hé, rồi mở ở mức cần thiết để xuống xe.",
     "image": ""
   },
   {
@@ -3360,7 +3360,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Cả ba ý trên.”.",
+    "explain": "Quay đầu xe mô tô an toàn cần: bật tín hiệu, giảm tốc đến mức có thể dừng; chỉ quay đầu ở nơi được phép; quan sát xe phía trước, sau, hai bên và nhường đường cho xe đi tới. Cả ba ý đều đúng.",
     "image": ""
   },
   {
@@ -3374,7 +3374,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Ý 1 và ý 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Tay ga dùng để điều tiết công suất động cơ, qua đó điều khiển xe chạy về phía trước và thay đổi tốc độ. Xe mô tô thông thường không có chức năng chạy lùi bằng tay ga.",
     "image": ""
   },
   {
@@ -3388,7 +3388,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Để quan sát an toàn phía sau của bên trái và bên phải trước khi chuyển hướng.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Gương chiếu hậu dùng để quan sát phía sau ở cả bên trái và bên phải trước khi chuyển hướng, chuyển làn, giúp phát hiện xe đang tới từ phía sau.",
     "image": ""
   },
   {
@@ -3402,7 +3402,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": true,
-    "explain": "Chọn đáp án đúng “Tăng ga từ từ, giảm ga thật nhanh.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc. (Câu điểm liệt – bắt buộc nắm chắc).",
+    "explain": "Tăng ga từ từ giúp xe tăng tốc êm, không bị chồm lên mất lái; khi cần giảm tốc thì phải giảm ga thật nhanh để xe kịp chậm lại, phòng tránh va chạm.",
     "image": ""
   },
   {
@@ -3416,7 +3416,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả ba ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Ở đường xấu, hẹp cần đi tốc độ thấp và nhìn trước 5–10 m để chỉnh hướng sớm; hạn chế phanh trước tránh khóa bánh dẫn hướng gây ngã; không lắc người nhiều, giữ trọng tâm người trùng trọng tâm xe. Cả ba ý đều đúng.",
     "image": ""
   },
   {
@@ -3430,7 +3430,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả ba ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xuống dốc dài với xe điện cần kiểm tra hệ thống an toàn, pin trước khi đi; nhả chân ga để phanh tái sinh hoạt động (vừa ghìm tốc vừa sạc lại pin); rà phanh chân để sẵn sàng xử lý tình huống. Cả ba ý đều đúng.",
     "image": ""
   },
   {
@@ -3444,7 +3444,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả ba ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xe điện qua vùng ngập cần biết khả năng lội nước của xe; giữ vững lái, đều ga, không để xe dừng giữa dòng; đi chậm không tạo sóng, giữ khoảng cách với người, xe xung quanh. Cả ba ý đều đúng.",
     "image": ""
   },
   {
@@ -3457,7 +3457,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Rút que thăm dầu trên các-te, lau sạch que thăm sau đó cắm vào các-te và rút ra quan sát vệt dầu trên que thăm, mức dầu phải nằm trong khoảng vạch mức tối thiểu và tối đa được thể hiện trên que thăm.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Cách đúng: rút que thăm dầu, lau sạch, cắm lại vào các-te rồi rút ra quan sát; mức dầu phải nằm giữa vạch MIN và MAX. Nhìn que ngay lần rút đầu dễ bị sai do dầu bám, còn mức dầu không cần phải đúng vạch tối đa hay tối thiểu.",
     "image": ""
   },
   {
@@ -3470,7 +3470,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả hai ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo quy chuẩn an toàn kỹ thuật, ô tô phải có kính an toàn, phanh và hệ thống lái hiệu lực, tay lái bên trái, còi đúng âm lượng; có đủ đèn chiếu sáng, đèn soi biển số, đèn phanh, đèn tín hiệu, bộ giảm thanh, giảm khói và kết cấu đủ bền. Cả hai ý đều đúng.",
     "image": ""
   },
   {
@@ -3483,7 +3483,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Bắt buộc.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo quy chuẩn an toàn kỹ thuật và bảo vệ môi trường, xe mô tô và ô tô tham gia giao thông bắt buộc phải có đủ bộ phận giảm thanh để hạn chế tiếng ồn.",
     "image": ""
   },
   {
@@ -3497,7 +3497,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Ý 1 và ý 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Ô tô bắt buộc phải có đủ đèn chiếu sáng gần và xa, đèn soi biển số, đèn báo hãm (đèn phanh) và đèn tín hiệu. Dàn đèn pha trên nóc xe không phải trang bị bắt buộc, lắp thêm còn có thể bị xử phạt.",
     "image": ""
   },
   {
@@ -3509,7 +3509,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Là loại kính an toàn, kính nhiều lớp, đúng quy cách, không rạn nứt, bảo đảm hình ảnh quan sát rõ ràng, không bị méo mó.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Kính chắn gió phải là kính an toàn, nhiều lớp, đúng quy cách, không rạn nứt, cho hình ảnh rõ, không méo mó. Khi vỡ, kính an toàn không văng mảnh sắc gây thương tích.",
     "image": ""
   },
   {
@@ -3522,7 +3522,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả hai ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Bánh xe phải chắc chắn, lắp đúng quy cách nhà sản xuất; lốp phải đủ số lượng, đủ áp suất, không phồng rộp, đúng cỡ, lốp trên cùng một trục phải cùng kiểu loại. Cả hai ý đều đúng.",
     "image": ""
   },
   {
@@ -3535,7 +3535,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả hai ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Hệ thống lái phải giúp xe chuyển hướng chính xác, nhẹ nhàng, an toàn ở mọi vận tốc và tải trọng; các cơ cấu không va chạm với bộ phận khác, lực đánh lái sang trái và phải không chênh lệch đáng kể. Cả hai ý đều đúng.",
     "image": ""
   },
   {
@@ -3548,7 +3548,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả hai ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Bảo dưỡng thường xuyên giúp xe luôn có tính năng kỹ thuật tốt, giảm hao mòn, kéo dài tuổi thọ, đồng thời phát hiện sớm hư hỏng để khắc phục và giữ gìn hình thức xe. Cả hai ý đều đúng.",
     "image": ""
   },
   {
@@ -3561,7 +3561,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Hết nhiên liệu, lõi lọc nhiên liệu bị tắc, lọc khí bị tắc, nhiên liệu lẫn không khí, tạp chất.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Động cơ diesel tự cháy do nén, KHÔNG dùng tia lửa điện. Vì vậy nguyên nhân không nổ là do hết nhiên liệu, tắc lọc nhiên liệu, tắc lọc khí, nhiên liệu lẫn không khí, tạp chất. Các đáp án nhắc đến \"tia lửa điện\" là của động cơ xăng.",
     "image": ""
   },
   {
@@ -3574,7 +3574,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả hai ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Ống xả không được đặt ở vị trí có thể gây cháy, ảnh hưởng người ngồi trên xe hay cản trở hệ thống khác; miệng ống xả không được hướng về phía trước và không hướng sang bên phải (phía người đi bộ, lề đường). Cả hai ý đều đúng.",
     "image": ""
   },
   {
@@ -3587,7 +3587,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Đủ số lượng, lắp đặt chắc chắn không bị rách, đứt, khóa cài đóng, mở nhẹ nhàng, không tự mở, không bị kẹt; kéo ra thu vào dễ dàng, cơ cấu hãm giữ chặt dây khi giật dây đột ngột.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Dây đai an toàn phải đủ số lượng, chắc chắn, không rách đứt, khóa cài hoạt động tốt, kéo ra thu vào dễ dàng và cơ cấu hãm phải GIỮ CHẶT dây khi bị giật đột ngột (như khi va chạm). Nếu cơ cấu mở ra thì dây đai mất tác dụng.",
     "image": ""
   },
   {
@@ -3599,7 +3599,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Là loại động cơ: để hoàn thành một chu trình công tác của động cơ, pít tông thực hiện 4 (bốn) hành trình, trong đó có một lần sinh công.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Động cơ 4 kỳ là động cơ mà pít tông thực hiện 4 hành trình (nạp – nén – nổ – xả) để hoàn thành một chu trình, trong đó chỉ có một lần sinh công (kỳ nổ). Động cơ 2 hành trình là động cơ 2 kỳ.",
     "image": ""
   },
   {
@@ -3612,7 +3612,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cung cấp một lượng dầu bôi trơn đủ và sạch dưới áp suất nhất định đi bôi trơn cho các chi tiết của động cơ để giảm ma sát, giảm mài mòn, làm kín, làm sạch, làm mát và chống gỉ.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Hệ thống bôi trơn cung cấp dầu sạch, đủ, có áp suất để bôi trơn các chi tiết, giúp giảm ma sát, mài mòn, làm kín, làm sạch, làm mát và chống gỉ. Cung cấp nhiên liệu là việc của hệ thống nhiên liệu.",
     "image": ""
   },
   {
@@ -3625,7 +3625,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “25 năm.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo quy định về niên hạn sử dụng xe cơ giới, xe ô tô tải có niên hạn sử dụng không quá 25 năm tính từ năm sản xuất.",
     "image": ""
   },
   {
@@ -3638,7 +3638,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “20 năm.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo quy định về niên hạn sử dụng xe cơ giới, xe ô tô chở người trên 8 chỗ (không kể chỗ lái) có niên hạn sử dụng không quá 20 năm tính từ năm sản xuất.",
     "image": ""
   },
   {
@@ -3651,7 +3651,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Khi làm việc, nhiệt năng được biến đổi thành cơ năng làm trục khủy động cơ quay, truyền lực đến các bánh xe chủ động tạo ra chuyển động tịnh tiến cho xe ô tô.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Động cơ biến NHIỆT NĂNG (do đốt nhiên liệu) thành CƠ NĂNG làm quay trục khuỷu, truyền lực đến bánh xe chủ động giúp xe chuyển động. Đáp án 2 nói ngược chiều chuyển đổi năng lượng.",
     "image": ""
   },
   {
@@ -3664,7 +3664,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Dùng để truyền mô men quay từ động cơ tới các bánh xe chủ động của xe ô tô.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Hệ thống truyền lực dùng để truyền mô men quay từ động cơ tới các bánh xe chủ động. Thay đổi hướng là việc của hệ thống lái, giảm tốc và dừng xe là việc của hệ thống phanh.",
     "image": ""
   },
   {
@@ -3677,7 +3677,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Dùng để truyền hoặc ngắt truyền động từ động cơ đến hộp số của xe ô tô.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Ly hợp (côn) dùng để nối hoặc ngắt truyền động từ động cơ đến hộp số, giúp khởi hành êm và chuyển số. Đáp án 1 là công dụng của các đăng, đáp án 3 là của hệ thống truyền lực phía sau hộp số.",
     "image": ""
   },
   {
@@ -3690,7 +3690,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Truyền và thay đổi mô men từ động cơ đến bánh xe chủ động, cắt truyền động từ động cơ đến bánh xe chủ động, bảo đảm cho xe ô tô chuyển động lùi.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Hộp số dùng để thay đổi mô men từ động cơ đến bánh xe chủ động (đổi số), cắt truyền động khi cần (số 0) và giúp xe chạy lùi. Đáp án 1 là công dụng của cầu xe (vi sai), đáp án 2 là của các đăng.",
     "image": ""
   },
   {
@@ -3703,7 +3703,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Dùng để thay đổi hướng chuyển động hoặc giữ cho xe ô tô chuyển động ổn định theo hướng xác định.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Hệ thống lái dùng để thay đổi hướng chuyển động hoặc giữ cho xe chạy ổn định theo hướng mong muốn.",
     "image": ""
   },
   {
@@ -3716,7 +3716,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Dùng để giảm tốc độ, dừng chuyển động của xe ô tô và giữ cho xe ô tô đứng yên trên dốc.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Hệ thống phanh dùng để giảm tốc độ, dừng xe và giữ xe đứng yên (kể cả trên dốc). Thay đổi hướng là việc của hệ thống lái, ngắt truyền động là việc của ly hợp.",
     "image": ""
   },
   {
@@ -3729,7 +3729,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả hai ý trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Đèn phanh sáng lên khi phanh để báo cho xe sau biết xe đang giảm tốc, đồng thời ban đêm đèn hậu/phanh giúp xe sau nhận biết vị trí xe mình. Cả hai ý đều đúng.",
     "image": ""
   },
   {
@@ -3743,7 +3743,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Nhiệt độ nước làm mát động cơ quá ngưỡng cho phép.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Ký hiệu hình nhiệt kế nhúng trong sóng nước là đèn báo nhiệt độ nước làm mát động cơ vượt quá ngưỡng cho phép. Cần dừng xe để động cơ nguội và kiểm tra hệ thống làm mát.",
     "image": "images/286.jpg"
   },
   {
@@ -3757,7 +3757,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cần kiểm tra động cơ.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Ký hiệu hình khối động cơ là đèn báo \"Check Engine\" – cần kiểm tra động cơ do hệ thống phát hiện lỗi.",
     "image": "images/287.jpg"
   },
   {
@@ -3771,7 +3771,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Áp suất lốp không đủ.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Ký hiệu hình mặt cắt chiếc lốp có dấu chấm than ở giữa là đèn báo áp suất lốp không đủ, cần kiểm tra và bơm lốp.",
     "image": "images/288.jpg"
   },
   {
@@ -3785,7 +3785,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Báo hiệu hệ thống chống bó cứng phanh bị lỗi.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Ký hiệu chữ ABS trong vòng tròn là đèn báo hệ thống chống bó cứng phanh (ABS) gặp lỗi. Phanh thường vẫn hoạt động nhưng cần đưa xe đi kiểm tra.",
     "image": "images/289.jpg"
   },
   {
@@ -3798,7 +3798,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Phải đạp hết hành trình bàn đạp chân phanh.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Với xe số tự động dùng chìa khóa thông minh (nút Start/Stop), phải đạp hết hành trình bàn đạp phanh khi bấm nút khởi động – vừa là điều kiện để xe cho phép nổ máy, vừa bảo đảm xe không bị lao đi.",
     "image": "images/290.jpg"
   },
   {
@@ -3812,7 +3812,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Để tích trữ điện năng, cung cấp cho các phụ tải khi máy phát chưa làm việc.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Ắc quy dùng để tích trữ điện năng và cung cấp điện cho các phụ tải (khởi động, đèn, còi...) khi máy phát chưa làm việc. Các đáp án còn lại là chức năng của hệ thống hỗ trợ phanh khẩn cấp, cân bằng điện tử, hỗ trợ khởi hành ngang dốc.",
     "image": ""
   },
   {
@@ -3826,7 +3826,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Để phát điện năng cung cấp cho các phụ tải làm việc và nạp điện cho ắc quy.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Máy phát điện được động cơ dẫn động để sinh ra điện năng, cung cấp cho các phụ tải khi xe đang chạy và nạp điện lại cho ắc quy. Ý 4 là tác dụng của ắc quy (tích trữ điện).",
     "image": ""
   },
   {
@@ -3838,7 +3838,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Giữ chặt người lái và hành khách trên ghế ngồi khi xe ô tô đột ngột dừng lại.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Dây đai an toàn giữ chặt người lái và hành khách vào ghế khi xe dừng đột ngột hoặc va chạm, tránh bị văng về phía trước đập vào vô lăng, kính hoặc văng ra ngoài.",
     "image": ""
   },
   {
@@ -3852,7 +3852,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Ý 2 và ý 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Túi khí bung ra khi va chạm để hấp thụ một phần lực va đập và giảm khả năng các bộ phận quan trọng (đầu, ngực) đập vào vô lăng, táp-lô. Giữ người trên ghế là chức năng của dây đai an toàn, nên chọn ý 2 và 3.",
     "image": ""
   },
   {
@@ -3866,7 +3866,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Ký hiệu tay lái kèm dấu chấm than báo hệ thống lái trợ lực gặp sự cố. Chọn: “Hệ thống lái gặp sự cố.”.",
+    "explain": "Ký hiệu hình vô lăng kèm dấu chấm than sáng lâu không tắt là đèn cảnh báo hệ thống lái (trợ lực lái) gặp sự cố, cần đưa xe đi kiểm tra.",
     "image": "images/295.jpg"
   },
   {
@@ -3880,7 +3880,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Dùng để kích (hay nâng) xe ô tô.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Hình vẽ là con đội (kích) cơ khí kiểu xếp kèm tay quay, dùng để kích nâng xe ô tô lên khi cần thay lốp hoặc sửa chữa gầm.",
     "image": "images/296.jpg"
   },
   {
@@ -3894,7 +3894,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Phá cửa kính xe ô tô trong các trường hợp khẩn cấp.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Hình vẽ là búa thoát hiểm có đầu nhọn bằng kim loại, dùng để đập vỡ kính cửa xe trong trường hợp khẩn cấp (xe bị cháy, rơi xuống nước, kẹt cửa).",
     "image": "images/297.jpg"
   },
   {
@@ -3907,7 +3907,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Chữa cháy trong các trường hợp hỏa hoạn.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Hình vẽ là bình chữa cháy gắn trong xe, dùng để dập lửa khi có hỏa hoạn.",
     "image": "images/298.jpg"
   },
   {
@@ -3921,7 +3921,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Báo hiệu xe đang ở tình huống nguy hiểm.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Nút bấm hình hai tam giác lồng nhau màu đỏ là công tắc đèn cảnh báo nguy hiểm (đèn khẩn cấp – \"hazard\"). Bấm nút này các đèn xi nhan nhấp nháy cùng lúc để báo xe đang gặp tình huống nguy hiểm.",
     "image": "images/299.png"
   },
   {
@@ -3935,7 +3935,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Báo hiệu chế độ lái tiết kiệm nhiên liệu đã bật.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biểu tượng chữ ECO màu xanh là đèn báo chế độ lái tiết kiệm nhiên liệu đang được bật.",
     "image": "images/300.png"
   },
   {
@@ -3949,7 +3949,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 1.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Biển 1 (hình ô tô con bị gạch chéo) là biển \"Cấm xe ô tô\": cấm các loại xe cơ giới kể cả mô tô ba bánh, trừ mô tô hai bánh, xe gắn máy và xe ưu tiên. Biển 2 chỉ cấm ô tô khách và ô tô tải, biển 3 chỉ cấm ô tô kéo rơ moóc.",
     "image": "images/301.jpg"
   },
   {
@@ -3963,7 +3963,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 1 và biển 2.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Biển 1 \"Cấm xe ô tô\" cấm mọi loại ô tô nên cấm cả ô tô tải; biển 2 \"Cấm ô tô khách và ô tô tải\" cũng cấm ô tô tải. Biển 3 chỉ cấm ô tô kéo rơ moóc, xe tải không kéo moóc vẫn được đi.",
     "image": "images/302.jpg"
   },
   {
@@ -3977,7 +3977,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 2 và biển 3.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Biển 2 \"Cấm xe ô tô tải\" có hiệu lực cấm cả máy kéo và xe máy chuyên dùng; biển 3 có hình máy kéo là biển \"Cấm máy kéo\". Biển 1 là biển cấm xe mô tô, không cấm máy kéo.",
     "image": "images/303.jpg"
   },
   {
@@ -3990,7 +3990,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 1 và biển 2.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Biển 1 \"Cấm xe mô tô\" và biển 2 \"Cấm xe ô tô\" (có hiệu lực cả với mô tô ba bánh) đều cấm mô tô ba bánh chở hàng. Biển 3 \"Cấm ô tô tải\" không áp dụng cho xe mô tô.",
     "image": "images/304.jpg"
   },
   {
@@ -4003,7 +4003,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả hai biển.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 là biển cấm xe mô tô, biển 2 là biển cấm xe ô tô – cả hai biển đều không cấm xe gắn máy, nên xe gắn máy được đi vào cả hai.",
     "image": "images/305.jpg"
   },
   {
@@ -4016,7 +4016,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 1.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Biển 1 có hình xe mô tô bị gạch chéo là biển \"Cấm xe mô tô\". Biển 2 cấm ô tô, biển 3 cấm ô tô tải.",
     "image": "images/306.jpg"
   },
   {
@@ -4030,7 +4030,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2 và biển 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 \"Cấm xe ô tô\" (trừ mô tô hai bánh, xe gắn máy) và biển 3 \"Cấm ô tô tải\" đều không cấm mô tô hai bánh. Biển 1 là biển cấm xe mô tô.",
     "image": "images/307.jpg"
   },
   {
@@ -4044,7 +4044,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1 và biển 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 (nền xanh, có vạch chéo) là biển \"Hết cấm vượt\" nên được vượt; biển 3 \"Cấm ô tô tải vượt\" chỉ cấm xe tải, xe con vẫn được vượt. Biển 2 (xe đỏ cạnh xe đen) là biển \"Cấm vượt\" áp dụng cho mọi xe cơ giới.",
     "image": "images/308.jpg"
   },
   {
@@ -4057,7 +4057,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 có hình xe màu đỏ cạnh xe màu đen là biển \"Cấm vượt\" – cấm mọi xe cơ giới vượt nhau, nên ô tô con không được vượt. Biển 1 là hết cấm vượt, biển 3 chỉ cấm xe tải vượt.",
     "image": "images/309.jpg"
   },
   {
@@ -4071,7 +4071,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 2 và biển 3.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Biển 2 \"Cấm vượt\" cấm mọi xe cơ giới vượt (kể cả xe tải); biển 3 \"Cấm ô tô tải vượt\" cấm riêng xe tải. Biển 1 là biển hết cấm vượt.",
     "image": "images/310.jpg"
   },
   {
@@ -4084,7 +4084,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Cả hai biển.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Biển 1 \"Cấm vượt\" cấm tất cả xe cơ giới (bao gồm cả xe tải); biển 2 \"Cấm ô tô tải vượt\" cấm riêng xe tải. Vì vậy cả hai biển đều cấm xe tải vượt.",
     "image": "images/311.jpg"
   },
   {
@@ -4096,7 +4096,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 là \"Cấm ô tô tải vượt\" – chỉ cấm xe tải vượt, ô tô con vẫn được vượt. Biển 1 \"Cấm vượt\" cấm tất cả xe cơ giới.",
     "image": "images/312.jpg"
   },
   {
@@ -4110,7 +4110,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 2.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Biển 2 có mũi tên quay ngược bị gạch là biển \"Cấm quay đầu xe\". Biển 1 là biển cấm rẽ trái và theo quy chuẩn hiện hành biển này không cấm quay đầu.",
     "image": "images/313.jpg"
   },
   {
@@ -4123,7 +4123,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 1.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Biển 1 có mũi tên rẽ trái bị gạch chéo là biển \"Cấm rẽ trái\". Biển 2 là biển cấm quay đầu.",
     "image": "images/314.jpg"
   },
   {
@@ -4136,7 +4136,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 chỉ cấm quay đầu xe, không cấm rẽ trái nên xe được rẽ trái. Biển 1 là biển cấm rẽ trái.",
     "image": "images/315.jpg"
   },
   {
@@ -4149,7 +4149,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Cả hai biển.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Biển 1 \"Cấm rẽ trái\" áp dụng cho mọi phương tiện (kể cả ô tô); biển 2 là biển \"Cấm ô tô rẽ trái và quay đầu\". Vì vậy cả hai biển đều cấm ô tô rẽ trái.",
     "image": "images/316.jpg"
   },
   {
@@ -4163,7 +4163,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 1 và biển 2.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Biển 1 \"Cấm rẽ phải\" và biển 2 \"Cấm rẽ phải và quay đầu\" áp dụng cho mọi phương tiện. Biển 3 có hình ô tô nên chỉ cấm riêng xe ô tô, không cấm các phương tiện khác.",
     "image": "images/317.jpg"
   },
   {
@@ -4177,7 +4177,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 1 và biển 2.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Biển 1 \"Cấm rẽ trái\" và biển 2 \"Cấm rẽ trái và quay đầu\" áp dụng cho mọi phương tiện. Biển 3 có hình ô tô nên chỉ cấm riêng ô tô.",
     "image": "images/318.jpg"
   },
   {
@@ -4191,7 +4191,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 1.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Biển 1 (mũi tên quay đầu kèm hình ô tô) là biển \"Cấm ô tô quay đầu\" – chỉ cấm ô tô quay đầu. Biển 2 cấm ô tô rẽ trái và quay đầu, biển 3 cấm ô tô rẽ phải và quay đầu.",
     "image": "images/319.jpg"
   },
   {
@@ -4205,7 +4205,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 2.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Biển 2 (mũi tên rẽ trái và quay đầu kèm hình ô tô) là biển \"Cấm ô tô rẽ trái và quay đầu\". Biển 1 chỉ cấm ô tô quay đầu, biển 3 cấm ô tô rẽ phải và quay đầu.",
     "image": "images/320.jpg"
   },
   {
@@ -4218,7 +4218,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 2.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Biển 2 có hình ô tô kèm chữ TAXI là biển \"Cấm xe taxi\", chỉ cấm taxi. Biển 1 là biển cấm xe ô tô, cấm mọi loại ô tô.",
     "image": "images/321.jpg"
   },
   {
@@ -4231,7 +4231,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 (nền xanh, mũi tên quay đầu) là biển chỉ dẫn nơi được quay đầu xe, không cấm rẽ trái. Biển 1 là biển cấm rẽ trái.",
     "image": "images/322.jpg"
   },
   {
@@ -4244,7 +4244,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Cả hai biển.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Biển 1 \"Cấm rẽ trái\" theo quy chuẩn hiện hành không cấm quay đầu; biển 2 là biển chỉ dẫn nơi quay đầu xe. Vì vậy ở cả hai biển xe đều được quay đầu.",
     "image": "images/323.jpg"
   },
   {
@@ -4257,7 +4257,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Biển 1.”.",
+    "explain": "Biển 1 \"Cấm rẽ trái\" không cấm quay đầu nên xe được quay đầu nhưng không được rẽ trái. Biển 2 (hình tròn xanh, mũi tên rẽ trái) là biển hiệu lệnh bắt buộc rẽ trái.",
     "image": "images/324.jpg"
   },
   {
@@ -4270,7 +4270,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 2.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Biển 2 (nền đỏ có vạch ngang trắng) là biển \"Cấm đi ngược chiều\". Biển 1 là biển \"Đường cấm\", biển 3 là biển \"Cấm đỗ xe\".",
     "image": "images/325.jpg"
   },
   {
@@ -4283,7 +4283,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1 và biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 \"Đường cấm\" cấm mọi phương tiện đi lại cả hai hướng (trừ xe ưu tiên); biển 2 \"Cấm đi ngược chiều\" cấm đi vào theo chiều đặt biển. Biển 3 chỉ cấm đỗ xe, xe vẫn được đi vào.",
     "image": "images/326.jpg"
   },
   {
@@ -4297,7 +4297,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Biển 1 và biển 3.”.",
+    "explain": "Biển 1 \"Cấm đỗ xe\" cấm đỗ mọi ngày; biển 3 (có hai vạch trắng) là \"Cấm đỗ xe vào những ngày chẵn\". Biển 2 (một vạch) cấm đỗ vào ngày lẻ.",
     "image": "images/327.jpg"
   },
   {
@@ -4311,7 +4311,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Biển 1 và biển 2.”.",
+    "explain": "Biển 1 \"Cấm đỗ xe\" cấm đỗ mọi ngày; biển 2 (một vạch trắng) là \"Cấm đỗ xe vào những ngày lẻ\". Biển 3 (hai vạch) cấm đỗ vào ngày chẵn.",
     "image": "images/328.jpg"
   },
   {
@@ -4324,7 +4324,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Biển 2.”.",
+    "explain": "Biển 2 \"STOP\" là biển \"Dừng lại\": mọi xe, kể cả xe ưu tiên, đều phải dừng lại trước biển rồi mới được đi tiếp. Các biển \"Đường cấm\" và \"Cấm đi ngược chiều\" có ngoại lệ cho xe ưu tiên.",
     "image": "images/329.jpg"
   },
   {
@@ -4337,7 +4337,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 1.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Biển 1 (vòng tròn đỏ, nền trắng) là biển \"Đường cấm\": cấm tất cả các loại xe cơ giới và thô sơ đi lại cả hai hướng, trừ xe ưu tiên. Biển 2 STOP chỉ yêu cầu dừng lại rồi đi tiếp.",
     "image": "images/330.jpg"
   },
   {
@@ -4350,7 +4350,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 3.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Biển 3 có hình kiện hàng màu cam là biển \"Cấm xe chở hàng nguy hiểm\". Biển 1 cấm ô tô tải, biển 2 cấm ô tô tải có khối lượng chuyên chở trên 2,5 tấn.",
     "image": "images/331.jpg"
   },
   {
@@ -4364,7 +4364,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1 và biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 và biển 2 là biển cấm xe ba bánh loại có động cơ (xe lam, xích lô máy) nên xích lô (không động cơ) vẫn được đi vào. Biển 3 có hình xích lô là biển cấm xe ba bánh không có động cơ.",
     "image": "images/332.jpg"
   },
   {
@@ -4377,7 +4377,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 3 chỉ cấm xe xích lô (ba bánh không động cơ) nên xe lam, xích lô máy được đi vào. Biển 1 và biển 2 là biển cấm xe ba bánh có động cơ (xe lam, xích lô máy).",
     "image": "images/333.jpg"
   },
   {
@@ -4390,7 +4390,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ). Đáp án nêu đúng cấu trúc/ý nghĩa: “Đường cấm súc vật vận tải hàng hóa hoặc hành khách dù kéo xe hay chở trên lưng đi qua.”.",
+    "explain": "Biển có hình xe ngựa kéo bị gạch là biển \"Cấm xe súc vật kéo\": cấm súc vật dùng để vận tải hàng hóa hoặc hành khách, dù kéo xe hay chở trên lưng, đi qua.",
     "image": "images/334.png"
   },
   {
@@ -4402,7 +4402,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ). Đáp án nêu đúng cấu trúc/ý nghĩa: “Tốc độ tối đa cho phép về ban đêm cho các phương tiện là 70 km/h.”.",
+    "explain": "Biển ghi \"ĐÊM 70\" kèm biển phụ 22:00 – 5:00 là biển \"Tốc độ tối đa cho phép về ban đêm\": từ 22 giờ đến 5 giờ sáng, xe chỉ được chạy tối đa 70 km/h.",
     "image": "images/335.png"
   },
   {
@@ -4414,7 +4414,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Không được phép.”.",
+    "explain": "Các biển hạn chế chiều cao, tải trọng trục, tải trọng toàn bộ xe là giới hạn kỹ thuật của cầu, đường. Xe vượt quá trị số này có thể làm sập cầu, va vào công trình, nên kể cả xe ưu tiên cũng không được đi qua.",
     "image": "images/336.jpg"
   },
   {
@@ -4427,7 +4427,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 ghi \"3,5 m\" có hai tam giác đen trên dưới là biển \"Hạn chế chiều cao\" của xe và hàng. Biển 2 hạn chế tải trọng trục xe, biển 3 hạn chế tải trọng toàn bộ xe.",
     "image": "images/337.jpg"
   },
   {
@@ -4439,7 +4439,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cho phép xe ô tô có tải trọng trên trục xe từ 7 tấn trở xuống đi qua.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 ghi \"7t\" kèm hình trục bánh xe là biển \"Hạn chế tải trọng trên trục xe\": chỉ cho xe có tải trọng phân bổ lên mỗi trục từ 7 tấn trở xuống đi qua.",
     "image": "images/338.jpg"
   },
   {
@@ -4452,7 +4452,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cấm các loại xe có tải trọng toàn bộ trên 10 tấn đi qua.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 3 ghi \"10t\" là biển \"Hạn chế tải trọng toàn bộ xe\": cấm xe có tải trọng toàn bộ (xe và hàng) trên 10 tấn đi qua.",
     "image": "images/339.jpg"
   },
   {
@@ -4465,7 +4465,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Cả hai biển.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Biển 1 \"Cấm ô tô kéo moóc\" có hiệu lực cấm cả máy kéo kéo rơ moóc; biển 2 \"Cấm máy kéo\" cấm mọi máy kéo (kể cả kéo theo rơ moóc). Vì vậy cả hai biển đều cấm.",
     "image": "images/340.jpg"
   },
   {
@@ -4477,7 +4477,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Được đi vào.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 là biển \"Cấm ô tô kéo moóc\" – chỉ cấm xe kéo theo rơ moóc, nên xe ô tô tải thông thường (không kéo moóc) vẫn được đi vào.",
     "image": "images/341.jpg"
   },
   {
@@ -4491,7 +4491,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1 và biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 \"Cấm ô tô kéo moóc\" và biển 2 \"Cấm máy kéo\" không áp dụng với ô tô tải không kéo moóc. Biển 3 \"Cấm xe ô tô\" cấm mọi ô tô, kể cả ô tô tải.",
     "image": "images/342.jpg"
   },
   {
@@ -4505,7 +4505,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 2 và biển 3.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Biển 2 là biển \"Cấm máy kéo\"; biển 3 \"Cấm ô tô tải\" cũng có hiệu lực cấm máy kéo và xe máy chuyên dùng. Biển 1 chỉ cấm xe kéo moóc nên máy kéo không kéo moóc vẫn được đi.",
     "image": "images/343.jpg"
   },
   {
@@ -4517,7 +4517,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Không được phép.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Đây là biển \"Cấm xe ô tô và xe mô tô\" kèm biển phụ mũi tên hai chiều chỉ hướng tác dụng sang trái và phải. Mô tô ba bánh chở hàng thuộc loại xe bị cấm nên không được rẽ trái hoặc rẽ phải.",
     "image": "images/344.jpg"
   },
   {
@@ -4529,7 +4529,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Có.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển \"Cấm xe ô tô và xe mô tô\" có hiệu lực với mọi loại mô tô, kể cả mô tô hai bánh, ba bánh chở hàng; biển phụ chỉ hướng cấm là bên trái và bên phải.",
     "image": "images/345.jpg"
   },
   {
@@ -4542,7 +4542,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cấm các loại xe cơ giới và xe mô tô (trừ xe ưu tiên theo luật định) đi về bên trái và bên phải.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển \"Cấm ô tô và mô tô\" kèm biển phụ mũi tên hai đầu chỉ hướng tác dụng: cấm các loại xe cơ giới và xe mô tô (trừ xe ưu tiên) đi về bên trái và bên phải; đi thẳng không bị cấm.",
     "image": "images/346.jpg"
   },
   {
@@ -4555,7 +4555,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Chiều dài đoạn đường cấm bóp còi từ nơi đặt biển.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Biển phụ có mũi tên hướng lên hai bên dòng chữ \"500m\" là biển chỉ chiều dài đoạn đường chịu hiệu lực của biển chính – tức là cấm bóp còi trên đoạn dài 500 m kể từ nơi đặt biển.",
     "image": "images/347.jpg"
   },
   {
@@ -4567,7 +4567,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Không được phép.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển \"Cấm sử dụng còi\" kèm biển phụ \"500m\" có mũi tên lên: trong đoạn 500 m kể từ nơi đặt biển, người lái xe không được bấm còi.",
     "image": "images/348.jpg"
   },
   {
@@ -4580,7 +4580,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1 và biển 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển \"Đường cấm\" kèm biển phụ hình xe thì chỉ cấm loại xe trên biển phụ. Biển 1 cấm ô tô, biển 3 cấm ô tô tải nên mô tô hai bánh được đi vào; biển 2 có hình mô tô nên cấm mô tô.",
     "image": "images/349.jpg"
   },
   {
@@ -4593,7 +4593,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 là biển \"Đường cấm\" kèm biển phụ hình xe mô tô, nghĩa là cấm xe mô tô đi vào. Biển 1 cấm ô tô, biển 3 cấm ô tô tải.",
     "image": "images/350.jpg"
   },
   {
@@ -4605,7 +4605,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cấm các loại xe ở biển phụ đi vào.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển \"Đường cấm\" kết hợp biển phụ có hình loại xe thì chỉ cấm loại xe được vẽ trên biển phụ đi vào, các loại xe khác vẫn được đi.",
     "image": "images/351.jpg"
   },
   {
@@ -4618,7 +4618,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Biển 1.”.",
+    "explain": "Biển 1 có biển phụ \"800m\" kèm mũi tên hướng lên là biển phụ \"Chiều dài đoạn đường\" – cho biết phải giữ cự ly tối thiểu 8 m trên đoạn dài 800 m. Biển 2 (200m không mũi tên) chỉ khoảng cách đến nơi bắt đầu hiệu lực.",
     "image": "images/352.jpg"
   },
   {
@@ -4631,7 +4631,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Biển 2.”.",
+    "explain": "Biển 2 có biển phụ \"200m\" không có mũi tên là biển phụ \"Khoảng cách đến đối tượng báo hiệu\" – còn 200 m nữa mới đến đoạn đường phải giữ cự ly tối thiểu 8 m. Biển 1 chỉ chiều dài đoạn đường.",
     "image": "images/353.jpg"
   },
   {
@@ -4644,7 +4644,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cấm dừng và đỗ xe theo hướng bên phải.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển nền xanh viền đỏ có hai gạch chéo là biển \"Cấm dừng xe và đỗ xe\"; biển phụ mũi tên chỉ sang phải cho biết hiệu lực cấm áp dụng theo hướng bên phải.",
     "image": "images/354.jpg"
   },
   {
@@ -4656,7 +4656,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Không được phép.”.",
+    "explain": "Đây là biển \"Cấm dừng xe và đỗ xe\" với biển phụ mũi tên hướng sang phải, nên theo hướng bên phải không được dừng và đỗ xe.",
     "image": "images/355.jpg"
   },
   {
@@ -4668,7 +4668,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Không được phép.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Đây là biển \"Hạn chế chiều dài xe ô tô kéo moóc\" (14 m). Xe sơ mi rơ moóc có chiều dài toàn bộ cả xe, moóc và hàng lớn hơn 14 m thì không được đi vào.",
     "image": "images/356.png"
   },
   {
@@ -4680,7 +4680,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Không được phép.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Hàng hóa xếp trên xe vượt quá phía trước và phía sau thùng xe đã vượt giới hạn xếp hàng cho phép (mỗi phía không quá 10% chiều dài xe). Xe xếp hàng sai quy định như vậy không đủ điều kiện lưu thông, nên dù tổng chiều dài nhỏ hơn trị số trên biển cũng không được đi vào.",
     "image": "images/357.png"
   },
   {
@@ -4693,7 +4693,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cấm xe ô tô khách.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển có hình xe khách bị gạch chéo là biển \"Cấm xe ô tô khách\" – cấm ô tô chở khách đi qua.",
     "image": "images/358.png"
   },
   {
@@ -4706,7 +4706,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Hạn chế chiều ngang của xe và hàng.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển ghi \"3,2 m\" với hai tam giác đen ở hai bên trái phải là biển \"Hạn chế chiều ngang xe\": cấm xe (kể cả hàng) có chiều ngang vượt quá 3,2 m đi qua.",
     "image": "images/359.png"
   },
   {
@@ -4719,7 +4719,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Biển 1.”.",
+    "explain": "Biển 1 ghi \"ĐÊM 70\" kèm khung giờ 22:00 – 5:00 là biển \"Tốc độ tối đa cho phép về ban đêm\". Biển 2 (số 50) là biển tốc độ tối đa cho phép thông thường.",
     "image": "images/360.jpg"
   },
   {
@@ -4731,7 +4731,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Biển 1.”.",
+    "explain": "Biển 1 (nền xanh có hình nhà cửa) là biển \"Bắt đầu khu đông dân cư\": từ đây phải áp dụng các quy định riêng cho khu đông dân cư (tốc độ thấp hơn, hạn chế còi...). Biển 2 có gạch chéo đỏ là biển \"Hết khu đông dân cư\".",
     "image": "images/361.jpg"
   },
   {
@@ -4743,7 +4743,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Biển 2.”.",
+    "explain": "Biển 2 (vòng tròn viền đỏ, số 50 màu đen) là biển \"Tốc độ tối đa cho phép\" – xe không được chạy quá trị số ghi trên biển. Biển 1 (tròn nền xanh, số trắng) là biển \"Tốc độ tối thiểu cho phép\".",
     "image": "images/362.png"
   },
   {
@@ -4756,7 +4756,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Biển 2.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Biển 2 (nền xanh lá có hình đường cao tốc bị gạch chéo đỏ) là biển \"Kết thúc đường cao tốc\". Biển 1 là hết đường ưu tiên, biển 3 là hết đường dành cho xe ô tô.",
     "image": "images/363.jpg"
   },
   {
@@ -4768,7 +4768,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ). Đáp án nêu đúng cấu trúc/ý nghĩa: “Tốc độ tối đa các xe cơ giới được phép chạy.”.",
+    "explain": "Biển hình tròn viền đỏ, nền trắng, số đen là biển \"Tốc độ tối đa cho phép\": số 50 nghĩa là các xe cơ giới không được chạy quá 50 km/h.",
     "image": "images/364.png"
   },
   {
@@ -4781,7 +4781,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Biển 2.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Biển 2 (nền xanh lá, ghi tốc độ tối đa 120 và tối thiểu 60 kèm mũi tên xuống cho từng làn) là biển chỉ dẫn bắt đầu đường cao tốc có phân làn với tốc độ khác nhau. Biển 1 là biển cảnh báo.",
     "image": "images/365.jpg"
   },
   {
@@ -4793,7 +4793,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ). Đáp án nêu đúng cấu trúc/ý nghĩa: “Báo hiệu tốc độ tối thiểu cho phép các xe cơ giới chạy.”.",
+    "explain": "Biển hình tròn nền xanh, số màu trắng là biển hiệu lệnh \"Tốc độ tối thiểu cho phép\": xe cơ giới không được chạy chậm hơn 60 km/h.",
     "image": "images/366.png"
   },
   {
@@ -4806,7 +4806,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Biển 1.”.",
+    "explain": "Biển 1 (tam giác vàng có hình người đi trên vạch kẻ) là biển báo nguy hiểm \"Đường người đi bộ cắt ngang\" – người lái xe phải giảm tốc và nhường đường cho người đi bộ. Biển 2 là cấm người đi bộ, biển 3 là đường dành cho người đi bộ.",
     "image": "images/367.jpg"
   },
   {
@@ -4820,7 +4820,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 3 (tròn nền xanh có hình người đi bộ) là biển hiệu lệnh \"Đường dành cho người đi bộ\" – các loại xe không được đi vào. Biển 1 là cảnh báo người đi bộ cắt ngang, biển 2 là cấm người đi bộ.",
     "image": "images/368.jpg"
   },
   {
@@ -4833,7 +4833,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 (tròn nền xanh có hình xe đạp và xe ngựa) là biển hiệu lệnh \"Đường dành cho xe thô sơ\". Biển 2 là cấm xe đạp, biển 3 là cảnh báo có người đi xe đạp cắt ngang.",
     "image": "images/369.jpg"
   },
   {
@@ -4847,7 +4847,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả ba biển.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Cả ba biển đều báo trước sắp đến nơi giao nhau nguy hiểm: biển 1 giao nhau với đường sắt có rào chắn, biển 2 (tam giác ngược) giao nhau với đường ưu tiên, biển 3 giao nhau có tín hiệu đèn.",
     "image": "images/370.jpg"
   },
   {
@@ -4860,7 +4860,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 (tam giác có hình hàng rào chắn) là biển \"Giao nhau với đường sắt có rào chắn\". Biển 2 là giao nhau với đường ưu tiên, biển 3 là giao nhau có tín hiệu đèn.",
     "image": "images/371.jpg"
   },
   {
@@ -4874,7 +4874,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Thứ tự chấp hành: hiệu lệnh người điều khiển giao thông > tín hiệu đèn > biển báo/vạch. Với tín hiệu vàng: dừng trước vạch, trừ khi đã qua vạch; vàng nhấp nháy thì giảm tốc, quan sát. Đáp án: “Biển 3.”.",
+    "explain": "Biển 3 (tam giác có hình cột đèn ba màu) là biển \"Giao nhau có tín hiệu đèn\". Biển 1 là giao với đường sắt có rào chắn, biển 2 là giao với đường ưu tiên.",
     "image": "images/372.jpg"
   },
   {
@@ -4888,7 +4888,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1 và biển 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 (hình rào chắn) báo giao nhau với đường sắt có rào chắn; biển 3 (hình chữ X màu trắng viền đỏ) báo nơi đường sắt giao vuông góc với đường bộ. Biển 2 là biển giao nhau với đường hai chiều.",
     "image": "images/373.jpg"
   },
   {
@@ -4902,7 +4902,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2 và biển 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 (tam giác có hình đầu máy xe lửa) là biển \"Giao nhau với đường sắt không có rào chắn\"; biển 3 (chữ X) đặt tại nơi đường sắt giao với đường bộ không có rào chắn. Biển 1 là giao nhau có rào chắn.",
     "image": "images/374.jpg"
   },
   {
@@ -4916,7 +4916,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 (tam giác có hình đầu máy xe lửa) báo hiệu sắp đến chỗ giao nhau giữa đường bộ và đường sắt (không có rào chắn). Biển 2 là giao nhau với đường ưu tiên, biển 3 (hình tàu điện) là giao nhau với đường tàu điện.",
     "image": "images/375.jpg"
   },
   {
@@ -4929,7 +4929,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 (tam giác có hình cổng vòm) là biển \"Cửa chui\" – báo sắp đến cửa chui qua đường, phải chú ý khổ giới hạn. Biển 1 là cầu vồng (dốc lồi), biển 3 là đường hầm.",
     "image": "images/376.jpg"
   },
   {
@@ -4942,7 +4942,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Để chỉ nơi đường sắt giao vuông góc với đường bộ không có rào chắn.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển hình chữ X trắng viền đỏ đặt tại nơi đường sắt giao vuông góc với đường bộ không có rào chắn, người gác: biển 1 khi có một đường ray, biển 2 (chữ X kép) khi có từ hai đường ray trở lên.",
     "image": "images/377.jpg"
   },
   {
@@ -4956,7 +4956,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1 và biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 (chữ X đơn) và biển 2 (chữ X kép) đều báo nơi đường sắt giao vuông góc với đường bộ. Biển 3 (cột có vạch đỏ chéo) là biển báo trước khoảng cách đến chỗ giao nhau với đường sắt không vuông góc.",
     "image": "images/378.jpg"
   },
   {
@@ -4969,7 +4969,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Để báo trước sắp đến vị trí đường sắt giao không vuông góc với đường bộ, không có người gác và không có rào chắn.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Các cột biển có 1, 2, 3 vạch đỏ chéo được đặt lần lượt trước điểm giao để báo trước sắp đến vị trí đường sắt giao KHÔNG vuông góc với đường bộ, không có người gác và rào chắn; số vạch giảm dần khi càng đến gần.",
     "image": "images/379.jpg"
   },
   {
@@ -4982,7 +4982,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Biển 3.”.",
+    "explain": "Biển 3 (hình thoi vàng có gạch đen chéo) là biển \"Hết đoạn đường ưu tiên\". Biển 1 là giao nhau với đường không ưu tiên, biển 2 là giao nhau với đường ưu tiên.",
     "image": "images/380.jpg"
   },
   {
@@ -4996,7 +4996,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Biển 1 và biển 3.”.",
+    "explain": "Biển 1 \"Giao nhau với đường không ưu tiên\" (đặt trên đường ưu tiên) và biển 3 \"Đường ưu tiên\" (hình thoi vàng) đều cho biết xe đi trên đường này được ưu tiên qua nơi giao nhau. Biển 2 lại yêu cầu nhường đường.",
     "image": "images/381.jpg"
   },
   {
@@ -5010,7 +5010,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Biển 1.”.",
+    "explain": "Biển 1 (tam giác có hình đường chính to cắt ngang đường nhánh nhỏ) là biển \"Giao nhau với đường không ưu tiên\" – xe trên đường này được ưu tiên. Biển 2 là giao nhau với đường ưu tiên, biển 3 là đường ưu tiên.",
     "image": "images/382.jpg"
   },
   {
@@ -5023,7 +5023,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Biển 2.”.",
+    "explain": "Biển 2 (tam giác ngược, đỉnh hướng xuống) là biển \"Giao nhau với đường ưu tiên\" – phải nhường đường cho xe trên đường ưu tiên. Biển 1 là giao với đường không ưu tiên, biển 3 là đường ưu tiên.",
     "image": "images/383.jpg"
   },
   {
@@ -5037,7 +5037,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1 và biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 (hai vạch thu hẹp hai bên) và biển 2 (thu hẹp một bên) đều là biển \"Đường bị thu hẹp\". Biển 3 là biển chỗ ngoặt nguy hiểm.",
     "image": "images/384.jpg"
   },
   {
@@ -5051,7 +5051,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Biển 2 và biển 3.”.",
+    "explain": "Biển 2 và biển 3 là biển \"Đường bị thu hẹp\" về một phía (phải hoặc trái): người lái phải giảm tốc, chú ý xe ngược chiều, xe đi bên phía đường bị hẹp phải nhường đường. Biển 1 là biển kết thúc đường đôi.",
     "image": "images/385.jpg"
   },
   {
@@ -5065,7 +5065,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Biển 3.”.",
+    "explain": "Biển 3 (tam giác ngược) là biển \"Giao nhau với đường ưu tiên\" – xe phải nhường đường cho xe trên đường ưu tiên. Biển 1 là giao nhau cùng cấp, biển 2 là giao nhau với đường không ưu tiên.",
     "image": "images/386.jpg"
   },
   {
@@ -5078,7 +5078,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 (tam giác có dấu cộng, các nhánh bằng nhau) là biển \"Đường giao nhau\" của các tuyến cùng cấp – áp dụng quy tắc nhường đường cho xe đến từ bên phải. Biển 2 là giao với đường không ưu tiên, biển 3 là giao với đường ưu tiên.",
     "image": "images/387.jpg"
   },
   {
@@ -5091,7 +5091,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Biển 2.”.",
+    "explain": "Biển 2 (hình đường chính to cắt ngang đường nhỏ) là biển \"Giao nhau với đường không ưu tiên\". Biển 1 là đường giao nhau cùng cấp, biển 3 là giao nhau với đường ưu tiên.",
     "image": "images/388.jpg"
   },
   {
@@ -5104,7 +5104,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 (tam giác vàng có hai mũi tên ngược chiều) là biển cảnh báo \"Đường hai chiều\". Biển 2 là nhường đường cho xe cơ giới đi ngược chiều, biển 3 là được ưu tiên qua đường hẹp.",
     "image": "images/389.jpg"
   },
   {
@@ -5117,7 +5117,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Biển 2.”.",
+    "explain": "Biển 2 (tròn viền đỏ, mũi tên đỏ hướng lên và đen hướng xuống) là biển cấm \"Nhường đường cho xe cơ giới đi ngược chiều\" qua đường hẹp. Biển 1 báo đường hai chiều, biển 3 là được ưu tiên qua đường hẹp.",
     "image": "images/390.jpg"
   },
   {
@@ -5131,7 +5131,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Biển 3.”.",
+    "explain": "Biển 3 (vuông nền xanh, mũi tên trắng hướng lên to hơn mũi tên đỏ) là biển chỉ dẫn \"Được ưu tiên qua đường hẹp\" – xe ngược chiều phải nhường cho mình. Biển 2 ngược lại là phải nhường đường cho xe ngược chiều.",
     "image": "images/391.jpg"
   },
   {
@@ -5144,7 +5144,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 (tam giác có dải phân cách ở phía trên và hai mũi tên đi hai bên) là biển \"Đường đôi\" – báo trước sắp vào đoạn có dải phân cách giữa. Biển 3 là kết thúc đường đôi, biển 1 là được ưu tiên qua đường hẹp.",
     "image": "images/392.jpg"
   },
   {
@@ -5157,7 +5157,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 3 (dải phân cách ở phía trên, hai mũi tên đi hai bên) là biển \"Đường đôi\". Biển 1 là đường hai chiều, biển 2 là giao nhau với đường hai chiều.",
     "image": "images/393.jpg"
   },
   {
@@ -5170,7 +5170,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 3 (dải phân cách kết thúc ở phía dưới, hai luồng xe nhập lại) là biển \"Kết thúc đường đôi\". Biển 1 là đường hai chiều, biển 2 là đường đôi.",
     "image": "images/394.jpg"
   },
   {
@@ -5183,7 +5183,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 (tam giác có hai mũi tên nằm ngang ngược chiều) là biển \"Giao nhau với đường hai chiều\" – báo sắp đến nơi giao với đường có xe chạy hai chiều. Biển 2 là đường đôi, biển 3 là giao nhau cùng cấp.",
     "image": "images/395.jpg"
   },
   {
@@ -5196,7 +5196,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 (tam giác có hai mũi tên thẳng đứng ngược chiều) là biển \"Đường hai chiều\". Biển 1 là đường giao nhau, biển 3 là kết thúc đường đôi.",
     "image": "images/396.jpg"
   },
   {
@@ -5209,7 +5209,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 (tam giác có hai mũi tên nằm ngang ngược chiều) là biển \"Giao nhau với đường hai chiều\". Biển 1 (mũi tên thẳng đứng ngược chiều) là đường hai chiều, biển 3 là đường giao nhau cùng cấp.",
     "image": "images/397.jpg"
   },
   {
@@ -5222,7 +5222,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2 và biển 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 và biển 3 (tam giác có hình vật chắn, mũi tên chỉ hướng đi tránh qua một hoặc hai bên) là biển \"Chú ý chướng ngại vật\". Biển 1 là biển kết thúc đường đôi.",
     "image": "images/398.jpg"
   },
   {
@@ -5235,7 +5235,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc làn đường: đi đúng làn; chỉ chuyển sang làn liền kề ở nơi cho phép, bật tín hiệu trước khi chuyển, bảo đảm khoảng cách an toàn. Đáp án mô tả đúng nguyên tắc: “Biển 2.”.",
+    "explain": "Biển 2 (nền xanh, hình làn rẽ ra kèm khoảng cách 2 km) là biển chỉ dẫn \"Làn đường cứu nạn (làn thoát xe khẩn cấp)\" cho biết vị trí và khoảng cách đến làn này. Biển 1 là biển chỉ dẫn đường vòng tránh.",
     "image": "images/399.jpg"
   },
   {
@@ -5248,7 +5248,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 (tam giác có hình cửa hầm có đèn) là biển \"Đường hầm\". Biển 1 là cửa chui, biển 3 là cầu vồng.",
     "image": "images/400.jpg"
   },
   {
@@ -5261,7 +5261,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 (hai mép đường thu hẹp như thân cầu) là biển \"Cầu hẹp\" – báo cầu phía trước có bề rộng hẹp. Biển 1 là cầu tạm, biển 3 là cầu quay – cầu cất.",
     "image": "images/401.jpg"
   },
   {
@@ -5274,7 +5274,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 3 (hình nhịp cầu đang nâng lên trên mặt nước) là biển \"Cầu quay – cầu cất\" – cầu có thể quay hoặc nâng lên cho tàu thuyền qua, phải chú ý dừng lại khi cầu đang hoạt động.",
     "image": "images/402.jpg"
   },
   {
@@ -5287,7 +5287,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 (hình xe lao thẳng xuống từ mép kè phía trước) là biển \"Kè, vực sâu phía trước\". Biển 2 và 3 là kè, vực sâu ở bên phải hoặc bên trái đường.",
     "image": "images/403.jpg"
   },
   {
@@ -5301,7 +5301,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 3 (hình xe nghiêng, phần vực/kè nằm ở phía bên trái) là biển \"Kè, vực sâu bên đường phía bên trái\".",
     "image": "images/404.jpg"
   },
   {
@@ -5314,7 +5314,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 (hình xe nghiêng, phần vực/kè nằm ở phía bên phải) là biển \"Kè, vực sâu bên đường phía bên phải\".",
     "image": "images/405.jpg"
   },
   {
@@ -5327,7 +5327,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 (hình xe có vệt bánh ngoằn ngoèo phía sau) là biển \"Đường trơn\". Biển 1 là nguy cơ lật xe, biển 3 là bến phà.",
     "image": "images/406.jpg"
   },
   {
@@ -5340,7 +5340,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 (hình xe bị sụt bánh ở mép đường) là biển \"Lề đường nguy hiểm\" – lề đường yếu, xe đi vào có thể bị sụt, lật. Biển 1 là kè vực sâu, biển 3 là nguy cơ lật xe.",
     "image": "images/407.jpg"
   },
   {
@@ -5354,7 +5354,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Biển 1 là biển báo Công trường, báo trước gần tới đoạn đường đang tiến hành thi công sửa chữa.",
+    "explain": "Biển 1 (hình người đang đào đất) là biển \"Công trường\" – báo trước gần tới đoạn đường đang thi công sửa chữa. Biển 2 là đá lở, biển 3 là sỏi đá bắn lên.",
     "image": "images/408.jpg"
   },
   {
@@ -5367,7 +5367,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 (hình hai xe đâm nhau kèm dấu chấm than) là biển \"Đoạn đường hay xảy ra tai nạn\". Biển 1 là ùn tắc giao thông, biển 3 là nguy cơ lật xe.",
     "image": "images/409.jpg"
   },
   {
@@ -5381,7 +5381,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 (hình nhiều xe xếp nối đuôi nhau) là biển \"Ùn tắc giao thông\" – báo đoạn đường hay xảy ra ùn tắc. Biển 1 là đường hầm, biển 3 là đoạn đường hay xảy ra tai nạn.",
     "image": "images/410.jpg"
   },
   {
@@ -5393,7 +5393,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "An toàn bắt buộc: trẻ em phải có thiết bị an toàn phù hợp; người đi mô tô/xe máy phải đội mũ đạt chuẩn và cài quai đúng quy cách. Chọn phương án khẳng định yêu cầu bắt buộc: “Biển 2.”.",
+    "explain": "Biển 2 (hình hai trẻ em đang chạy) là biển \"Trẻ em\": phải đi chậm, thận trọng đề phòng trẻ em xuất hiện bất ngờ. Biển 1 là biển người đi bộ cắt ngang.",
     "image": "images/411.jpg"
   },
   {
@@ -5406,7 +5406,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 (vuông nền xanh có hình người đi bộ) là biển chỉ dẫn \"Bắt đầu đường đi bộ\". Biển 1 là người đi bộ cắt ngang, biển 3 là trẻ em.",
     "image": "images/412.jpg"
   },
   {
@@ -5420,7 +5420,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "An toàn bắt buộc: trẻ em phải có thiết bị an toàn phù hợp; người đi mô tô/xe máy phải đội mũ đạt chuẩn và cài quai đúng quy cách. Chọn phương án khẳng định yêu cầu bắt buộc: “Biển 2.”.",
+    "explain": "Biển 2 (hình hai trẻ em chạy) là biển \"Trẻ em\" – báo gần đến đoạn đường thường có trẻ em đi ngang qua (trường học, khu vui chơi). Biển 1 là người đi bộ cắt ngang, biển 3 là người đi xe đạp cắt ngang.",
     "image": "images/413.jpg"
   },
   {
@@ -5433,7 +5433,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Biển 1.”.",
+    "explain": "Biển 1 (hình ống gió bay ngang) là biển \"Gió ngang\" – cảnh báo đoạn đường có gió thổi mạnh từ một bên, phải điều chỉnh tốc độ phù hợp đề phòng lật xe. Biển 2 là nguy cơ lật xe.",
     "image": "images/414.jpg"
   },
   {
@@ -5445,7 +5445,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 (dốc nghiêng đi xuống từ trái sang phải, ghi 10%) là biển \"Dốc xuống nguy hiểm\". Biển 2 (dốc đi lên) là dốc lên nguy hiểm.",
     "image": "images/415.png"
   },
   {
@@ -5457,7 +5457,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 (dốc đi lên từ trái sang phải, ghi 9%) là biển \"Dốc lên nguy hiểm\". Biển 1 là dốc xuống nguy hiểm.",
     "image": "images/416.png"
   },
   {
@@ -5469,7 +5469,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ). Đáp án nêu đúng cấu trúc/ý nghĩa: “Chỗ ngoặt nguy hiểm có nguy cơ lật xe bên phải khi đường cong vòng sang trái.”.",
+    "explain": "Biển có hình xe tải nghiêng đổ kèm mũi tên vòng là biển \"Nguy cơ lật xe\" tại chỗ ngoặt nguy hiểm: hình xe nghiêng về bên phải nghĩa là đường cong vòng sang trái và xe có nguy cơ lật về phía bên phải.",
     "image": "images/417.png"
   },
   {
@@ -5482,7 +5482,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ). Đáp án nêu đúng cấu trúc/ý nghĩa: “Báo trước sắp đến bến phà.”.",
+    "explain": "Biển có hình ô tô nằm trên phà trên mặt nước là biển \"Bến phà\" – báo trước sắp đến bến phà.",
     "image": "images/418.png"
   },
   {
@@ -5494,7 +5494,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ). Đáp án nêu đúng cấu trúc/ý nghĩa: “Báo hiệu đường có ổ gà, lồi lõm.”.",
+    "explain": "Biển có hình mặt đường gồ ghề, lồi lõm nhiều chỗ là biển \"Đường có ổ gà, lồi lõm\".",
     "image": "images/419.png"
   },
   {
@@ -5506,7 +5506,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ). Đáp án nêu đúng cấu trúc/ý nghĩa: “Báo hiệu đường có gồ giảm tốc phía trước.”.",
+    "explain": "Biển có hình một gờ nổi duy nhất trên mặt đường là biển \"Gồ giảm tốc phía trước\" – phải giảm tốc độ khi đi qua.",
     "image": "images/420.png"
   },
   {
@@ -5519,7 +5519,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ). Đáp án nêu đúng cấu trúc/ý nghĩa: “Để cảnh báo những đoạn nền đường yếu, đoạn đường đang theo dõi lún mà việc vận hành xe ở tốc độ cao có thể gây nguy hiểm.”.",
+    "explain": "Biển có dấu chấm than trên mặt đường gợn sóng là biển \"Nền đường yếu\" – cảnh báo đoạn nền đường yếu, đang theo dõi lún, chạy tốc độ cao có thể gây nguy hiểm.",
     "image": "images/421.png"
   },
   {
@@ -5532,7 +5532,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ). Đáp án nêu đúng cấu trúc/ý nghĩa: “Để báo trước gần tới đoạn đường có hiện tượng đất đá từ trên ta luy dương sụt lở bất ngờ gây nguy hiểm cho xe cộ và người đi đường.”.",
+    "explain": "Hai biển có hình đất đá rơi từ sườn dốc xuống là biển \"Đá lở\" – báo trước đoạn đường có đất đá từ ta luy dương có thể sụt lở bất ngờ.",
     "image": "images/422.jpg"
   },
   {
@@ -5545,7 +5545,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ). Đáp án nêu đúng cấu trúc/ý nghĩa: “Để báo trước nơi có kết cấu mặt đường rời rạc, khi phương tiện đi qua, làm cho các viên đá, sỏi văng lên gây nguy hiểm và mất an toàn cho người và phương tiện tham gia giao thông.”.",
+    "explain": "Biển có hình xe làm văng sỏi đá lên phía sau là biển \"Sỏi đá bắn lên\" – báo nơi mặt đường có kết cấu rời rạc, xe đi qua làm đá sỏi văng lên gây nguy hiểm.",
     "image": "images/423.png"
   },
   {
@@ -5557,7 +5557,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ). Đáp án nêu đúng cấu trúc/ý nghĩa: “Đi chậm, quan sát và dừng lại nếu gặp gia súc trên đường.”.",
+    "explain": "Biển có hình con bò là biển \"Gia súc\" – đoạn đường thường có gia súc qua lại. Phải đi chậm, quan sát và sẵn sàng dừng lại; bấm còi to dễ làm gia súc hoảng sợ chạy bất ngờ.",
     "image": "images/424.png"
   },
   {
@@ -5569,7 +5569,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ). Đáp án nêu đúng cấu trúc/ý nghĩa: “Báo hiệu khu vực có đường dây điện cắt ngang phía trên tuyến đường.”.",
+    "explain": "Biển có hình tia sét là biển \"Đường dây điện cắt ngang\" – báo phía trên tuyến đường có đường dây điện, xe chở hàng cao phải chú ý chiều cao an toàn.",
     "image": "images/425.png"
   },
   {
@@ -5582,7 +5582,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Biển 2.”.",
+    "explain": "Biển 2 chia theo từng làn, mỗi làn có hình loại xe được phép đi và tốc độ tối đa riêng – nên các phương tiện vừa phải đi đúng làn quy định, vừa tuân thủ tốc độ tối đa. Biển 1 chỉ quy định tốc độ tối đa trên từng làn, không quy định loại xe.",
     "image": "images/426.jpg"
   },
   {
@@ -5595,7 +5595,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Cả hai biển.”.",
+    "explain": "Cả hai biển đều ghi tốc độ tối đa cho phép riêng trên từng làn đường (biển 1 theo làn, biển 2 theo làn và loại xe), nên đều yêu cầu tuân thủ tốc độ tối đa trên từng làn.",
     "image": "images/427.jpg"
   },
   {
@@ -5607,7 +5607,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 (vuông nền xanh, hình ô tô màu trắng) là biển chỉ dẫn \"Đường dành cho xe ô tô\". Biển 2 có gạch chéo đỏ là biển hết đoạn đường dành cho ô tô.",
     "image": "images/428.jpg"
   },
   {
@@ -5619,7 +5619,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 (hình ô tô có gạch chéo đỏ) là biển \"Hết đoạn đường dành cho xe ô tô\". Biển 1 là bắt đầu đường dành cho xe ô tô.",
     "image": "images/429.jpg"
   },
   {
@@ -5631,7 +5631,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 (hình ô tô và mô tô trên nền xanh) là biển \"Đường dành cho ô tô, mô tô\": các loại phương tiện khác không được đi vào. Biển 2 có gạch chéo là hết đoạn đường này.",
     "image": "images/430.jpg"
   },
   {
@@ -5644,7 +5644,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển báo hiệu cho người lái xe biết số lượng làn đường trên mặt đường và hướng đi trên mỗi làn đường phải theo.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển chia làn có mũi tên trên từng làn là biển \"Hướng đi trên mỗi làn đường theo vạch kẻ đường\": cho biết số làn đường và hướng đi bắt buộc trên mỗi làn (làn trái đi thẳng/rẽ trái, làn giữa đi thẳng, làn phải rẽ phải).",
     "image": "images/431.png"
   },
   {
@@ -5657,7 +5657,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Không biển nào.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 là biển hiệu lệnh \"Hướng đi thẳng phải theo\" (chỉ được đi thẳng); biển 2 bắt buộc chỉ được rẽ trái hoặc rẽ phải. Cả hai đều là hướng đi bắt buộc, không có biển nào cho phép tự do rẽ sang hướng khác.",
     "image": "images/432.jpg"
   },
   {
@@ -5669,7 +5669,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 (tròn nền xanh, mũi tên thẳng) là biển hiệu lệnh \"Hướng đi thẳng phải theo\". Biển 2 (hình vuông) là biển chỉ dẫn đường một chiều.",
     "image": "images/433.png"
   },
   {
@@ -5682,7 +5682,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 (hình vuông nền xanh, mũi tên trắng hướng lên) là biển chỉ dẫn \"Đường một chiều\" – chỉ cho xe đi theo chiều mũi tên. Biển 1 (hình tròn) là hướng đi thẳng phải theo.",
     "image": "images/434.png"
   },
   {
@@ -5696,7 +5696,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Biển 1.”.",
+    "explain": "Biển 1 (số 50 có vạch đen chéo, viền xanh nền trắng) là biển \"Hết tốc độ tối đa cho phép\". Biển 2 là hết mọi lệnh cấm, biển 3 (nền xanh, số 60 gạch đỏ) là hết tốc độ tối thiểu.",
     "image": "images/435.jpg"
   },
   {
@@ -5710,7 +5710,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Biển 1 và biển 2.”.",
+    "explain": "Hiệu lực biển tốc độ tối đa kết thúc khi gặp biển 1 \"Hết tốc độ tối đa cho phép\" hoặc biển 2 \"Hết tất cả các lệnh cấm\". Biển 3 là hết tốc độ tối thiểu, không liên quan đến tốc độ tối đa.",
     "image": "images/436.jpg"
   },
   {
@@ -5724,7 +5724,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Nguyên tắc tốc độ: không vượt quá tốc độ tối đa theo biển/loại đường; trong khu đông dân cư phải thận trọng, chỉ dùng còi/đèn theo khung giờ cho phép. Chọn đáp án phù hợp: “Biển 3.”.",
+    "explain": "Biển 3 (nền xanh, số 60 có gạch chéo đỏ) là biển \"Hết tốc độ tối thiểu\". Biển 1 là hết tốc độ tối đa, biển 2 là hết mọi lệnh cấm.",
     "image": "images/437.jpg"
   },
   {
@@ -5738,7 +5738,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 2 và biển 3.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Biển 2 \"Hết tất cả các lệnh cấm\" chấm dứt mọi lệnh cấm trước đó (kể cả cấm vượt); biển 3 (hình hai ô tô có vạch chéo đen) là biển \"Hết cấm vượt\". Biển 1 là hết tốc độ tối đa cho phép.",
     "image": "images/438.jpg"
   },
   {
@@ -5752,7 +5752,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Quy tắc an toàn và pháp luật cấm tuyệt đối hành vi/điều kiện nêu trong đáp án đúng: “Biển 2.”, nhằm phòng ngừa nguy hiểm và vi phạm. Các đáp án còn lại không bao trùm đầy đủ hoặc không phù hợp.",
+    "explain": "Biển 2 (vòng tròn viền xanh, chỉ có các vạch đen chéo) là biển \"Hết tất cả các lệnh cấm\". Biển 1 là hết tốc độ tối đa, biển 3 là hết tốc độ tối thiểu.",
     "image": "images/439.jpg"
   },
   {
@@ -5766,7 +5766,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Biển 3.”.",
+    "explain": "Biển 3 là biển hiệu lệnh \"Các xe chỉ được đi thẳng hoặc rẽ trái\" đặt trước ngã ba, ngã tư; theo quy chuẩn báo hiệu, ở nơi biển cho phép hướng rẽ trái như vậy thì xe được quay đầu để đi theo hướng ngược lại. Biển 1 (bắt buộc rẽ trái) và biển 2 (chỉ được rẽ trái hoặc rẽ phải) không phải đáp án đúng theo quy chuẩn.",
     "image": "images/440.jpg"
   },
   {
@@ -5780,7 +5780,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 là biển hiệu lệnh \"Hướng phải đi vòng sang trái\" (chỉ được rẽ trái) nên không được rẽ phải. Biển 2 cho phép rẽ trái hoặc phải, biển 3 cho phép đi thẳng hoặc rẽ phải.",
     "image": "images/441.jpg"
   },
   {
@@ -5794,7 +5794,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1 và biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 (chỉ được rẽ trái) và biển 2 (chỉ được rẽ trái hoặc rẽ phải) đều không có hướng đi thẳng, nên xe không được đi thẳng mà phải rẽ. Biển 3 cho phép đi thẳng hoặc rẽ phải.",
     "image": "images/442.jpg"
   },
   {
@@ -5807,7 +5807,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Cả hai biển.”.",
+    "explain": "Cả hai biển nền xanh hình vuông có mũi tên quay ngược đều là biển chỉ dẫn cho phép quay đầu xe (biển 1 nơi quay đầu xe, biển 2 làn/vị trí quay đầu xe).",
     "image": "images/443.png"
   },
   {
@@ -5821,7 +5821,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 3 (nền xanh đậm, ghi \"AH112\") là biển chỉ dẫn tên đường trên các tuyến đường đối ngoại (đường xuyên Á). Biển 1 và 2 là biển khu vực cấm đỗ xe.",
     "image": "images/444.jpg"
   },
   {
@@ -5834,7 +5834,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển chỉ dẫn hết cấm đỗ xe theo giờ trong khu vực.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển số 1 (ZONE, biểu tượng cấm đỗ kèm 6:00–18:00 bị gạch chéo) là biển chỉ dẫn \"Hết khu vực cấm đỗ xe theo giờ\". Biển 2 là hết khu vực cấm đỗ, biển 3 là hết khu vực đỗ xe.",
     "image": "images/445.jpg"
   },
   {
@@ -5848,7 +5848,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển hạn chế tốc độ tối đa trong khu vực.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển số 3 (ZONE kèm biển tốc độ 50) là biển \"Khu vực hạn chế tốc độ tối đa\" – trong khu vực này không được chạy quá 50 km/h. Biển 1 là khu vực cấm đỗ, biển 2 là hết khu vực đỗ xe.",
     "image": "images/446.jpg"
   },
   {
@@ -5861,7 +5861,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc làn đường: đi đúng làn; chỉ chuyển sang làn liền kề ở nơi cho phép, bật tín hiệu trước khi chuyển, bảo đảm khoảng cách an toàn. Đáp án mô tả đúng nguyên tắc: “Biển 2.”.",
+    "explain": "Biển 2 (hình xe buýt cùng mũi tên chỉ làn riêng ngược chiều) là biển \"Đường phía trước có làn đường dành cho ô tô khách\". Biển 3 là rẽ ra đường có làn dành cho ô tô khách.",
     "image": "images/447.png"
   },
   {
@@ -5874,7 +5874,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Nguyên tắc làn đường: đi đúng làn; chỉ chuyển sang làn liền kề ở nơi cho phép, bật tín hiệu trước khi chuyển, bảo đảm khoảng cách an toàn. Đáp án mô tả đúng nguyên tắc: “Biển 3.”.",
+    "explain": "Biển 3 (mũi tên rẽ sang ngang kèm hình xe buýt) là biển \"Rẽ ra đường có làn đường dành cho ô tô khách\". Biển 2 là đường phía trước có làn dành cho ô tô khách.",
     "image": "images/448.png"
   },
   {
@@ -5887,7 +5887,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1 và 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 và biển 2 (đường chính với nhánh rẽ có đầu đỏ ở bên phải hoặc trái) là biển \"Lối rẽ vào đường cụt\", đặt trên đường chính trước nơi giao nhau. Biển 3 (chữ T đỏ) là biển \"Đường cụt\" đặt ngay ở đầu đường cụt.",
     "image": "images/449.png"
   },
   {
@@ -5901,7 +5901,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 (người đi bộ bước LÊN bậc thang) là biển chỉ dẫn \"Cầu vượt qua đường cho người đi bộ\". Biển 2 (bước xuống bậc) là hầm chui qua đường cho người đi bộ.",
     "image": "images/450.png"
   },
   {
@@ -5915,7 +5915,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 (người đi bộ bước XUỐNG bậc thang) là biển chỉ dẫn \"Hầm chui qua đường cho người đi bộ\". Biển 1 là cầu vượt cho người đi bộ.",
     "image": "images/451.png"
   },
   {
@@ -5928,7 +5928,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Biển 2.”.",
+    "explain": "Biển 2 (vuông nền xanh, hình người ngồi xe lăn) là biển chỉ dẫn \"Nơi đỗ xe dành cho người khuyết tật\". Biển 1 là đường dành cho xe thô sơ, biển 3 là đường dành cho người đi bộ.",
     "image": "images/452.jpg"
   },
   {
@@ -5941,7 +5941,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Đỗ từ 1/2 thân xe trở lên trên hè phố.”.",
+    "explain": "Biển \"P\" kèm hình ô tô có một nửa bánh xe nằm trên vỉa hè là biển \"Nơi đỗ xe một nửa trên hè phố\": xe phải đỗ sao cho từ 1/2 thân xe trở lên nằm trên hè phố.",
     "image": "images/453.jpg"
   },
   {
@@ -5954,7 +5954,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ). Đáp án nêu đúng cấu trúc/ý nghĩa: “Phải giảm tốc độ đến mức an toàn và không được vượt khi đi qua khu vực này.”.",
+    "explain": "Biển \"CSGT – POLICE\" là biển chỉ dẫn \"Trạm Cảnh sát giao thông\": người lái xe phải giảm tốc độ đến mức an toàn và không được vượt khi đi qua khu vực này.",
     "image": "images/454.png"
   },
   {
@@ -5966,7 +5966,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ). Đáp án nêu đúng cấu trúc/ý nghĩa: “Bắt buộc.”.",
+    "explain": "Biển tròn nền xanh có ba mũi tên chạy vòng là biển hiệu lệnh \"Nơi giao nhau chạy theo vòng xuyến\": các xe bắt buộc phải chạy vòng theo đảo an toàn theo chiều mũi tên khi chuyển hướng.",
     "image": "images/455.png"
   },
   {
@@ -5979,7 +5979,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 (ghi \"ĐỊA PHẬN HÀ NAM\" kèm lý trình) là biển chỉ dẫn địa giới hành chính giữa các tỉnh, thành phố, huyện. Biển 1 chỉ hướng đi, biển 3 chỉ dẫn địa danh.",
     "image": "images/456.jpg"
   },
   {
@@ -5993,7 +5993,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1 và biển 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 và biển 3 (nền xanh, sơ đồ nhánh rẽ vòng lên quốc lộ khác) là biển chỉ dẫn \"Cầu vượt liên thông\" – chỉ cách đi qua nút giao khác mức để chuyển sang tuyến đường khác. Biển 2 là biển hiệu lệnh hướng đi.",
     "image": "images/457.jpg"
   },
   {
@@ -6006,7 +6006,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Báo hiệu cầu vượt liên thông.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển số 1 có sơ đồ đường Quốc lộ 1 với nhánh vòng lên cầu vượt để đi về các hướng (Hà Nội, Quốc lộ 6) là biển \"Cầu vượt liên thông\".",
     "image": "images/458.jpg"
   },
   {
@@ -6019,7 +6019,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 1 và biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 1 và biển 2 (tròn nền xanh, có mũi tên đi thẳng cắt ngang qua tuyến khác) là biển \"Tuyến đường cầu vượt cắt qua\", chỉ cách rẽ trái, rẽ phải khi đường đi thẳng là cầu vượt. Biển 3 là biển cảnh báo cầu vồng.",
     "image": "images/459.jpg"
   },
   {
@@ -6033,7 +6033,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Kiến thức biển báo: Hệ thống gồm 5 nhóm (Cấm, Nguy hiểm, Hiệu lệnh, Chỉ dẫn, Biển phụ). Đáp án nêu đúng cấu trúc/ý nghĩa: “Chỉ dẫn khoảng cách đến làn đường cứu nạn (làn thoát xe khẩn cấp).”.",
+    "explain": "Biển nền xanh có hình làn rẽ ra kèm cột rào sọc đỏ trắng và \"300 m\" là biển \"Làn đường cứu nạn (làn thoát xe khẩn cấp)\": chỉ dẫn còn 300 m nữa đến làn thoát hiểm dành cho xe mất phanh.",
     "image": "images/460.jpg"
   },
   {
@@ -6045,7 +6045,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Nguyên tắc làn đường: đi đúng làn; chỉ chuyển sang làn liền kề ở nơi cho phép, bật tín hiệu trước khi chuyển, bảo đảm khoảng cách an toàn. Đáp án mô tả đúng nguyên tắc: “Được phép chuyển sang làn khác.”.",
+    "explain": "Biển \"Làn đường dành riêng cho từng loại xe\" quy định loại xe đi trên từng làn, nhưng khi đến gần nơi đường bộ giao nhau, xe được phép chuyển sang làn khác để đi theo hành trình mong muốn (rẽ trái, rẽ phải...).",
     "image": "images/461.jpg"
   },
   {
@@ -6057,7 +6057,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Có.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển hình ô tô nhìn từ phía trước là biển \"Đường dành cho xe ô tô\" – dành cho mọi loại ô tô, nên xe tải và xe khách đều được đi vào.",
     "image": "images/462.png"
   },
   {
@@ -6069,7 +6069,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Không.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển hình ô tô con nhìn ngang là biển \"Đường dành cho xe ô tô con\" – chỉ dành riêng cho xe con, nên xe tải và xe khách không được đi vào.",
     "image": "images/463.png"
   },
   {
@@ -6082,7 +6082,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Biển 2.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Biển 2 (nền xanh lá, tên và ký hiệu cao tốc CT.01 kèm dòng \"KẾT THÚC – END\") là biển \"Kết thúc đường cao tốc\". Biển 1 là hết đường ưu tiên, biển 3 là hết đường dành cho ô tô.",
     "image": "images/464.jpg"
   },
   {
@@ -6095,7 +6095,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Chỉ dẫn vị trí nhập làn xe cách 250 m.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển \"NHẬP LÀN – MERGE LANE\" có hình làn nhập kèm \"250 m\" là biển chỉ dẫn vị trí nhập làn xe ở phía trước cách 250 m.",
     "image": "images/465.jpg"
   },
   {
@@ -6108,7 +6108,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả hai biển.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Cả hai biển đều là biển chỉ dẫn nhập làn xe: biển 1 đặt tại vị trí nhập làn, biển 2 có thêm khoảng cách 250 m đến vị trí nhập làn.",
     "image": "images/466.png"
   },
   {
@@ -6122,7 +6122,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Ý 1 và ý 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển nền xanh lá ghi tên, ký hiệu đường cao tốc (CT.01 TP.HCM – Trung Lương) cùng tốc độ tối đa 100 và tối thiểu 60 là biển \"Bắt đầu đường cao tốc\", đồng thời cho biết tên, ký hiệu và giới hạn tốc độ của cao tốc. Vì vậy chọn ý 1 và ý 3.",
     "image": "images/467.jpg"
   },
   {
@@ -6135,7 +6135,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xăng dầu, ăn uống, thông tin, sửa chữa xe.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Các biểu tượng trên biển trạm dừng nghỉ lần lượt là: cây xăng (xăng dầu), dao nĩa (ăn uống), chữ \"i\" (thông tin) và cờ lê (sửa chữa xe).",
     "image": "images/468.jpg"
   },
   {
@@ -6148,7 +6148,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Chỉ dẫn khoảng cách đến trạm kiểm tra tải trọng xe cách 750 m.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển \"TRẠM KTTT – WEIGH STATION 750 m\" là biển chỉ dẫn khoảng cách đến trạm kiểm tra tải trọng xe ở phía trước, cách 750 m.",
     "image": "images/469.jpg"
   },
   {
@@ -6161,7 +6161,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Biển 1.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Biển 1 có các vạch chéo hướng xuống về phía bên trái, chỉ hướng cho xe đi về bên trái để tránh chướng ngại vật. Biển 3 chỉ đi về bên phải, biển 2 (hình mũi tên ^) cho đi cả hai bên.",
     "image": "images/470.jpg"
   },
   {
@@ -6174,7 +6174,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Biển 3.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Biển 3 có các vạch chéo hướng xuống về phía bên phải, chỉ hướng cho xe đi về bên phải để tránh chướng ngại vật. Biển 1 chỉ đi về bên trái, biển 2 cho đi cả hai bên.",
     "image": "images/471.jpg"
   },
   {
@@ -6187,7 +6187,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Biển 2.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Biển 2 có các vạch hình chữ V ngược (mũi tên hướng lên) chỉ dẫn xe được đi về cả hai phía trái hoặc phải để tránh chướng ngại vật.",
     "image": "images/472.jpg"
   },
   {
@@ -6201,7 +6201,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Biển 1 và biển 3.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Biển 1 và biển 3 (nền vàng, mũi tên đen hình chữ V chỉ sang phải hoặc trái) là biển \"Chỉ hướng rẽ\" đặt ở đường cong nguy hiểm, nhắc người lái chuẩn bị đổi hướng. Biển 2 là biển chỉ hướng tránh chướng ngại vật.",
     "image": "images/473.jpg"
   },
   {
@@ -6213,7 +6213,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Biển 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển 2 có các vạch hình chữ V ngược chỉ dẫn xe được đi cả hai hướng tránh chướng ngại vật. Biển 1 (mũi tên đen chỉ sang phải) là biển chỉ hướng rẽ ở đường cong.",
     "image": "images/474.png"
   },
   {
@@ -6225,7 +6225,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Chỉ dẫn hướng rẽ để nhắc người điều khiển phương tiện chuẩn bị đổi hướng đi khi sắp vào đường cong nguy hiểm, có bán kính cong nhỏ.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển nền vàng có mũi tên đen hình chữ V là biển \"Chỉ hướng rẽ\": nhắc người lái chuẩn bị đổi hướng khi sắp vào đường cong nguy hiểm có bán kính nhỏ.",
     "image": "images/475.png"
   },
   {
@@ -6239,7 +6239,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Vạch 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Vạch 3 có mũi tên đi thẳng kèm nhánh rẽ phải nên chỉ cho phép đi thẳng và rẽ phải. Vạch 2 cho đi thẳng và rẽ trái, vạch 1 là mũi tên chỉ hướng chuyển làn.",
     "image": "images/476.png"
   },
   {
@@ -6253,7 +6253,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Vạch 1 và vạch 2.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Vạch 1 (nét đứt màu trắng) và vạch 2 (nét liền màu trắng) là vạch phân chia các làn xe cùng chiều. Vạch 3 (vạch vàng kép) là vạch phân chia hai chiều xe chạy.",
     "image": "images/477.png"
   },
   {
@@ -6267,7 +6267,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Vạch 2.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Vạch 2 là vạch đơn màu vàng nét liền – vạch phân chia hai chiều xe chạy (tim đường), xe không được lấn làn và không được đè lên vạch. Vạch 1 (trắng nét đứt) và vạch 3 (trắng nét liền) là vạch phân chia làn cùng chiều.",
     "image": "images/478.png"
   },
   {
@@ -6281,7 +6281,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Vạch 1 và vạch 3.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Vạch tim đường phân chia hai chiều xe chạy có màu vàng: vạch 1 (vàng nét đứt – được cắt qua khi cần) và vạch 3 (vàng nét liền – không được đè vạch). Vạch 2 màu trắng là vạch phân làn cùng chiều.",
     "image": "images/479.png"
   },
   {
@@ -6293,7 +6293,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Phân chia hai chiều xe chạy ngược chiều nhau.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Các vạch màu vàng (nét đứt, nét liền, kết hợp) là vạch tim đường, dùng để phân chia hai chiều xe chạy ngược chiều nhau.",
     "image": "images/480.png"
   },
   {
@@ -6305,7 +6305,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Phân chia các làn xe chạy cùng chiều nhau.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Các vạch màu trắng (nét đứt hoặc nét liền) dùng để phân chia các làn xe chạy cùng chiều nhau.",
     "image": "images/481.png"
   },
   {
@@ -6319,7 +6319,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Vạch 1 và vạch 3.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Vạch nét đứt cho phép xe cắt qua, đè lên vạch khi cần chuyển làn: vạch 1 (vàng nét đứt) và vạch 3 (trắng nét đứt). Vạch 2 là vạch liền, xe không được đè lên.",
     "image": "images/482.png"
   },
   {
@@ -6332,7 +6332,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Dùng để xác định khoảng cách giữa các phương tiện trên đường.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Vạch hình chữ V (>>) kẻ cách đều trên mặt đường là vạch xác định khoảng cách xe: giúp người lái ước lượng và giữ khoảng cách an toàn với xe phía trước.",
     "image": "images/483.jpg"
   },
   {
@@ -6345,7 +6345,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Báo hiệu sắp đến chỗ có bố trí vạch đi bộ qua đường.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Vạch hình thoi kẻ trên làn đường trước vạch đi bộ là vạch báo hiệu sắp đến chỗ có bố trí vạch người đi bộ qua đường, nhắc người lái giảm tốc độ, chú ý.",
     "image": "images/484.png"
   },
   {
@@ -6358,7 +6358,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Vị trí dừng xe của các phương tiện vận tải hành khách công cộng.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Vạch zích zắc màu vàng sát lề đường là vạch xác định vị trí dừng xe của phương tiện vận tải hành khách công cộng (xe buýt); các xe khác không được dừng, đỗ tại đây.",
     "image": "images/485.jpg"
   },
   {
@@ -6371,7 +6371,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Chỉ xe con.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo tín hiệu đèn, mũi tên đi thẳng đang đỏ còn mũi tên rẽ trái, rẽ phải đang xanh. Chỉ xe con đi theo hướng có đèn xanh nên chấp hành đúng; các xe còn lại đi theo hướng đèn đỏ là vi phạm.",
     "image": "images/486.jpg"
   },
   {
@@ -6385,7 +6385,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe tải, xe mô tô, xe khách, xe con.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xe tải và xe mô tô đi trên đường ưu tiên (biển giao nhau với đường không ưu tiên) nên được đi trước, trong đó xe tải đi trước xe mô tô (rẽ trái). Xe khách và xe con ở đường không ưu tiên (biển tam giác ngược) phải nhường, đi sau; giữa hai xe này xe khách đi trước.",
     "image": "images/487.jpg"
   },
   {
@@ -6399,7 +6399,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe công an đi làm nhiệm vụ khẩn cấp, xe con, xe tải, xe khách.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xe công an đi làm nhiệm vụ khẩn cấp là xe ưu tiên nên đi đầu tiên. Tiếp theo là xe con đi trên đường ưu tiên, sau đó mới đến các xe trên đường không ưu tiên là xe tải rồi xe khách theo quy tắc nhường đường tại nơi giao nhau.",
     "image": "images/488.jpg"
   },
   {
@@ -6413,7 +6413,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe công an đi làm nhiệm vụ khẩn cấp, xe tải, xe khách, xe con.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xe công an làm nhiệm vụ khẩn cấp là xe ưu tiên nên đi trước. Sau đó xe tải trên đường ưu tiên đi trước, rồi đến xe khách; xe con ở đường không ưu tiên phải nhường đường và đi cuối cùng.",
     "image": "images/489.jpg"
   },
   {
@@ -6427,7 +6427,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe mô tô, xe con, xe tải.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Nơi giao nhau cùng cấp không có báo hiệu: xe nào bên phải không vướng xe khác thì được đi trước. Xe mô tô không bị vướng bên phải nên đi đầu, tiếp theo là xe con, cuối cùng là xe tải (vì xe tải phải nhường xe đến từ bên phải và rẽ trái).",
     "image": "images/490.jpg"
   },
   {
@@ -6439,7 +6439,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Xe con.”.",
+    "explain": "Nơi giao nhau có báo hiệu đi theo vòng xuyến thì phải nhường đường cho xe đi đến từ bên trái (khoản 3 Điều 22 Luật TTATGTĐB). Xe tải đang ở bên trái xe con nên xe con phải nhường đường.",
     "image": "images/491.jpg"
   },
   {
@@ -6451,7 +6451,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe con.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xe mô tô gặp biển STOP (\"Dừng lại\") nên phải dừng hẳn và nhường đường. Xe con không bị báo hiệu yêu cầu dừng nên được đi trước.",
     "image": "images/492.jpg"
   },
   {
@@ -6464,7 +6464,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe con (A), xe cứu thương đi làm nhiệm vụ cấp cứu, xe con (B).” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xe con A đã đi vào khu vực giao nhau nên được đi tiếp để giải phóng nút giao. Sau đó xe cứu thương đang làm nhiệm vụ cấp cứu (xe ưu tiên) được đi trước xe con B.",
     "image": "images/493.jpg"
   },
   {
@@ -6477,7 +6477,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe chữa cháy đi làm nhiệm vụ chữa cháy, xe cứu thương đi làm nhiệm vụ cấp cứu, xe con.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo khoản 2 Điều 27 Luật TTATGTĐB, thứ tự ưu tiên là: xe chữa cháy đi làm nhiệm vụ trước, rồi đến xe cứu thương làm nhiệm vụ cấp cứu; xe con không phải xe ưu tiên nên đi cuối.",
     "image": "images/494.jpg"
   },
   {
@@ -6489,7 +6489,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe cứu thương đi làm nhiệm vụ cấp cứu.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xe cứu thương đang làm nhiệm vụ cấp cứu là xe ưu tiên nên được quyền đi trước khi qua nơi giao nhau từ bất kỳ hướng nào (Điều 27 Luật TTATGTĐB), dù xe mô tô đi trên đường ưu tiên.",
     "image": "images/495.jpg"
   },
   {
@@ -6502,7 +6502,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Xe khách.”.",
+    "explain": "Xe tải và xe con (đi trên đường ưu tiên) được đi trước. Xe khách đi từ đường không ưu tiên (biển tam giác ngược – giao nhau với đường ưu tiên) nên phải nhường đường và đi cuối cùng.",
     "image": "images/496.jpg"
   },
   {
@@ -6514,7 +6514,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Xe con.”.",
+    "explain": "Xe con đi từ hướng có biển \"Giao nhau với đường ưu tiên\" (tam giác ngược) nên phải nhường đường cho xe tải đang đi trên đường ưu tiên.",
     "image": "images/497.jpg"
   },
   {
@@ -6526,7 +6526,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe chữa cháy đi làm nhiệm vụ chữa cháy.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo khoản 2 Điều 27 Luật TTATGTĐB, xe chữa cháy đi làm nhiệm vụ có thứ tự ưu tiên cao nhất, đứng trước xe công an đi làm nhiệm vụ khẩn cấp, nên được đi trước.",
     "image": "images/498.jpg"
   },
   {
@@ -6538,7 +6538,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Thứ tự chấp hành: hiệu lệnh người điều khiển giao thông > tín hiệu đèn > biển báo/vạch. Với tín hiệu vàng: dừng trước vạch, trừ khi đã qua vạch; vàng nhấp nháy thì giảm tốc, quan sát. Đáp án: “Xe con và xe khách.”.",
+    "explain": "Đèn tín hiệu phía xe con và xe khách đang bật màu xanh nên hai xe được đi. Đèn phía xe mô tô màu đỏ nên xe mô tô phải dừng lại.",
     "image": "images/499.jpg"
   },
   {
@@ -6551,7 +6551,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Thứ tự chấp hành: hiệu lệnh người điều khiển giao thông > tín hiệu đèn > biển báo/vạch. Với tín hiệu vàng: dừng trước vạch, trừ khi đã qua vạch; vàng nhấp nháy thì giảm tốc, quan sát. Đáp án: “Xe con, xe tải.”.",
+    "explain": "Đèn phía xe con, xe tải có mũi tên đi thẳng và rẽ phải màu xanh nên xe con, xe tải đi theo hai hướng này là đúng. Xe khách và xe mô tô đi theo hướng có đèn đỏ là vi phạm.",
     "image": "images/500.jpg"
   },
   {
@@ -6563,7 +6563,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe quân sự đi làm nhiệm vụ khẩn cấp.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xe quân sự và xe công an làm nhiệm vụ khẩn cấp có cùng thứ tự ưu tiên (điểm b khoản 2 Điều 27) và đều đi trên đường ưu tiên, nên áp dụng quy tắc nhường đường thông thường: xe công an rẽ trái phải nhường xe quân sự đi thẳng.",
     "image": "images/501.jpg"
   },
   {
@@ -6577,7 +6577,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Thứ tự chấp hành: hiệu lệnh người điều khiển giao thông > tín hiệu đèn > biển báo/vạch. Với tín hiệu vàng: dừng trước vạch, trừ khi đã qua vạch; vàng nhấp nháy thì giảm tốc, quan sát. Đáp án: “Chỉ hướng 1.”.",
+    "explain": "Đèn tròn màu đỏ nhưng có đèn mũi tên xanh chỉ sang phải, nên xe tải chỉ được rẽ phải theo hướng 1; các hướng còn lại phải dừng chờ.",
     "image": "images/502.jpg"
   },
   {
@@ -6590,7 +6590,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe khách, xe tải, xe mô tô.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo tín hiệu đèn, hướng đi thẳng đang đỏ. Xe khách, xe tải đi thẳng và xe mô tô đi theo hướng có đèn đỏ là vi phạm; chỉ xe con đi theo mũi tên xanh là đúng.",
     "image": "images/503.jpg"
   },
   {
@@ -6604,7 +6604,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe mô tô, xe tải, xe khách, xe con.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Nơi giao nhau theo vòng xuyến không có biển báo đi theo vòng xuyến thì phải nhường đường cho xe đến từ bên phải. Áp dụng quy tắc này, thứ tự đúng là xe mô tô, xe tải, xe khách và cuối cùng là xe con.",
     "image": "images/504.jpg"
   },
   {
@@ -6618,7 +6618,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe tải.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển \"Cấm dừng xe và đỗ xe\" có biển phụ hình xe tải nên lệnh cấm chỉ áp dụng cho xe tải. Vì vậy chỉ xe tải đỗ là vi phạm, xe con và mô tô không vi phạm.",
     "image": "images/505.jpg"
   },
   {
@@ -6631,7 +6631,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe con (B).” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xe con B đi trên đường ưu tiên (có biển giao nhau với đường không ưu tiên) nên được đi trước. Xe con A và xe tải đi từ đường không ưu tiên (biển tam giác ngược) phải nhường đường.",
     "image": "images/506.jpg"
   },
   {
@@ -6644,7 +6644,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "💡 Cần phân biệt rõ: - Biển ở hướng 2 là biển CẤM MÔ TÔ (xe ≥ 50 phân khối). Biển này KHÔNG cấm xe gắn máy (xe < 50 phân khối). - Biển ở hướng 3 là biển CẤM Ô TÔ. Cũng KHÔNG cấm xe gắn máy. Đề bài đang hỏi xe của người lái là \"xe gắn máy\" (xe nhỏ dưới 50cc). Do đó, xe gắn máy không bị cấm ở hướng nào cả và được phép đi CẢ 3 HƯỚNG. (Mẹo dễ nhớ: Hỏi Mô tô -> Chọn 2 hướng. Hỏi Gắn máy -> Chọn 3 hướng).",
+    "explain": "Biển ở hướng 3 cấm xe ô tô, biển ở hướng 2 cấm xe mô tô – cả hai biển đều không cấm xe gắn máy. Hướng 1 không có biển cấm. Vì vậy xe gắn máy được đi cả ba hướng.",
     "image": "images/507.jpg"
   },
   {
@@ -6658,7 +6658,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả hai xe.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xe mô tô đỗ trong phạm vi hiệu lực của biển \"Cấm đỗ xe\"; xe tải đỗ ngay tại nơi đường giao nhau (trong phạm vi 5 m từ mép đường giao nhau), vi phạm khoản 4 Điều 18 Luật TTATGTĐB. Vì vậy cả hai xe đều vi phạm.",
     "image": "images/508.jpg"
   },
   {
@@ -6672,7 +6672,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả ba xe.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Cả ba xe đều đỗ trên hoặc sát phần đường dành cho người đi bộ qua đường, trong phạm vi nơi đường giao nhau – đây là các vị trí cấm dừng, đỗ theo khoản 4 Điều 18 Luật TTATGTĐB.",
     "image": "images/509.jpg"
   },
   {
@@ -6684,7 +6684,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Không đúng.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo khoản 1 Điều 29 Luật TTATGTĐB, ô tô chỉ được kéo một ô tô hoặc xe máy chuyên dùng khác khi xe đó không tự chạy được; dùng xe tải kéo xe mô tô ba bánh là sai quy định, hơn nữa tại đây còn có biển cấm ô tô kéo moóc.",
     "image": "images/510.jpg"
   },
   {
@@ -6696,7 +6696,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Chỉ hướng 1.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Hướng 1 có biển \"Cấm đi ngược chiều\" nên xe không được đi vào. Các hướng còn lại không bị cấm.",
     "image": "images/511.jpg"
   },
   {
@@ -6710,7 +6710,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Hướng 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển đặt tại đây là biển cấm rẽ trái nên xe ô tô không được đi hướng 3 (rẽ trái). Theo quy chuẩn hiện hành biển cấm rẽ trái không cấm quay đầu, nên các hướng 1, 2, 4 vẫn được đi.",
     "image": "images/512.jpg"
   },
   {
@@ -6723,7 +6723,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Cả hai xe đều đúng.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển \"Cấm ô tô tải vượt\" chỉ cấm xe tải vượt; xe con và xe khách không bị cấm nên đều được vượt xe tải. Vì vậy cả hai xe vượt đúng.",
     "image": "images/513.jpg"
   },
   {
@@ -6736,7 +6736,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Hướng 2 và 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển hiệu lệnh đặt trước ngã tư chỉ cho phép đi thẳng hoặc rẽ trái, nên xe chỉ được đi hướng 2 (thẳng) và hướng 3 (rẽ trái), không được rẽ phải (hướng 1).",
     "image": "images/514.jpg"
   },
   {
@@ -6748,7 +6748,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Vi phạm.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khoản 3 Điều 29 Luật TTATGTĐB: xe kéo rơ moóc, ô tô đầu kéo kéo sơ mi rơ moóc không được kéo thêm rơ moóc, sơ mi rơ moóc hoặc xe khác. Đoàn xe kéo nối nhau như hình là vi phạm.",
     "image": "images/515.jpg"
   },
   {
@@ -6760,7 +6760,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Xe khách.”.",
+    "explain": "Xe khách gặp biển \"Nhường đường cho xe cơ giới đi ngược chiều\" (mũi tên đen lớn hơn hướng xuống, mũi tên đỏ hướng lên) nên phải nhường đường cho xe tải đi ngược chiều qua cầu hẹp.",
     "image": "images/516.jpg"
   },
   {
@@ -6772,7 +6772,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe mô tô.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Đèn tín hiệu phía xe mô tô màu xanh nên mô tô được đi; đèn phía xe con màu đỏ nên xe con phải dừng. Vì vậy xe mô tô được quyền đi trước.",
     "image": "images/517.jpg"
   },
   {
@@ -6784,7 +6784,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Không đúng.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khoản 3 Điều 29 Luật TTATGTĐB cấm xe ô tô đầu kéo kéo sơ mi rơ moóc kéo thêm xe khác. Đầu kéo container kéo thêm một xe tải phía sau như hình là sai quy định.",
     "image": "images/518.jpg"
   },
   {
@@ -6798,7 +6798,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Hướng 1, 3 và 4.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Hướng 2 có biển cấm xe ô tô nên ô tô con không được đi. Biển hiệu lệnh có biển phụ hình xe tải chỉ áp dụng cho xe tải, nên ô tô con được đi các hướng 1, 3 và 4.",
     "image": "images/519.jpg"
   },
   {
@@ -6812,7 +6812,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe mô tô + xe đạp, xe con (A), xe con (B).” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Nơi giao nhau không có báo hiệu thì xe nào bên phải không vướng xe khác được đi trước (khoản 2 Điều 22 Luật TTATGTĐB). Xe mô tô và xe đạp không vướng bên phải nên đi trước, tiếp theo là xe con A; xe con B rẽ trái phải nhường nên đi cuối cùng.",
     "image": "images/520.jpg"
   },
   {
@@ -6826,7 +6826,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Chỉ hướng 1.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển hiệu lệnh \"Hướng đi phải theo – rẽ phải\" có biển phụ hình xe tải, nên xe tải bắt buộc chỉ được rẽ phải theo hướng 1; các hướng 2, 3, 4 xe tải không được đi.",
     "image": "images/521.jpg"
   },
   {
@@ -6838,7 +6838,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Hướng 2 và 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển \"Cấm rẽ phải\" kèm biển phụ chỉ áp dụng cho xe tải, nên xe tải không được rẽ phải theo hướng 1 mà chỉ được đi hướng 2 và hướng 3.",
     "image": "images/522.jpg"
   },
   {
@@ -6852,7 +6852,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Hướng 1 và 5.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển \"Cấm xe ô tô\" đặt phía bên kia nơi giao nhau có hiệu lực với đoạn đường phía sau biển (các hướng 2, 3, 4), ô tô tải không được đi vào. Xe tải chỉ được rẽ phải theo hướng 1 hoặc quay đầu theo hướng 5.",
     "image": "images/523.jpg"
   },
   {
@@ -6866,7 +6866,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Trừ hướng 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Ở hướng 2 có biển \"Cấm ô tô tải\" nên xe tải không được đi hướng này; các hướng còn lại không có biển cấm nên xe tải được đi.",
     "image": "images/524.jpg"
   },
   {
@@ -6878,7 +6878,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe mô tô.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xe mô tô đi trên đường ưu tiên (biển hình thoi vàng), xe con đi từ đường không ưu tiên (biển tam giác ngược) nên xe con phải nhường, xe mô tô được đi trước.",
     "image": "images/525.jpg"
   },
   {
@@ -6890,7 +6890,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Vi phạm.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển hiệu lệnh \"Hướng đi thẳng phải theo\" chỉ cho phép đi thẳng. Xe con quay đầu theo mũi tên là không chấp hành biển hiệu lệnh, nên vi phạm.",
     "image": "images/526.jpg"
   },
   {
@@ -6904,7 +6904,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe con.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xe con quay đầu cắt qua vạch vàng liền tim đường – vạch không được phép đè lên hay vượt qua – nên vi phạm. Xe khách và xe mô tô đi tránh chướng ngại vật đúng phần đường cho phép.",
     "image": "images/527.jpg"
   },
   {
@@ -6917,7 +6917,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Tất cả các xe phải dừng lại trước ngã tư, trừ những xe đã ở trong ngã tư được phép tiếp tục đi.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "CSGT giơ tay phải thẳng đứng nghĩa là người tham gia giao thông ở tất cả các hướng phải dừng lại (điểm a khoản 3 Điều 11 Luật TTATGTĐB); xe đã ở trong ngã tư được đi tiếp để giải phóng nút giao.",
     "image": "images/528.jpg"
   },
   {
@@ -6931,7 +6931,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe mô tô, xe tải.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "CSGT dang ngang hai tay: người ở phía trước và phía sau phải dừng, người ở bên trái và bên phải được đi (điểm b khoản 3 Điều 11). Xe mô tô và xe tải đứng ở hai bên tay CSGT nên được đi, xe con ở phía trước/sau phải dừng.",
     "image": "images/529.jpg"
   },
   {
@@ -6943,7 +6943,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Quy tắc vượt xe: chỉ vượt khi đủ điều kiện an toàn, có tín hiệu, giữ khoảng cách, không vượt ở cầu hẹp/đường cong/tầm nhìn hạn chế/giao cắt. Đáp án đúng mô tả đúng trình tự/tình huống an toàn: “Đúng.”.",
+    "explain": "Xe tải phía trước đang rẽ trái nên theo khoản 2 Điều 14 Luật TTATGTĐB xe con được phép vượt về bên phải. Vì vậy xe con vượt như hình là đúng.",
     "image": "images/530.jpg"
   },
   {
@@ -6956,7 +6956,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe con.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xe con vượt khi phía trước không có xe ngược chiều và đường cho phép nên đúng. Xe tải vượt khi đang có xe đi ngược chiều tới trong đoạn đường định vượt, không bảo đảm điều kiện tại khoản 3 Điều 14 nên vi phạm.",
     "image": "images/531.jpg"
   },
   {
@@ -6969,7 +6969,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe tải.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xe tải quay đầu tại nơi có biển \"Cấm quay đầu xe\" nên vi phạm. Xe chữa cháy đang làm nhiệm vụ là xe ưu tiên, được đi vào đường ngược chiều (khoản 4 Điều 27) nên không vi phạm.",
     "image": "images/532.jpg"
   },
   {
@@ -6982,7 +6982,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe tải, xe khách, xe con.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xe tải và xe khách đi trên đường ưu tiên (biển giao nhau với đường không ưu tiên) nên đi trước; xe tải không vướng xe nào nên đi đầu, xe khách rẽ trái đi sau. Xe con đi từ đường không ưu tiên nên đi cuối cùng.",
     "image": "images/533.jpg"
   },
   {
@@ -6995,7 +6995,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe khách và xe tải, xe con.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xe khách và xe tải cùng đi trên đường ưu tiên và hướng đi không cắt nhau nên được đi cùng lúc, trước tiên. Xe con ở đường không ưu tiên phải nhường nên đi sau.",
     "image": "images/534.jpg"
   },
   {
@@ -7008,7 +7008,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Trừ hướng 4.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Hướng 4 có biển \"Cấm đi ngược chiều\" nên xe tải không được đi vào; các hướng còn lại không bị cấm.",
     "image": "images/535.jpg"
   },
   {
@@ -7022,7 +7022,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe công an đi làm nhiệm vụ khẩn cấp, xe con, xe tải, xe khách.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xe công an làm nhiệm vụ khẩn cấp là xe ưu tiên nên đi đầu. Sau đó đến xe con trên đường ưu tiên, rồi xe tải; xe khách vừa ở đường không ưu tiên vừa rẽ trái nên đi cuối cùng.",
     "image": "images/536.jpg"
   },
   {
@@ -7036,7 +7036,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Hướng 1, 3 và 4.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển \"Cấm rẽ trái\" khiến xe tải không được đi hướng 2; theo quy chuẩn hiện hành biển này không cấm quay đầu nên hướng 3 vẫn được đi. Biển ở hướng 4 chỉ cấm xe mô tô nên xe tải được đi. Vậy xe tải đi được hướng 1, 3 và 4.",
     "image": "images/537.jpg"
   },
   {
@@ -7049,7 +7049,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Tất cả các loại xe trên.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Các xe đều đi theo đúng hướng mũi tên đèn xanh của cột đèn điều khiển làn mình nên tất cả đều chấp hành đúng quy tắc.",
     "image": "images/538.jpg"
   },
   {
@@ -7063,7 +7063,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Hướng 1 và 3.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Hướng 2 có biển \"Cấm xe mô tô\" nên mô tô không được đi. Hướng 3 chỉ có biển cấm ô tô, không cấm mô tô; hướng 1 không có biển cấm. Vậy mô tô đi được hướng 1 và 3.",
     "image": "images/539.jpg"
   },
   {
@@ -7076,7 +7076,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe quân sự đi làm nhiệm vụ khẩn cấp, xe công an đi làm nhiệm vụ khẩn cấp, xe con + xe mô tô.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xe quân sự và xe công an đi làm nhiệm vụ khẩn cấp cùng thứ tự ưu tiên, nên áp dụng quy tắc nhường đường: xe quân sự đi thẳng trên đường ưu tiên được đi trước, xe công an rẽ trái đi sau. Xe con và xe mô tô không ưu tiên nên đi cuối.",
     "image": "images/540.jpg"
   },
   {
@@ -7088,7 +7088,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Xe A.”.",
+    "explain": "Xe A đang xuống dốc, xe B đang lên dốc. Theo điểm b khoản 2 Điều 17 Luật TTATGTĐB, xe xuống dốc phải nhường đường cho xe lên dốc, nên xe A phải nhường.",
     "image": "images/541.jpg"
   },
   {
@@ -7100,7 +7100,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Vi phạm.”.",
+    "explain": "Xe con quay đầu ngay tại phần đường dành cho người đi bộ qua đường – vị trí cấm quay đầu theo khoản 4 Điều 15 Luật TTATGTĐB – nên vi phạm dù đèn đang xanh.",
     "image": "images/542.jpg"
   },
   {
@@ -7114,7 +7114,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe con (E), xe mô tô (C).” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển phân làn phía trên quy định loại xe được đi trên từng làn. Xe con (E) và xe mô tô (C) đi vào làn không dành cho loại xe của mình nên vi phạm khoản 4 Điều 13 Luật TTATGTĐB.",
     "image": "images/543.jpg"
   },
   {
@@ -7126,7 +7126,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Nhường xe con rẽ trái trước.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển báo phía trước cho biết đường của bạn giao với đường ưu tiên (xe con đang đi trên đường ưu tiên). Xe đi từ đường không ưu tiên phải nhường đường cho xe trên đường ưu tiên, nên phải để xe con rẽ trái đi trước.",
     "image": "images/544.jpg"
   },
   {
@@ -7140,7 +7140,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Hướng 1 và 2.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Hướng 3 có biển \"Cấm đi ngược chiều\" và hướng 4 có biển cấm rẽ, nên xe chỉ được đi theo hướng 1 và hướng 2.",
     "image": "images/545.jpg"
   },
   {
@@ -7152,7 +7152,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Xe con (B).”.",
+    "explain": "Xe con B đang chuyển làn sang làn của xe A. Theo khoản 2 Điều 13, xe chuyển làn chỉ được chuyển khi bảo đảm an toàn, tức là phải nhường đường cho xe A đang đi đúng làn.",
     "image": "images/546.jpg"
   },
   {
@@ -7165,7 +7165,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Nhường đường cho xe buýt và xe tải.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khoản 3 Điều 15 Luật TTATGTĐB: khi chuyển hướng phải nhường đường cho xe đi ngược chiều. Xe buýt và xe tải đang đi thẳng ngược chiều, nên muốn rẽ trái phải nhường cả hai xe đi qua trước.",
     "image": "images/547.jpg"
   },
   {
@@ -7179,7 +7179,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe con (E), xe mô tô (D).” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo biển phân làn phía trên, mỗi làn dành cho một loại xe nhất định. Xe con (E) đi vào làn dành cho mô tô và xe mô tô (D) đi sai làn quy định nên vi phạm.",
     "image": "images/548.jpg"
   },
   {
@@ -7191,7 +7191,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe tải.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Trước mặt xe của bạn có biển \"Giao nhau với đường ưu tiên\" (tam giác ngược) nên bạn phải nhường đường cho xe tải đang đi trên đường ưu tiên.",
     "image": "images/549.jpg"
   },
   {
@@ -7204,7 +7204,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Quay đầu theo hướng A.”.",
+    "explain": "Biển cấm rẽ trái theo quy chuẩn hiện hành không cấm quay đầu. Quay đầu theo hướng A tại vị trí trong nơi giao nhau là đúng; hướng B quay đầu trên phần đường dành cho người đi bộ qua đường là vi phạm khoản 4 Điều 15.",
     "image": "images/550.jpg"
   },
   {
@@ -7218,7 +7218,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe của bạn và xe con, xe tải.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển phía trước là \"Giao nhau với đường không ưu tiên\", tức xe của bạn và xe con đi trên đường ưu tiên nên được đi trước. Xe tải đi từ đường không ưu tiên phải nhường, đi sau cùng.",
     "image": "images/551.jpg"
   },
   {
@@ -7231,7 +7231,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Quy tắc vượt xe: chỉ vượt khi đủ điều kiện an toàn, có tín hiệu, giữ khoảng cách, không vượt ở cầu hẹp/đường cong/tầm nhìn hạn chế/giao cắt. Đáp án đúng mô tả đúng trình tự/tình huống an toàn: “Bật tín hiệu báo hiệu bằng đèn hoặc còi, khi đủ điều kiện an toàn, tăng tốc cho xe chạy vượt qua.”.",
+    "explain": "Khoản 3, 5 Điều 14 Luật TTATGTĐB: xe xin vượt phải báo hiệu bằng đèn hoặc còi, chỉ vượt khi đủ điều kiện an toàn (không có xe ngược chiều, không có chướng ngại vật) rồi mới tăng tốc vượt qua.",
     "image": "images/552.jpg"
   },
   {
@@ -7244,7 +7244,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "LƯU Ý: Rất nhiều học viên nhầm lẫn đây là Biển báo. Tuy nhiên, biển màu đen treo phía trên mỗi làn đường chính là HỆ THỐNG ĐÈN TÍN HIỆU GIAO THÔNG (nhìn kỹ sẽ thấy đèn sáng xanh/đỏ). Dựa theo tín hiệu đèn: Đèn xanh được đi, đèn đỏ phải dừng lại. Vì thế xe con và xe tải (đang gặp đèn đỏ) phải dừng lại; xe khách và mô tô (gặp đèn xanh) được đi.",
+    "explain": "Theo cột đèn của làn đang đi, hướng đi thẳng và rẽ phải đang đỏ nên xe con và xe tải phải dừng lại; xe khách rẽ trái theo mũi tên xanh và xe mô tô hướng khác được đi.",
     "image": "images/553.jpg"
   },
   {
@@ -7257,7 +7257,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe con (A), xe con (C), xe con (E), xe buýt (G).” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Các xe con (A), (C), (E) và xe buýt (G) đều đi đúng làn đường và không đè vạch liền nên chấp hành đúng. Xe con (B) và xe tải (D) đi sai làn/đè vạch phân làn nên vi phạm.",
     "image": "images/554.jpg"
   },
   {
@@ -7269,7 +7269,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Quy tắc vượt xe: chỉ vượt khi đủ điều kiện an toàn, có tín hiệu, giữ khoảng cách, không vượt ở cầu hẹp/đường cong/tầm nhìn hạn chế/giao cắt. Đáp án đúng mô tả đúng trình tự/tình huống an toàn: “Cấm vượt.”.",
+    "explain": "Phía trước là nơi đường giao nhau và có vạch liền. Theo điểm đ khoản 6 Điều 14 Luật TTATGTĐB, không được vượt xe tại nơi đường giao nhau, nên cấm vượt xe tải.",
     "image": "images/555.jpg"
   },
   {
@@ -7281,7 +7281,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Quy tắc vượt xe: chỉ vượt khi đủ điều kiện an toàn, có tín hiệu, giữ khoảng cách, không vượt ở cầu hẹp/đường cong/tầm nhìn hạn chế/giao cắt. Đáp án đúng mô tả đúng trình tự/tình huống an toàn: “Không được vượt.”.",
+    "explain": "Xe mô tô đang đi qua nơi đường giao nhau (có biển nhường đường). Điểm đ khoản 6 Điều 14 Luật TTATGTĐB cấm vượt xe tại nơi đường giao nhau, nên không được vượt.",
     "image": "images/556.jpg"
   },
   {
@@ -7295,7 +7295,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Vị trí B và C.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển phía phải là \"Cấm đỗ xe\" – chỉ cấm đỗ, vẫn được dừng – nên dừng ở vị trí B và C (bên phải theo chiều đi) là đúng. Vị trí A ở bên trái đường, trái với quy định chỉ được dừng sát mép đường bên phải (khoản 5, 6 Điều 18).",
     "image": "images/557.jpg"
   },
   {
@@ -7309,7 +7309,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Câu về vị trí/thao tác dừng, đỗ, quay đầu, lùi. Đáp án đúng nêu đúng nguyên tắc: chỉ thực hiện ở nơi cho phép, bảo đảm tầm nhìn và an toàn; cấm tại cầu, đoạn cong, giao cắt đường sắt, phần đường người đi bộ, đường một chiều... Chọn: “Không được dừng.”.",
+    "explain": "Biển phía phải là \"Cấm dừng xe và đỗ xe\" nên không được dừng ở vị trí A hay B.",
     "image": "images/558.jpg"
   },
   {
@@ -7323,7 +7323,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Thứ tự chấp hành: hiệu lệnh người điều khiển giao thông > tín hiệu đèn > biển báo/vạch. Với tín hiệu vàng: dừng trước vạch, trừ khi đã qua vạch; vàng nhấp nháy thì giảm tốc, quan sát. Đáp án: “Cả hai xe.”.",
+    "explain": "Biển hiệu lệnh \"Hướng đi thẳng phải theo\" chỉ cho phép đi thẳng, nhưng cả ô tô con và xe mô tô đều bật đèn xin rẽ, tức định chuyển hướng trái với biển hiệu lệnh, nên cả hai đều vi phạm.",
     "image": "images/559.jpg"
   },
   {
@@ -7336,7 +7336,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe tải.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo tín hiệu đèn, xe tải đi theo hướng có đèn đỏ nên vi phạm; xe con đi theo hướng có mũi tên xanh nên đúng quy tắc.",
     "image": "images/560.jpg"
   },
   {
@@ -7349,7 +7349,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe khách, xe tải.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo tín hiệu đèn, xe khách và xe tải đi theo hướng có đèn đỏ nên vi phạm; xe con đi theo hướng mũi tên xanh nên đúng.",
     "image": "images/561.jpg"
   },
   {
@@ -7363,7 +7363,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe tải, xe khách, xe mô tô.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo tín hiệu đèn, xe tải, xe khách và xe mô tô đi theo các hướng đang có đèn đỏ nên vi phạm; chỉ xe con đi theo hướng có đèn xanh là đúng.",
     "image": "images/562.jpg"
   },
   {
@@ -7377,7 +7377,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe khách, xe tải.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo tín hiệu đèn, xe khách và xe tải đi theo hướng đang có đèn đỏ nên vi phạm; xe con đi theo hướng có đèn xanh nên đúng.",
     "image": "images/563.jpg"
   },
   {
@@ -7390,7 +7390,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Quan sát phía trước, phía sau, khi đủ điều kiện an toàn, bật tín hiệu bằng đèn hoặc còi rồi cho xe chạy vượt qua.”.",
+    "explain": "Xe phía trước bị hỏng là chướng ngại vật, tim đường là vạch vàng nét đứt nên được vượt. Theo Điều 14 Luật TTATGTĐB, phải quan sát trước sau, đủ điều kiện an toàn và báo hiệu bằng đèn hoặc còi rồi mới vượt qua.",
     "image": "images/564.jpg"
   },
   {
@@ -7404,7 +7404,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe khách, xe mô tô.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo tín hiệu đèn, xe khách và xe mô tô đi theo hướng có đèn xanh nên đúng; xe tải và xe con đi theo hướng đèn đỏ nên vi phạm.",
     "image": "images/565.jpg"
   },
   {
@@ -7418,7 +7418,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe tải ( D), xe con (B).” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xe tải (D) và xe con (B) đi sai làn đường/đè lên vạch phân làn không được phép đè nên vi phạm. Các xe còn lại đi đúng làn.",
     "image": "images/566.jpg"
   },
   {
@@ -7431,7 +7431,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe mô tô, xe con, xe của bạn.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Trước mặt xe của bạn có biển \"Giao nhau với đường ưu tiên\" (tam giác ngược) nên phải nhường cho xe trên đường ưu tiên. Xe mô tô đi trước, tiếp đến xe con, xe của bạn đi sau cùng.",
     "image": "images/567.jpg"
   },
   {
@@ -7444,7 +7444,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe con, xe của bạn, xe mô tô.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Nơi giao nhau không có báo hiệu thì phải nhường đường cho xe đến từ bên phải (khoản 2 Điều 22). Xe con ở bên phải bạn nên đi trước, sau đó đến xe của bạn, xe mô tô ở bên trái bạn đi sau cùng.",
     "image": "images/568.jpg"
   },
   {
@@ -7457,7 +7457,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe con.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Đèn tín hiệu màu đỏ đang chiếu về phía xe con nên xe con phải dừng lại. Xe của bạn rẽ phải theo hướng không bị đèn đỏ điều khiển nên không phải dừng.",
     "image": "images/569.jpg"
   },
   {
@@ -7471,7 +7471,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Đi thẳng, rẽ trái.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Mũi tên trên mặt đường ở làn của bạn chỉ đi thẳng và rẽ trái, nên xe của bạn chỉ được đi thẳng hoặc rẽ trái.",
     "image": "images/570.jpg"
   },
   {
@@ -7484,7 +7484,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Dừng lại trước vạch dừng và đi thẳng hoặc rẽ trái khi đèn xanh.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xe của bạn đang ở làn có mũi tên đi thẳng và rẽ trái, đèn đang đỏ nên phải dừng trước vạch dừng; khi đèn xanh chỉ được đi thẳng hoặc rẽ trái. Không được chuyển sang làn rẽ phải qua vạch liền.",
     "image": "images/571.jpg"
   },
   {
@@ -7497,7 +7497,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Giảm tốc độ, rẽ phải sau xe tải và xe đạp.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khi rẽ phải phải nhường đường cho xe đạp đang đi thẳng ở làn bên phải và xe tải đang đi qua (khoản 3 Điều 15). Vì vậy phải giảm tốc độ, rẽ phải sau xe tải và xe đạp.",
     "image": "images/572.jpg"
   },
   {
@@ -7510,7 +7510,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Giảm tốc độ, để người đi bộ qua đường và rẽ phải sau xe con màu xanh.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khi rẽ phải phải nhường người đi bộ đang qua đường (khoản 3 Điều 15), đồng thời giữ khoảng cách và đi sau xe con màu xanh đang rẽ phía trước. Vì vậy phải giảm tốc, để người đi bộ qua rồi rẽ sau xe xanh.",
     "image": "images/573.jpg"
   },
   {
@@ -7523,7 +7523,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Nhường đường cho xe đạp và xe khách.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Hướng của bạn có biển STOP nên phải dừng lại và nhường đường cho các xe đang đi trên đường giao nhau, gồm cả xe đạp và xe khách.",
     "image": "images/574.jpg"
   },
   {
@@ -7536,7 +7536,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Xe tải.”.",
+    "explain": "Bạn đi trên đường ưu tiên (biển giao nhau với đường không ưu tiên), xe tải đi từ đường có biển tam giác ngược (giao nhau với đường ưu tiên) nên xe tải phải nhường đường.",
     "image": "images/575.jpg"
   },
   {
@@ -7548,7 +7548,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Xe của bạn.”.",
+    "explain": "Phía làn của bạn có xe đang đỗ chắn đường (chướng ngại vật). Theo điểm c khoản 2 Điều 17 Luật TTATGTĐB, xe có chướng ngại vật phía trước phải nhường đường cho xe không có chướng ngại vật, nên xe của bạn phải nhường xe đi ngược chiều.",
     "image": "images/576.jpg"
   },
   {
@@ -7560,7 +7560,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Không được vượt những người đi xe đạp.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Gặp đoàn người đi xe đạp có tổ chức, người lái xe phải giảm tốc độ, đi phía sau và không được vượt để bảo đảm an toàn cho đoàn người.",
     "image": "images/577.jpg"
   },
   {
@@ -7574,7 +7574,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Nguyên tắc làn đường: đi đúng làn; chỉ chuyển sang làn liền kề ở nơi cho phép, bật tín hiệu trước khi chuyển, bảo đảm khoảng cách an toàn. Đáp án mô tả đúng nguyên tắc: “Ý 1 và ý 2.”.",
+    "explain": "Phía trước có xe đang lùi vào chỗ đỗ, xe con đang sang làn trái: nếu phía sau không có xe xin vượt thì có thể chuyển sang làn trái; nếu có xe xin vượt thì giảm tốc, ở lại làn và dừng khi cần. Vì vậy chọn ý 1 và ý 2.",
     "image": "images/578.jpg"
   },
   {
@@ -7587,7 +7587,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Giảm tốc độ, dừng lại nhường đường.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xe phía trước đang lùi ra khỏi chỗ đỗ, tầm nhìn của họ bị hạn chế. Cách an toàn là giảm tốc độ, dừng lại nhường đường, không lấn sang trái hay bấm còi để đi tiếp.",
     "image": "images/579.jpg"
   },
   {
@@ -7600,7 +7600,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Quy tắc vượt xe: chỉ vượt khi đủ điều kiện an toàn, có tín hiệu, giữ khoảng cách, không vượt ở cầu hẹp/đường cong/tầm nhìn hạn chế/giao cắt. Đáp án đúng mô tả đúng trình tự/tình huống an toàn: “Phanh xe giảm tốc độ và đi sát lề đường bên phải.”.",
+    "explain": "Xe màu xanh đang vượt và chiếm phần đường của bạn. Để tránh va chạm, phải phanh giảm tốc độ và đi sát lề đường bên phải, tạo khoảng trống cho xe kia trở về làn.",
     "image": "images/580.jpg"
   },
   {
@@ -7613,7 +7613,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc làn đường: đi đúng làn; chỉ chuyển sang làn liền kề ở nơi cho phép, bật tín hiệu trước khi chuyển, bảo đảm khoảng cách an toàn. Đáp án mô tả đúng nguyên tắc: “Phanh xe giảm tốc độ chờ xe tải phía trước chuyển làn đường.”.",
+    "explain": "Xe tải phía trước đã có tín hiệu xin chuyển làn, bạn nên giảm tốc độ chờ xe tải chuyển làn xong, không vượt lên hay bấm còi giành đường.",
     "image": "images/581.jpg"
   },
   {
@@ -7626,7 +7626,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Giảm tốc độ và đi thẳng qua ngã tư.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển tam giác ngược yêu cầu nhường đường cho xe trên đường ưu tiên chứ không bắt buộc dừng. Khi quan sát không có xe trên đường ưu tiên, bạn chỉ cần giảm tốc độ rồi đi thẳng qua ngã tư.",
     "image": "images/582.jpg"
   },
   {
@@ -7639,7 +7639,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe đạp, xe mô tô, xe của bạn.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Nơi giao nhau không có báo hiệu: xe đạp không vướng xe nào nên đi trước, tiếp đến xe mô tô; xe của bạn rẽ trái phải nhường xe đi ngược chiều và xe đến từ bên phải nên đi sau cùng.",
     "image": "images/583.jpg"
   },
   {
@@ -7653,7 +7653,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "4",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe của bạn, xe con, xe tải.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xe của bạn và xe con đi trên đường ưu tiên (biển hình thoi vàng) nên được đi trước, trong đó xe của bạn không vướng xe nào bên phải nên đi đầu, rồi đến xe con. Xe tải đi từ đường không ưu tiên nên đi sau cùng.",
     "image": "images/584.jpg"
   },
   {
@@ -7665,7 +7665,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Xe của bạn.”.",
+    "explain": "Trước mặt xe của bạn có biển \"Giao nhau với đường ưu tiên\" (tam giác ngược) nên bạn phải nhường đường cho xe con đang đi trên đường ưu tiên.",
     "image": "images/585.jpg"
   },
   {
@@ -7677,7 +7677,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Nguyên tắc nhường đường: ưu tiên an toàn, giữ phải, nhường cho xe ưu tiên, người đi bộ; tại chỗ hẹp thì xe gần nơi tránh hoặc theo quy tắc dốc lên/dốc xuống. Chọn đáp án: “Xe của bạn.”.",
+    "explain": "Bên phải có biển \"Nhường đường cho xe cơ giới đi ngược chiều\" (mũi tên đỏ hướng lên nhỏ hơn mũi tên đen) nên xe của bạn phải nhường cho xe con đi ngược chiều qua đoạn đường hẹp dưới cầu.",
     "image": "images/586.jpg"
   },
   {
@@ -7690,7 +7690,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Giảm tốc độ, để người đi bộ sang đường trước, sau đó cho xe đi qua vạch người đi bộ sang đường.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Theo khoản 3 Điều 12 Luật TTATGTĐB, tại vạch kẻ đường cho người đi bộ có người đang qua đường, người lái phải giảm tốc độ, để người đi bộ qua trước rồi mới cho xe đi qua.",
     "image": "images/587.jpg"
   },
   {
@@ -7702,7 +7702,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe của bạn.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Biển phía trước là \"Giao nhau với đường không ưu tiên\" nên xe của bạn đi trên đường ưu tiên; xe con đi từ đường không ưu tiên phải nhường, nên xe của bạn được đi trước.",
     "image": "images/588.jpg"
   },
   {
@@ -7715,7 +7715,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe tải, xe con, xe của bạn.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Nơi giao nhau không có báo hiệu: xe tải không vướng xe nào bên phải nên đi trước, tiếp theo là xe con; xe của bạn rẽ trái phải nhường xe ngược chiều và xe bên phải nên đi sau cùng.",
     "image": "images/589.jpg"
   },
   {
@@ -7728,7 +7728,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Giảm tốc độ cho xe đi sát phần đường bên phải.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Đây là đoạn đường cong có tầm nhìn hạn chế, theo khoản 3 Điều 12 Luật TTATGTĐB phải giảm tốc độ và cho xe đi sát phần đường bên phải, không được lấn sang trái.",
     "image": "images/590.jpg"
   },
   {
@@ -7740,7 +7740,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe tải.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Đèn xanh, xe của bạn rẽ trái còn xe tải đi thẳng ngược chiều. Khoản 3 Điều 15 Luật TTATGTĐB yêu cầu xe chuyển hướng phải nhường đường cho xe đi ngược chiều, nên xe tải được đi trước.",
     "image": "images/591.jpg"
   },
   {
@@ -7753,7 +7753,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe con.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Đèn đỏ tại đường ngang đang sáng, các xe phải dừng trước vạch dừng, cách đường ray một khoảng an toàn (Điều 24 Luật TTATGTĐB). Xe con dừng đúng vị trí; xe mô tô dừng quá sát đường ray, vượt qua vạch dừng nên sai.",
     "image": "images/592.jpg"
   },
   {
@@ -7766,7 +7766,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "3",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Xe của bạn, xe tải, xe đạp.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Nơi giao nhau không có báo hiệu: xe của bạn không vướng xe nào ở bên phải nên đi trước, tiếp đến xe tải; xe đạp đi sau cùng theo quy tắc nhường đường cho xe đến từ bên phải và xe đi thẳng trước xe rẽ.",
     "image": "images/593.jpg"
   },
   {
@@ -7779,7 +7779,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Hướng 1.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khi rẽ trái tại nơi giao nhau phải đi vòng qua tâm nút giao theo đúng phần đường của mình (hướng 1). Hướng 2 cắt góc, lấn sang phần đường của xe ngược chiều là sai và nguy hiểm.",
     "image": "images/594.jpg"
   },
   {
@@ -7792,7 +7792,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Giữ nguyên đèn chiếu gần, giảm tốc độ, đi sau xe phía trước.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khi xe ngược chiều bật đèn pha gây chói, phải giữ nguyên đèn chiếu gần, giảm tốc độ và đi sau xe phía trước. Bật đèn pha đáp trả hay tăng tốc vượt xe lúc bị lóa mắt đều rất nguy hiểm.",
     "image": "images/595.jpg"
   },
   {
@@ -7805,7 +7805,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Dừng lại trước rào chắn một khoảng cách an toàn.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Khoản 1 Điều 24 Luật TTATGTĐB: khi chắn đường bộ đang dịch chuyển hoặc đã đóng, người tham gia giao thông phải dừng lại về bên phải đường, trước vạch dừng, cách rào chắn một khoảng an toàn.",
     "image": "images/596.jpg"
   },
   {
@@ -7817,7 +7817,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Đây là câu hỏi khái niệm/định nghĩa. Đáp án đúng chính là nội dung định nghĩa chuẩn: “Sai.”. Hãy ghi nhớ từ khóa trong câu hỏi và so khớp với định nghĩa đầy đủ nhất.",
+    "explain": "Điểm a khoản 1 Điều 25 Luật TTATGTĐB: nếu có làn đường tăng tốc thì phải cho xe chạy trên làn đó để tăng tốc trước khi nhập vào làn cao tốc. Xe con màu đỏ cắt thẳng vào làn cao tốc, bỏ qua làn tăng tốc nên sai.",
     "image": "images/597.jpg"
   },
   {
@@ -7829,7 +7829,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Quy tắc vượt xe: chỉ vượt khi đủ điều kiện an toàn, có tín hiệu, giữ khoảng cách, không vượt ở cầu hẹp/đường cong/tầm nhìn hạn chế/giao cắt. Đáp án đúng mô tả đúng trình tự/tình huống an toàn: “Không được vượt.”.",
+    "explain": "Khoản 3 Điều 14 Luật TTATGTĐB: chỉ được vượt khi xe chạy trước không có tín hiệu vượt xe khác. Xe màu xanh đang vượt xe tải nên xe màu đỏ không được vượt.",
     "image": "images/598.jpg"
   },
   {
@@ -7841,7 +7841,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "1",
     "critical_question": false,
-    "explain": "Quy tắc vượt xe: chỉ vượt khi đủ điều kiện an toàn, có tín hiệu, giữ khoảng cách, không vượt ở cầu hẹp/đường cong/tầm nhìn hạn chế/giao cắt. Đáp án đúng mô tả đúng trình tự/tình huống an toàn: “Đúng.”.",
+    "explain": "Đường có vạch tim nét đứt, phía trước không có xe ngược chiều, xe vàng vượt về bên trái xe đỏ khi đủ điều kiện an toàn – đúng theo khoản 2, 3 Điều 14 Luật TTATGTĐB.",
     "image": "images/599.jpg"
   },
   {
@@ -7854,7 +7854,7 @@ window.QUESTION_BANK = [
     },
     "correct_answer": "2",
     "critical_question": false,
-    "explain": "Chọn đáp án đúng “Giảm tốc độ chờ xe container rẽ xong rồi tiếp tục đi.” vì phù hợp với quy tắc/định nghĩa chính thức của Luật GTĐB và quy chuẩn báo hiệu. Các lựa chọn khác thiếu, sai hoặc trái quy tắc.",
+    "explain": "Xe container khi rẽ phải có điểm mù lớn và phần đuôi rơ moóc quét vào bên trong vòng cua. Vượt bên phải hoặc bên trái lúc này đều rất nguy hiểm, nên phải giảm tốc độ, chờ xe container rẽ xong rồi mới đi tiếp.",
     "image": "images/600.jpg"
   }
 ];
